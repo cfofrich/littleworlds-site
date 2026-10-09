@@ -2,7 +2,8 @@
 
 The website for **Little Worlds: Stickers** (iPhone and iPad): one page plus the privacy policy. Plain static
 HTML, CSS and a little JavaScript, built from the app's own vector art, so the stickers on the page are the real ones
-and play their real reactions when tapped. No cookies, analytics, trackers or third-party requests.
+and play their real reactions when tapped. No cookies, trackers, analytics scripts or third-party requests (Cloudflare's server-side traffic counts are the
+only stats, and the privacy policy says so).
 
 ## Layout
 
