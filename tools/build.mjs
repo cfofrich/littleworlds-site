@@ -188,7 +188,14 @@ function render(file) {
     })
     .replace(/\{\{voice "([^"]+)"\}\}/g, (_, text) => voiceFile(text))
     .replace(/\{\{sfx ([\w-]+)\}\}/g, (_, name) => sfxFile(name))
-    .replace(/\{\{site (\w+)\}\}/g, (_, k) => esc(SITE[k]));
+    .replace(/\{\{site (\w+)\}\}/g, (_, k) => esc(SITE[k]))
+    // Cloudflare Web Analytics: Cloudflare can add its script by itself (automatic setup); a token in site.json
+    // adds it here instead (manual setup). Either way the CSP in _headers allows it.
+    .replace(/\{\{analytics\}\}\n?/g, () =>
+      SITE.webAnalyticsToken
+        ? `<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='${JSON.stringify({ token: SITE.webAnalyticsToken })}'></script>\n`
+        : ''
+    );
   html = html.replace(/\{\{sticker-data\}\}/g, () => (used.size ? stickerData() : ''));
   html = html.replace(/\{\{v ([^}]+)\}\}/g, (_, rel) => version(rel.trim()));
   return { html, used: [...used] };

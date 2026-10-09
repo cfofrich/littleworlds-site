@@ -2,6 +2,7 @@
   "appStore": "https://apps.apple.com/us/app/little-worlds-stickers/id6759228345",
   "campaign": "",
   "email": "littleworldsapp@proton.me",
+  "webAnalyticsToken": "",
   "worlds": {
     "halloween": { "text": "Carve pumpkins, hear the ghost say Boo, fly the witch's broom and feed the monster candy." },
     "farm": { "text": "The hen lays an egg that hatches, apples drop from the tree and the tractor drives off." },

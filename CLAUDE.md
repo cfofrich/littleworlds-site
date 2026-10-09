@@ -22,6 +22,13 @@ DNS, money. Design and build details are judgment calls. A push to `main` deploy
   `const s = [...LW.stickers][n]; const now = performance.now(); s.start = now - a * s.d.dur; s.phase = -s.start / 1000; s.frame(now)`.
   `node tools/build.mjs --lab` writes `dev/lab.html` (every sticker; served at /dev/lab.html).
 
+## Analytics
+
+Cloudflare Web Analytics is on (Chris's call, Oct 9): cookieless visit counts. It's the only outside script; the CSP
+in `src/static/_headers` allows exactly it, and the footer and privacy policy say so. Nothing else from other
+servers, no cookies, no storage. If Cloudflare's automatic setup doesn't add the script, `webAnalyticsToken` in
+`src/site.json` makes the build add it.
+
 ## Pitfalls
 
 - opentype.js `toPathData()` sometimes writes `NaN`; both tools write path commands themselves (`pathData()`).

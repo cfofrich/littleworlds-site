@@ -2,8 +2,8 @@
 
 The website for **Little Worlds: Stickers** (iPhone and iPad): one page plus the privacy policy. Plain static
 HTML, CSS and a little JavaScript, built from the app's own vector art, so the stickers on the page are the real ones
-and play their real reactions when tapped. No cookies, trackers, analytics scripts or third-party requests (Cloudflare's server-side traffic counts are the
-only stats, and the privacy policy says so).
+and play their real reactions when tapped. No cookies, ads or trackers. The one outside script is Cloudflare Web Analytics (cookieless visit counts),
+which the privacy policy names.
 
 ## Layout
 
@@ -46,13 +46,15 @@ and Halloween is the first world ("New!" in 2026); the rest of the year the hero
   Also reachable at https://littleworlds-site.cfofrich.workers.dev.
 - `public/_headers` sets a strict Content Security Policy (only the site's own files) and caching;
   `public/_redirects` sends the old privacy-policy address to `/privacy`.
-- Keep Cloudflare Web Analytics **off**, and Email Address Obfuscation off (Security settings for littleworlds.io;
-  it would inject a script).
+- Cloudflare Web Analytics is on (Chris's call, Oct 9): cookieless, no identifying. Cloudflare adds its script
+  (automatic setup), or set `webAnalyticsToken` in `src/site.json` to add it in the build. The CSP allows
+  `static.cloudflareinsights.com` and `cloudflareinsights.com`. Keep Email Address Obfuscation off (it would inject
+  another script).
 
 ## Rules
 
-- Nothing from other servers: fonts, images and sounds are all self-hosted. No cookies, no storage, no analytics.
-  The privacy policy (`src/privacy.html`) promises this.
+- Nothing from other servers except Cloudflare Web Analytics: fonts, images and sounds are all self-hosted. No cookies,
+  no storage, no trackers. The privacy policy (`src/privacy.html`) says exactly this; keep it true.
 - Apple's "Download on the App Store" badge (`public/img/app-store-badge.svg`, from Apple's marketing tools) is used
   unmodified, at least 40 px tall, with clear space, linking straight to the App Store.
 - Accessible: real text, alt text, keyboard-playable stickers (they're buttons), reduced motion respected.
