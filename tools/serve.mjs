@@ -1,4 +1,4 @@
-// Local preview: serves public/ like Cloudflare Pages does (/privacy -> privacy/index.html), plus dev/ at /dev/.
+// Local preview: serves public/ like Cloudflare does (/privacy -> privacy.html), plus dev/ at /dev/.
 // node tools/serve.mjs [port]
 import http from 'node:http';
 import fs from 'node:fs';

@@ -1,0 +1,15 @@
+// Cloudflare (Workers static assets, connected to this GitHub repo): every push to main deploys public/ as is.
+// No Worker code runs; _headers and _redirects in public/ apply. The custom domains get their DNS records and
+// HTTPS certificates from Cloudflare on deploy.
+{
+  "name": "littleworlds-site",
+  "compatibility_date": "2026-09-01",
+  "assets": {
+    "directory": "./public",
+    "not_found_handling": "404-page"
+  },
+  "routes": [
+    { "pattern": "littleworlds.io", "custom_domain": true },
+    { "pattern": "www.littleworlds.io", "custom_domain": true }
+  ]
+}

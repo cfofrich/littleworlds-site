@@ -7,7 +7,7 @@ and play their real reactions when tapped. No cookies, analytics, trackers or th
 ## Layout
 
 ```
-public/            the site, ready to serve (committed; Cloudflare Pages deploys this folder as is)
+public/            the site, ready to serve (committed; Cloudflare deploys this folder as is)
 src/               page templates, CSS, JS, hero scenes (scenes.json), copy (site.json), _headers/_redirects
 art/               art exported from the app: stickers.json, worlds.json, ui.json, audio.json (committed)
 tools/
@@ -33,17 +33,20 @@ Only `npm run build` is needed for copy or design changes. `npm run art` and `np
 
 Like the app, the site follows the calendar, but only when it's rebuilt: in **October** the hero is the Halloween night
 and Halloween is the first world ("New!" in 2026); the rest of the year the hero is the Farm and Halloween is last.
-**Rebuild and redeploy on Nov 1** (and again on Oct 1). Preview another date with
+**Rebuild and push on Nov 1** (and again on Oct 1); the push deploys it. Preview another date with
 `SITE_DATE=2026-11-02 npm run build`. Hero layouts live in `src/scenes.json` (sticker centers on the world's
 1600 x 1000 canvas).
 
-## Deploy (Cloudflare Pages)
+## Deploy (Cloudflare)
 
-- Project from the GitHub repo, framework preset **None**, build command **empty**, output directory **public**
-  (the built site is committed). Or a direct upload: `npx wrangler pages deploy public`.
-- Custom domain: `littleworlds.io` (and `www` redirecting to it), in the same Cloudflare account as the DNS.
-- Keep Cloudflare Web Analytics **off**, and turn off Scrape Shield's Email Address Obfuscation (it injects a script
-  into the page). `public/_headers` sets a strict Content Security Policy that only allows the site's own files.
+- A Cloudflare Worker named `littleworlds-site` (static assets, no code), connected to this GitHub repo: **every push
+  to `main` deploys `public/`** as is. `wrangler.jsonc` says which folder, serves `404.html` for missing pages and
+  attaches `littleworlds.io` and `www.littleworlds.io` (Cloudflare makes their DNS records and certificates).
+  Also reachable at https://littleworlds-site.cfofrich.workers.dev.
+- `public/_headers` sets a strict Content Security Policy (only the site's own files) and caching;
+  `public/_redirects` sends the old privacy-policy address to `/privacy`.
+- Keep Cloudflare Web Analytics **off**, and Email Address Obfuscation off (Security settings for littleworlds.io;
+  it would inject a script).
 
 ## Rules
 

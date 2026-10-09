@@ -1,8 +1,8 @@
 # littleworlds.io (notes for Claude)
 
 The website for the Little Worlds: Stickers app (`~/repos/little-worlds`; its `docs/website.md` is the brief and
-its CLAUDE.md explains the art). Read README.md first. Chris decides anything public: pushing, Cloudflare Pages,
-DNS, money. Design and build details are judgment calls.
+its CLAUDE.md explains the art). Read README.md first. Chris decides anything public: pushing, Cloudflare,
+DNS, money. Design and build details are judgment calls. A push to `main` deploys (see README, Deploy).
 
 ## How the stickers work
 

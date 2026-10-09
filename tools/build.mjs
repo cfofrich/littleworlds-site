@@ -229,7 +229,7 @@ copyDir(path.join(SRC, 'css'), path.join(OUT, 'css'));
 copyDir(path.join(SRC, 'js'), path.join(OUT, 'js'));
 if (fs.existsSync(path.join(SRC, 'static'))) copyDir(path.join(SRC, 'static'), OUT);
 
-// Cloudflare Pages serves privacy.html at /privacy, and 404.html for anything missing
+// Cloudflare serves privacy.html at /privacy, and 404.html for anything missing (wrangler.jsonc)
 const PAGES = { 'index.html': 'index.html', 'privacy.html': 'privacy.html', '404.html': '404.html' };
 console.log(`season: ${TODAY.toDateString()}, hero ${HERO}, Halloween ${OCTOBER ? 'first' : 'last'}${NEW_HALLOWEEN ? ' with New!' : ''}`);
 let total = 0;
