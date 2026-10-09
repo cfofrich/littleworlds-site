@@ -1,0 +1,17 @@
+{
+  "name": "littleworlds-site",
+  "private": true,
+  "description": "littleworlds.io: the website for Little Worlds: Stickers",
+  "type": "module",
+  "scripts": {
+    "art": "node tools/export-art.cjs",
+    "assets": "node tools/assets.mjs",
+    "build": "node tools/build.mjs",
+    "serve": "node tools/serve.mjs"
+  },
+  "devDependencies": {
+    "opentype.js": "^2.0.0",
+    "sharp": "^0.35.5",
+    "subset-font": "^2.9.0"
+  }
+}

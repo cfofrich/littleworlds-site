@@ -1,0 +1,233 @@
+[
+ {
+  "id": "halloween",
+  "name": "Halloween",
+  "color": "#FF8C2E",
+  "lip": "#7B52C9",
+  "night": true,
+  "preview": [
+   "halloween-ghost",
+   "halloween-jack",
+   "halloween-cat"
+  ],
+  "prizes": [
+   "halloween-wolf",
+   "halloween-coach"
+  ],
+  "tray": [
+   "halloween-pumpkin",
+   "halloween-ghost",
+   "halloween-cat",
+   "halloween-bat",
+   "halloween-witch",
+   "halloween-cauldron",
+   "halloween-skeleton",
+   "halloween-candy-bowl",
+   "halloween-monster",
+   "halloween-dino-kid",
+   "halloween-mummy",
+   "halloween-spider",
+   "halloween-owl",
+   "halloween-tree"
+  ],
+  "scenerySize": 31161
+ },
+ {
+  "id": "farm",
+  "name": "Farm",
+  "color": "#8BD46A",
+  "lip": "#4E9A3A",
+  "night": false,
+  "preview": [
+   "farm-chicken",
+   "farm-cow",
+   "farm-pig"
+  ],
+  "prizes": [
+   "farm-golden-chicken",
+   "farm-llama"
+  ],
+  "tray": [
+   "farm-cow",
+   "farm-pig",
+   "farm-chicken",
+   "farm-sheep",
+   "farm-horse",
+   "farm-goat",
+   "farm-duck",
+   "farm-dog",
+   "farm-cat",
+   "farm-bunny",
+   "farm-farmer",
+   "farm-tractor",
+   "farm-apple-tree",
+   "farm-scarecrow"
+  ],
+  "scenerySize": 6505
+ },
+ {
+  "id": "playground",
+  "name": "Playground",
+  "color": "#FFB84D",
+  "lip": "#D9822B",
+  "night": false,
+  "preview": [
+   "playground-girl",
+   "playground-slide",
+   "playground-dog"
+  ],
+  "prizes": [
+   "playground-bouncy-castle",
+   "playground-carousel"
+  ],
+  "tray": [
+   "playground-slide",
+   "playground-swing",
+   "playground-seesaw",
+   "playground-bouncy-horse",
+   "playground-boy",
+   "playground-girl",
+   "playground-dog",
+   "playground-ball",
+   "playground-kite",
+   "playground-balloon",
+   "playground-trike",
+   "playground-ice-cream-cart",
+   "playground-squirrel",
+   "playground-tree"
+  ],
+  "scenerySize": 15026
+ },
+ {
+  "id": "beach",
+  "name": "Beach",
+  "color": "#6BBFFF",
+  "lip": "#3A8FD6",
+  "night": false,
+  "preview": [
+   "beach-crab",
+   "beach-sandcastle",
+   "beach-dolphin"
+  ],
+  "prizes": [
+   "beach-whale",
+   "beach-pirate-ship"
+  ],
+  "tray": [
+   "beach-crab",
+   "beach-sandcastle",
+   "beach-bucket",
+   "beach-seagull",
+   "beach-cooler",
+   "beach-ball",
+   "beach-dolphin",
+   "beach-sailboat",
+   "beach-surfer",
+   "beach-lifeguard",
+   "beach-turtle",
+   "beach-starfish",
+   "beach-hermit-crab",
+   "beach-umbrella"
+  ],
+  "scenerySize": 6240
+ },
+ {
+  "id": "zoo",
+  "name": "Zoo",
+  "color": "#4FD1B5",
+  "lip": "#2A9C84",
+  "night": false,
+  "preview": [
+   "zoo-monkey",
+   "zoo-elephant",
+   "zoo-lion"
+  ],
+  "prizes": [
+   "zoo-tiger",
+   "zoo-polar-bear"
+  ],
+  "tray": [
+   "zoo-elephant",
+   "zoo-giraffe",
+   "zoo-monkey",
+   "zoo-penguin",
+   "zoo-lion",
+   "zoo-zebra",
+   "zoo-hippo",
+   "zoo-zookeeper",
+   "zoo-banana-tree",
+   "zoo-panda",
+   "zoo-flamingo",
+   "zoo-parrot",
+   "zoo-kangaroo",
+   "zoo-peacock"
+  ],
+  "scenerySize": 15132
+ },
+ {
+  "id": "construction",
+  "name": "Construction",
+  "color": "#FFD34D",
+  "lip": "#D9A21B",
+  "night": false,
+  "preview": [
+   "construction-cone",
+   "construction-excavator",
+   "construction-dog"
+  ],
+  "prizes": [
+   "construction-monster-truck",
+   "construction-wrecking-ball"
+  ],
+  "tray": [
+   "construction-excavator",
+   "construction-dump-truck",
+   "construction-bulldozer",
+   "construction-crane",
+   "construction-cement-mixer",
+   "construction-steamroller",
+   "construction-builder",
+   "construction-jackhammer",
+   "construction-building",
+   "construction-cone",
+   "construction-barrel",
+   "construction-crate",
+   "construction-wheelbarrow",
+   "construction-dog"
+  ],
+  "scenerySize": 11917
+ },
+ {
+  "id": "space",
+  "name": "Space",
+  "color": "#9C7CF4",
+  "lip": "#6A4FC4",
+  "night": false,
+  "preview": [
+   "space-alien",
+   "space-rocket",
+   "space-astronaut"
+  ],
+  "prizes": [
+   "space-shuttle",
+   "space-mothership"
+  ],
+  "tray": [
+   "space-rocket",
+   "space-astronaut",
+   "space-alien",
+   "space-ufo",
+   "space-earth",
+   "space-moon",
+   "space-rover",
+   "space-satellite",
+   "space-dog",
+   "space-moon-rock",
+   "space-star",
+   "space-robot",
+   "space-comet",
+   "space-alien-pet"
+  ],
+  "scenerySize": 5126
+ }
+]

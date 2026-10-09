@@ -1,0 +1,208 @@
+{
+ "halloween": {
+  "world": "halloween",
+  "base": 160,
+  "stickers": [
+   {
+    "id": "halloween-tree",
+    "x": 344,
+    "y": 471,
+    "s": 1.05
+   },
+   {
+    "id": "halloween-bat",
+    "x": 528,
+    "y": 316,
+    "s": 0.95,
+    "flip": true
+   },
+   {
+    "id": "halloween-bat",
+    "x": 1120,
+    "y": 286,
+    "s": 0.8
+   },
+   {
+    "id": "halloween-jack",
+    "x": 280,
+    "y": 677,
+    "s": 1
+   },
+   {
+    "id": "halloween-jack",
+    "x": 416,
+    "y": 680,
+    "s": 0.85
+   },
+   {
+    "id": "halloween-pumpkin",
+    "x": 544,
+    "y": 666,
+    "s": 0.9
+   },
+   {
+    "id": "halloween-cauldron",
+    "x": 704,
+    "y": 625,
+    "s": 1
+   },
+   {
+    "id": "halloween-witch",
+    "x": 648,
+    "y": 515,
+    "s": 1.05
+   },
+   {
+    "id": "halloween-ghost",
+    "x": 944,
+    "y": 441,
+    "s": 1.1
+   },
+   {
+    "id": "halloween-cat",
+    "x": 840,
+    "y": 622,
+    "s": 0.95,
+    "flip": true
+   },
+   {
+    "id": "halloween-dino-kid",
+    "x": 1064,
+    "y": 607,
+    "s": 1.1
+   },
+   {
+    "id": "halloween-candy-bowl",
+    "x": 1168,
+    "y": 658,
+    "s": 0.9
+   },
+   {
+    "id": "halloween-skeleton",
+    "x": 1288,
+    "y": 588,
+    "s": 1.1
+   },
+   {
+    "id": "halloween-mummy",
+    "x": 1432,
+    "y": 599,
+    "s": 1.1,
+    "flip": true
+   },
+   {
+    "id": "halloween-owl",
+    "x": 1448,
+    "y": 397,
+    "s": 0.9,
+    "flip": true
+   }
+  ],
+  "label": "The Halloween world. Tap a sticker to see what it does.",
+  "hint": "Go on, tap the ghost!",
+  "badge": "Halloween",
+  "props": [
+   {
+    "kind": "moon",
+    "x": 320,
+    "y": 230,
+    "w": 117
+   }
+  ]
+ },
+ "farm": {
+  "world": "farm",
+  "base": 195,
+  "label": "The Farm world. Tap a sticker to see what it does.",
+  "hint": "Go on, tap the hen!",
+  "badge": null,
+  "props": [
+   {
+    "kind": "cloud",
+    "x": 470,
+    "y": 140,
+    "w": 210
+   },
+   {
+    "kind": "cloud",
+    "x": 930,
+    "y": 95,
+    "w": 150
+   },
+   {
+    "kind": "cloud",
+    "x": 1390,
+    "y": 190,
+    "w": 180
+   }
+  ],
+  "stickers": [
+   {
+    "id": "farm-apple-tree",
+    "x": 255,
+    "y": 410,
+    "s": 1
+   },
+   {
+    "id": "farm-duck",
+    "x": 325,
+    "y": 565,
+    "s": 0.95
+   },
+   {
+    "id": "farm-horse",
+    "x": 1370,
+    "y": 545,
+    "s": 1
+   },
+   {
+    "id": "farm-farmer",
+    "x": 1150,
+    "y": 515,
+    "s": 0.95
+   },
+   {
+    "id": "farm-pig",
+    "x": 790,
+    "y": 575,
+    "s": 1
+   },
+   {
+    "id": "farm-sheep",
+    "x": 975,
+    "y": 690,
+    "s": 1
+   },
+   {
+    "id": "farm-cow",
+    "x": 575,
+    "y": 700,
+    "s": 1.05
+   },
+   {
+    "id": "farm-chicken",
+    "x": 390,
+    "y": 790,
+    "s": 1
+   },
+   {
+    "id": "farm-dog",
+    "x": 1255,
+    "y": 775,
+    "s": 1
+   },
+   {
+    "id": "farm-tractor",
+    "x": 805,
+    "y": 830,
+    "s": 1
+   },
+   {
+    "id": "farm-bunny",
+    "x": 1450,
+    "y": 820,
+    "s": 1
+   }
+  ]
+ }
+}

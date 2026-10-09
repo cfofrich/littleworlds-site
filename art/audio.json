@@ -1,0 +1,4518 @@
+{
+ "sounds": {
+  "ui-place": {
+   "file": "assets/audio/sfx/ui-place.m4a",
+   "ms": 163
+  },
+  "ui-remove": {
+   "file": "assets/audio/sfx/ui-remove.m4a",
+   "ms": 604
+  },
+  "ui-tap": {
+   "file": "assets/audio/sfx/ui-tap.m4a",
+   "ms": 465
+  },
+  "ui-success": {
+   "file": "assets/audio/sfx/ui-success.m4a",
+   "ms": 1161
+  },
+  "ui-prize": {
+   "file": "assets/audio/sfx/ui-prize.m4a",
+   "ms": 2206
+  },
+  "ui-cleanup": {
+   "file": "assets/audio/sfx/ui-cleanup.m4a",
+   "ms": 1022
+  },
+  "ui-sky": {
+   "file": "assets/audio/sfx/ui-sky.m4a",
+   "ms": 1208
+  },
+  "moo": {
+   "file": "assets/audio/sfx/moo.m4a",
+   "ms": 1603
+  },
+  "oink": {
+   "file": "assets/audio/sfx/oink.m4a",
+   "ms": 1208
+  },
+  "cluck": {
+   "file": "assets/audio/sfx/cluck.m4a",
+   "ms": 1208
+  },
+  "baa": {
+   "file": "assets/audio/sfx/baa.m4a",
+   "ms": 1231
+  },
+  "neigh": {
+   "file": "assets/audio/sfx/neigh.m4a",
+   "ms": 1603
+  },
+  "maa": {
+   "file": "assets/audio/sfx/maa.m4a",
+   "ms": 1045
+  },
+  "quack": {
+   "file": "assets/audio/sfx/quack.m4a",
+   "ms": 860
+  },
+  "woof": {
+   "file": "assets/audio/sfx/woof.m4a",
+   "ms": 813
+  },
+  "meow": {
+   "file": "assets/audio/sfx/meow.m4a",
+   "ms": 1138
+  },
+  "boing": {
+   "file": "assets/audio/sfx/boing.m4a",
+   "ms": 465
+  },
+  "whistle": {
+   "file": "assets/audio/sfx/whistle.m4a",
+   "ms": 720
+  },
+  "tractor": {
+   "file": "assets/audio/sfx/tractor.m4a",
+   "ms": 2880
+  },
+  "tree-shake": {
+   "file": "assets/audio/sfx/tree-shake.m4a",
+   "ms": 1138
+  },
+  "crows": {
+   "file": "assets/audio/sfx/crows.m4a",
+   "ms": 1765
+  },
+  "llama-hum": {
+   "file": "assets/audio/sfx/llama-hum.m4a",
+   "ms": 1208
+  },
+  "egg-crack": {
+   "file": "assets/audio/sfx/egg-crack.m4a",
+   "ms": 442
+  },
+  "peep": {
+   "file": "assets/audio/sfx/peep.m4a",
+   "ms": 813
+  },
+  "wobble": {
+   "file": "assets/audio/sfx/wobble.m4a",
+   "ms": 465
+  },
+  "slide": {
+   "file": "assets/audio/sfx/slide.m4a",
+   "ms": 1951
+  },
+  "swing": {
+   "file": "assets/audio/sfx/swing.m4a",
+   "ms": 2113
+  },
+  "seesaw": {
+   "file": "assets/audio/sfx/seesaw.m4a",
+   "ms": 1254
+  },
+  "spring-rider": {
+   "file": "assets/audio/sfx/spring-rider.m4a",
+   "ms": 1045
+  },
+  "kick": {
+   "file": "assets/audio/sfx/kick.m4a",
+   "ms": 209
+  },
+  "bubble-blow": {
+   "file": "assets/audio/sfx/bubble-blow.m4a",
+   "ms": 1185
+  },
+  "yip": {
+   "file": "assets/audio/sfx/yip.m4a",
+   "ms": 1022
+  },
+  "ball-bounce": {
+   "file": "assets/audio/sfx/ball-bounce.m4a",
+   "ms": 743
+  },
+  "kite": {
+   "file": "assets/audio/sfx/kite.m4a",
+   "ms": 1812
+  },
+  "balloon": {
+   "file": "assets/audio/sfx/balloon.m4a",
+   "ms": 604
+  },
+  "bike-bell": {
+   "file": "assets/audio/sfx/bike-bell.m4a",
+   "ms": 1022
+  },
+  "ice-cream-bell": {
+   "file": "assets/audio/sfx/ice-cream-bell.m4a",
+   "ms": 906
+  },
+  "nibble": {
+   "file": "assets/audio/sfx/nibble.m4a",
+   "ms": 1022
+  },
+  "tree-bird": {
+   "file": "assets/audio/sfx/tree-bird.m4a",
+   "ms": 999
+  },
+  "bouncy-castle": {
+   "file": "assets/audio/sfx/bouncy-castle.m4a",
+   "ms": 1997
+  },
+  "carousel": {
+   "file": "assets/audio/sfx/carousel.m4a",
+   "ms": 1835
+  },
+  "bubble-pop": {
+   "file": "assets/audio/sfx/bubble-pop.m4a",
+   "ms": 163
+  },
+  "yum": {
+   "file": "assets/audio/sfx/yum.m4a",
+   "ms": 883
+  },
+  "crab-snip": {
+   "file": "assets/audio/sfx/crab-snip.m4a",
+   "ms": 372
+  },
+  "sand-crash": {
+   "file": "assets/audio/sfx/sand-crash.m4a",
+   "ms": 813
+  },
+  "sand-build": {
+   "file": "assets/audio/sfx/sand-build.m4a",
+   "ms": 651
+  },
+  "sand-scoop": {
+   "file": "assets/audio/sfx/sand-scoop.m4a",
+   "ms": 836
+  },
+  "seagull": {
+   "file": "assets/audio/sfx/seagull.m4a",
+   "ms": 1161
+  },
+  "cooler": {
+   "file": "assets/audio/sfx/cooler.m4a",
+   "ms": 302
+  },
+  "dolphin": {
+   "file": "assets/audio/sfx/dolphin.m4a",
+   "ms": 1370
+  },
+  "sailboat": {
+   "file": "assets/audio/sfx/sailboat.m4a",
+   "ms": 2415
+  },
+  "wave": {
+   "file": "assets/audio/sfx/wave.m4a",
+   "ms": 1603
+  },
+  "lifeguard-whistle": {
+   "file": "assets/audio/sfx/lifeguard-whistle.m4a",
+   "ms": 883
+  },
+  "dig-sand": {
+   "file": "assets/audio/sfx/dig-sand.m4a",
+   "ms": 1161
+  },
+  "squeak": {
+   "file": "assets/audio/sfx/squeak.m4a",
+   "ms": 604
+  },
+  "peekaboo": {
+   "file": "assets/audio/sfx/peekaboo.m4a",
+   "ms": 534
+  },
+  "umbrella": {
+   "file": "assets/audio/sfx/umbrella.m4a",
+   "ms": 952
+  },
+  "whale": {
+   "file": "assets/audio/sfx/whale.m4a",
+   "ms": 1254
+  },
+  "cannon-puff": {
+   "file": "assets/audio/sfx/cannon-puff.m4a",
+   "ms": 1208
+  },
+  "paddle": {
+   "file": "assets/audio/sfx/paddle.m4a",
+   "ms": 697
+  },
+  "elephant": {
+   "file": "assets/audio/sfx/elephant.m4a",
+   "ms": 1347
+  },
+  "munch": {
+   "file": "assets/audio/sfx/munch.m4a",
+   "ms": 999
+  },
+  "monkey": {
+   "file": "assets/audio/sfx/monkey.m4a",
+   "ms": 1208
+  },
+  "penguin": {
+   "file": "assets/audio/sfx/penguin.m4a",
+   "ms": 1208
+  },
+  "lion-roar": {
+   "file": "assets/audio/sfx/lion-roar.m4a",
+   "ms": 1254
+  },
+  "zebra": {
+   "file": "assets/audio/sfx/zebra.m4a",
+   "ms": 1208
+  },
+  "yawn": {
+   "file": "assets/audio/sfx/yawn.m4a",
+   "ms": 1603
+  },
+  "fish-toss": {
+   "file": "assets/audio/sfx/fish-toss.m4a",
+   "ms": 883
+  },
+  "tumble": {
+   "file": "assets/audio/sfx/tumble.m4a",
+   "ms": 906
+  },
+  "flamingo": {
+   "file": "assets/audio/sfx/flamingo.m4a",
+   "ms": 1022
+  },
+  "parrot": {
+   "file": "assets/audio/sfx/parrot.m4a",
+   "ms": 860
+  },
+  "peacock": {
+   "file": "assets/audio/sfx/peacock.m4a",
+   "ms": 952
+  },
+  "tiger": {
+   "file": "assets/audio/sfx/tiger.m4a",
+   "ms": 906
+  },
+  "belly-slide": {
+   "file": "assets/audio/sfx/belly-slide.m4a",
+   "ms": 1556
+  },
+  "fish-flop": {
+   "file": "assets/audio/sfx/fish-flop.m4a",
+   "ms": 372
+  },
+  "excavator": {
+   "file": "assets/audio/sfx/excavator.m4a",
+   "ms": 1510
+  },
+  "dump-truck": {
+   "file": "assets/audio/sfx/dump-truck.m4a",
+   "ms": 1719
+  },
+  "bulldozer": {
+   "file": "assets/audio/sfx/bulldozer.m4a",
+   "ms": 1603
+  },
+  "crane": {
+   "file": "assets/audio/sfx/crane.m4a",
+   "ms": 1765
+  },
+  "cement-mixer": {
+   "file": "assets/audio/sfx/cement-mixer.m4a",
+   "ms": 1486
+  },
+  "steamroller": {
+   "file": "assets/audio/sfx/steamroller.m4a",
+   "ms": 3019
+  },
+  "cone-place": {
+   "file": "assets/audio/sfx/cone-place.m4a",
+   "ms": 325
+  },
+  "jackhammer": {
+   "file": "assets/audio/sfx/jackhammer.m4a",
+   "ms": 1301
+  },
+  "build": {
+   "file": "assets/audio/sfx/build.m4a",
+   "ms": 836
+  },
+  "bonk": {
+   "file": "assets/audio/sfx/bonk.m4a",
+   "ms": 233
+  },
+  "thunk": {
+   "file": "assets/audio/sfx/thunk.m4a",
+   "ms": 349
+  },
+  "bricks": {
+   "file": "assets/audio/sfx/bricks.m4a",
+   "ms": 860
+  },
+  "monster-truck": {
+   "file": "assets/audio/sfx/monster-truck.m4a",
+   "ms": 1765
+  },
+  "wrecking-ball": {
+   "file": "assets/audio/sfx/wrecking-ball.m4a",
+   "ms": 1324
+  },
+  "dirt-dig": {
+   "file": "assets/audio/sfx/dirt-dig.m4a",
+   "ms": 697
+  },
+  "rocket": {
+   "file": "assets/audio/sfx/rocket.m4a",
+   "ms": 2531
+  },
+  "jetpack": {
+   "file": "assets/audio/sfx/jetpack.m4a",
+   "ms": 1533
+  },
+  "alien": {
+   "file": "assets/audio/sfx/alien.m4a",
+   "ms": 1208
+  },
+  "ufo-beam": {
+   "file": "assets/audio/sfx/ufo-beam.m4a",
+   "ms": 2021
+  },
+  "earth-spin": {
+   "file": "assets/audio/sfx/earth-spin.m4a",
+   "ms": 1370
+  },
+  "rover": {
+   "file": "assets/audio/sfx/rover.m4a",
+   "ms": 2206
+  },
+  "satellite": {
+   "file": "assets/audio/sfx/satellite.m4a",
+   "ms": 1208
+  },
+  "beep-boop": {
+   "file": "assets/audio/sfx/beep-boop.m4a",
+   "ms": 1022
+  },
+  "comet": {
+   "file": "assets/audio/sfx/comet.m4a",
+   "ms": 1858
+  },
+  "crunch": {
+   "file": "assets/audio/sfx/crunch.m4a",
+   "ms": 697
+  },
+  "star-twinkle": {
+   "file": "assets/audio/sfx/star-twinkle.m4a",
+   "ms": 1022
+  },
+  "twinkle": {
+   "file": "assets/audio/sfx/twinkle.m4a",
+   "ms": 604
+  },
+  "mothership": {
+   "file": "assets/audio/sfx/mothership.m4a",
+   "ms": 1997
+  },
+  "carve": {
+   "file": "assets/audio/sfx/carve.m4a",
+   "ms": 442
+  },
+  "ghost-boo": {
+   "file": "assets/audio/sfx/ghost-boo.m4a",
+   "ms": 952
+  },
+  "bat": {
+   "file": "assets/audio/sfx/bat.m4a",
+   "ms": 1045
+  },
+  "broom-whoosh": {
+   "file": "assets/audio/sfx/broom-whoosh.m4a",
+   "ms": 1812
+  },
+  "cauldron": {
+   "file": "assets/audio/sfx/cauldron.m4a",
+   "ms": 1254
+  },
+  "skeleton": {
+   "file": "assets/audio/sfx/skeleton.m4a",
+   "ms": 1022
+  },
+  "candy-bowl": {
+   "file": "assets/audio/sfx/candy-bowl.m4a",
+   "ms": 813
+  },
+  "monster-munch": {
+   "file": "assets/audio/sfx/monster-munch.m4a",
+   "ms": 883
+  },
+  "dino-rawr": {
+   "file": "assets/audio/sfx/dino-rawr.m4a",
+   "ms": 1208
+  },
+  "mummy": {
+   "file": "assets/audio/sfx/mummy.m4a",
+   "ms": 1370
+  },
+  "spider-drop": {
+   "file": "assets/audio/sfx/spider-drop.m4a",
+   "ms": 1208
+  },
+  "owl": {
+   "file": "assets/audio/sfx/owl.m4a",
+   "ms": 1022
+  },
+  "spooky-tree": {
+   "file": "assets/audio/sfx/spooky-tree.m4a",
+   "ms": 1022
+  },
+  "wolf-howl": {
+   "file": "assets/audio/sfx/wolf-howl.m4a",
+   "ms": 1486
+  },
+  "coach": {
+   "file": "assets/audio/sfx/coach.m4a",
+   "ms": 2276
+  },
+  "giggle": {
+   "file": "assets/audio/sfx/giggle.m4a",
+   "ms": 976
+  },
+  "candy-crinkle": {
+   "file": "assets/audio/sfx/candy-crinkle.m4a",
+   "ms": 558
+  }
+ },
+ "voice": {
+  "Make the ghost say Boo!": {
+   "file": "assets/audio/voice/make-the-ghost-say-boo-a32b6d.m4a",
+   "ms": 1963
+  },
+  "Make the skeleton dance!": {
+   "file": "assets/audio/voice/make-the-skeleton-dance-f2166d.m4a",
+   "ms": 1878
+  },
+  "Make the black cat arch its back!": {
+   "file": "assets/audio/voice/make-the-black-cat-arch-its-back-dba454.m4a",
+   "ms": 2432
+  },
+  "Take the witch for a broom ride!": {
+   "file": "assets/audio/voice/take-the-witch-for-a-broom-ride-1f008a.m4a",
+   "ms": 2091
+  },
+  "Make the owl say hoo hoo!": {
+   "file": "assets/audio/voice/make-the-owl-say-hoo-hoo-e9d02e.m4a",
+   "ms": 2390
+  },
+  "Make the spider drop down!": {
+   "file": "assets/audio/voice/make-the-spider-drop-down-522fce.m4a",
+   "ms": 2006
+  },
+  "Give the mummy a hug!": {
+   "file": "assets/audio/voice/give-the-mummy-a-hug-582700.m4a",
+   "ms": 1792
+  },
+  "Wake up the sleepy bat!": {
+   "file": "assets/audio/voice/wake-up-the-sleepy-bat-42125d.m4a",
+   "ms": 1707
+  },
+  "Tap a pumpkin to carve it!": {
+   "file": "assets/audio/voice/tap-a-pumpkin-to-carve-it-a96743.m4a",
+   "ms": 1750
+  },
+  "Make a jack-o'-lantern giggle!": {
+   "file": "assets/audio/voice/make-a-jack-o-lantern-giggle-ded128.m4a",
+   "ms": 2091
+  },
+  "Light up 3 jack-o'-lanterns!": {
+   "file": "assets/audio/voice/light-up-3-jack-o-lanterns-e025d0.m4a",
+   "ms": 2390
+  },
+  "Tap the candy bowl for treats!": {
+   "file": "assets/audio/voice/tap-the-candy-bowl-for-treats-388cae.m4a",
+   "ms": 1920
+  },
+  "Feed some candy to the monster!": {
+   "file": "assets/audio/voice/feed-some-candy-to-the-monster-3b9bd2.m4a",
+   "ms": 1878
+  },
+  "Help the dino kid trick-or-treat!": {
+   "file": "assets/audio/voice/help-the-dino-kid-trick-or-treat-60e2d2.m4a",
+   "ms": 2134
+  },
+  "Get 5 treats from the candy bowl!": {
+   "file": "assets/audio/voice/get-5-treats-from-the-candy-bowl-5c4056.m4a",
+   "ms": 2347
+  },
+  "Feed the monster 2 treats!": {
+   "file": "assets/audio/voice/feed-the-monster-2-treats-cd4c16.m4a",
+   "ms": 2006
+  },
+  "Stir the cauldron for bubbles!": {
+   "file": "assets/audio/voice/stir-the-cauldron-for-bubbles-05cddd.m4a",
+   "ms": 2091
+  },
+  "Pop a potion bubble!": {
+   "file": "assets/audio/voice/pop-a-potion-bubble-fc5e04.m4a",
+   "ms": 1536
+  },
+  "Pop 3 potion bubbles!": {
+   "file": "assets/audio/voice/pop-3-potion-bubbles-9c07ce.m4a",
+   "ms": 2006
+  },
+  "Shake the spooky tree to let the bats out!": {
+   "file": "assets/audio/voice/shake-the-spooky-tree-to-let-the-bats-out-90f5ca.m4a",
+   "ms": 2902
+  },
+  "Find 4 baby bats!": {
+   "file": "assets/audio/voice/find-4-baby-bats-b41cce.m4a",
+   "ms": 2006
+  },
+  "Make the owl wake up the sleepy bat!": {
+   "file": "assets/audio/voice/make-the-owl-wake-up-the-sleepy-bat-eb758d.m4a",
+   "ms": 2816
+  },
+  "Make the ghost say Boo to a trick-or-treater!": {
+   "file": "assets/audio/voice/make-the-ghost-say-boo-to-a-trick-or-treater-466f9b.m4a",
+   "ms": 2902
+  },
+  "Make the ghost surprise 2 kids at once!": {
+   "file": "assets/audio/voice/make-the-ghost-surprise-2-kids-at-once-255410.m4a",
+   "ms": 2816
+  },
+  "Put out a black cat, then fly the witch!": {
+   "file": "assets/audio/voice/put-out-a-black-cat-then-fly-the-witch-5922d0.m4a",
+   "ms": 3115
+  },
+  "Put a pumpkin in the pumpkin patch!": {
+   "file": "assets/audio/voice/put-a-pumpkin-in-the-pumpkin-patch-e248aa.m4a",
+   "ms": 2176
+  },
+  "Send the ghost to the graveyard!": {
+   "file": "assets/audio/voice/send-the-ghost-to-the-graveyard-3faefc.m4a",
+   "ms": 2134
+  },
+  "Make the skeleton dance in the graveyard!": {
+   "file": "assets/audio/voice/make-the-skeleton-dance-in-the-graveyard-dd82fe.m4a",
+   "ms": 2603
+  },
+  "Walk the mummy to the graveyard!": {
+   "file": "assets/audio/voice/walk-the-mummy-to-the-graveyard-2d6a76.m4a",
+   "ms": 1963
+  },
+  "Knock knock! Take the dino kid to the porch!": {
+   "file": "assets/audio/voice/knock-knock-take-the-dino-kid-to-the-porch-2c0f97.m4a",
+   "ms": 2816
+  },
+  "Bring the witch to the haunted house!": {
+   "file": "assets/audio/voice/bring-the-witch-to-the-haunted-house-aa7344.m4a",
+   "ms": 2176
+  },
+  "Put the black cat on the porch!": {
+   "file": "assets/audio/voice/put-the-black-cat-on-the-porch-894b24.m4a",
+   "ms": 2091
+  },
+  "Put the candy bowl by the door!": {
+   "file": "assets/audio/voice/put-the-candy-bowl-by-the-door-a6baf0.m4a",
+   "ms": 1835
+  },
+  "Hide the monster in the pumpkin patch!": {
+   "file": "assets/audio/voice/hide-the-monster-in-the-pumpkin-patch-207d45.m4a",
+   "ms": 2304
+  },
+  "Grow 3 pumpkins in the patch!": {
+   "file": "assets/audio/voice/grow-3-pumpkins-in-the-patch-906adb.m4a",
+   "ms": 2304
+  },
+  "Put 2 trick-or-treaters on the porch!": {
+   "file": "assets/audio/voice/put-2-trick-or-treaters-on-the-porch-ccc563.m4a",
+   "ms": 2347
+  },
+  "Have a party in the graveyard with 3 friends!": {
+   "file": "assets/audio/voice/have-a-party-in-the-graveyard-with-3-friends-7ed07d.m4a",
+   "ms": 2902
+  },
+  "Tap the moon to make it daytime!": {
+   "file": "assets/audio/voice/tap-the-moon-to-make-it-daytime-f8368d.m4a",
+   "ms": 2176
+  },
+  "Make it spooky night time again!": {
+   "file": "assets/audio/voice/make-it-spooky-night-time-again-cbab80.m4a",
+   "ms": 2304
+  },
+  "Make the ghost say Boo in the dark!": {
+   "file": "assets/audio/voice/make-the-ghost-say-boo-in-the-dark-1e2fc7.m4a",
+   "ms": 2688
+  },
+  "Invite 3 spooky friends!": {
+   "file": "assets/audio/voice/invite-3-spooky-friends-2efe47.m4a",
+   "ms": 2475
+  },
+  "Find 3 night animals!": {
+   "file": "assets/audio/voice/find-3-night-animals-29ec1f.m4a",
+   "ms": 2006
+  },
+  "Say hi to 5 different Halloween friends!": {
+   "file": "assets/audio/voice/say-hi-to-5-different-halloween-friends-475713.m4a",
+   "ms": 2902
+  },
+  "Fill Halloween night with 12 stickers!": {
+   "file": "assets/audio/voice/fill-halloween-night-with-12-stickers-9d150b.m4a",
+   "ms": 2816
+  },
+  "Put a pumpkin at the party!": {
+   "file": "assets/audio/voice/put-a-pumpkin-at-the-party-cfd52d.m4a",
+   "ms": 1664
+  },
+  "Can you find 2 pumpkins?": {
+   "file": "assets/audio/voice/can-you-find-2-pumpkins-2d6ced.m4a",
+   "ms": 1963
+  },
+  "Put 3 pumpkins at the party!": {
+   "file": "assets/audio/voice/put-3-pumpkins-at-the-party-ac49d6.m4a",
+   "ms": 2176
+  },
+  "Make the pumpkin really BIG!": {
+   "file": "assets/audio/voice/make-the-pumpkin-really-big-d279e2.m4a",
+   "ms": 2518
+  },
+  "Turn the pumpkin upside down!": {
+   "file": "assets/audio/voice/turn-the-pumpkin-upside-down-a22634.m4a",
+   "ms": 2134
+  },
+  "Put a ghost at the party!": {
+   "file": "assets/audio/voice/put-a-ghost-at-the-party-dc6915.m4a",
+   "ms": 1622
+  },
+  "Can you find 2 ghosts?": {
+   "file": "assets/audio/voice/can-you-find-2-ghosts-be1a54.m4a",
+   "ms": 2006
+  },
+  "Put 3 ghosts at the party!": {
+   "file": "assets/audio/voice/put-3-ghosts-at-the-party-4a6467.m4a",
+   "ms": 2262
+  },
+  "Make the ghost really BIG!": {
+   "file": "assets/audio/voice/make-the-ghost-really-big-a348fb.m4a",
+   "ms": 2347
+  },
+  "Turn the ghost upside down!": {
+   "file": "assets/audio/voice/turn-the-ghost-upside-down-1530de.m4a",
+   "ms": 1963
+  },
+  "Make a teeny tiny ghost!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-ghost-0b40b0.m4a",
+   "ms": 2304
+  },
+  "Make the ghost look the other way!": {
+   "file": "assets/audio/voice/make-the-ghost-look-the-other-way-423089.m4a",
+   "ms": 2048
+  },
+  "Put a black cat at the party!": {
+   "file": "assets/audio/voice/put-a-black-cat-at-the-party-d706fd.m4a",
+   "ms": 1963
+  },
+  "Can you find 2 black cats?": {
+   "file": "assets/audio/voice/can-you-find-2-black-cats-4c7f02.m4a",
+   "ms": 2176
+  },
+  "Put 3 black cats at the party!": {
+   "file": "assets/audio/voice/put-3-black-cats-at-the-party-7db2dd.m4a",
+   "ms": 2347
+  },
+  "Make the black cat really BIG!": {
+   "file": "assets/audio/voice/make-the-black-cat-really-big-fe4ed4.m4a",
+   "ms": 2432
+  },
+  "Turn the black cat upside down!": {
+   "file": "assets/audio/voice/turn-the-black-cat-upside-down-6811ff.m4a",
+   "ms": 2304
+  },
+  "Make the black cat look the other way!": {
+   "file": "assets/audio/voice/make-the-black-cat-look-the-other-way-3e50aa.m4a",
+   "ms": 2432
+  },
+  "Put a bat at the party!": {
+   "file": "assets/audio/voice/put-a-bat-at-the-party-2c81d6.m4a",
+   "ms": 1750
+  },
+  "Can you find 2 bats?": {
+   "file": "assets/audio/voice/can-you-find-2-bats-4d6f69.m4a",
+   "ms": 1878
+  },
+  "Put 3 bats at the party!": {
+   "file": "assets/audio/voice/put-3-bats-at-the-party-32f806.m4a",
+   "ms": 1963
+  },
+  "Put a witch at the party!": {
+   "file": "assets/audio/voice/put-a-witch-at-the-party-0953f3.m4a",
+   "ms": 1835
+  },
+  "Can you find 2 witches?": {
+   "file": "assets/audio/voice/can-you-find-2-witches-5cc4b9.m4a",
+   "ms": 1920
+  },
+  "Put 3 witches at the party!": {
+   "file": "assets/audio/voice/put-3-witches-at-the-party-358eac.m4a",
+   "ms": 2091
+  },
+  "Make the witch really BIG!": {
+   "file": "assets/audio/voice/make-the-witch-really-big-b2c4cb.m4a",
+   "ms": 2091
+  },
+  "Turn the witch upside down!": {
+   "file": "assets/audio/voice/turn-the-witch-upside-down-5dd676.m4a",
+   "ms": 1878
+  },
+  "Make a teeny tiny witch!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-witch-d0191d.m4a",
+   "ms": 2176
+  },
+  "Make the witch look the other way!": {
+   "file": "assets/audio/voice/make-the-witch-look-the-other-way-c9cd78.m4a",
+   "ms": 1835
+  },
+  "Put a cauldron at the party!": {
+   "file": "assets/audio/voice/put-a-cauldron-at-the-party-2fcb07.m4a",
+   "ms": 1750
+  },
+  "Can you find 2 cauldrons?": {
+   "file": "assets/audio/voice/can-you-find-2-cauldrons-12c9b5.m4a",
+   "ms": 2091
+  },
+  "Put 3 cauldrons at the party!": {
+   "file": "assets/audio/voice/put-3-cauldrons-at-the-party-1ac526.m4a",
+   "ms": 2219
+  },
+  "Make the cauldron really BIG!": {
+   "file": "assets/audio/voice/make-the-cauldron-really-big-e74b3d.m4a",
+   "ms": 2219
+  },
+  "Turn the cauldron upside down!": {
+   "file": "assets/audio/voice/turn-the-cauldron-upside-down-372b12.m4a",
+   "ms": 2134
+  },
+  "Make a teeny tiny cauldron!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-cauldron-3ffacc.m4a",
+   "ms": 2304
+  },
+  "Put a skeleton at the party!": {
+   "file": "assets/audio/voice/put-a-skeleton-at-the-party-5f8080.m4a",
+   "ms": 1920
+  },
+  "Can you find 2 skeletons?": {
+   "file": "assets/audio/voice/can-you-find-2-skeletons-ea9d03.m4a",
+   "ms": 2390
+  },
+  "Put 3 skeletons at the party!": {
+   "file": "assets/audio/voice/put-3-skeletons-at-the-party-acb54e.m4a",
+   "ms": 2432
+  },
+  "Make the skeleton really BIG!": {
+   "file": "assets/audio/voice/make-the-skeleton-really-big-f26c76.m4a",
+   "ms": 2304
+  },
+  "Turn the skeleton upside down!": {
+   "file": "assets/audio/voice/turn-the-skeleton-upside-down-e6dff0.m4a",
+   "ms": 2262
+  },
+  "Make a teeny tiny skeleton!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-skeleton-186765.m4a",
+   "ms": 2304
+  },
+  "Make the skeleton look the other way!": {
+   "file": "assets/audio/voice/make-the-skeleton-look-the-other-way-46f3d9.m4a",
+   "ms": 2134
+  },
+  "Put a candy bowl at the party!": {
+   "file": "assets/audio/voice/put-a-candy-bowl-at-the-party-e943fb.m4a",
+   "ms": 1835
+  },
+  "Can you find 2 candy bowls?": {
+   "file": "assets/audio/voice/can-you-find-2-candy-bowls-0ce4a6.m4a",
+   "ms": 2219
+  },
+  "Put 3 candy bowls at the party!": {
+   "file": "assets/audio/voice/put-3-candy-bowls-at-the-party-6c59eb.m4a",
+   "ms": 2475
+  },
+  "Make the candy bowl really BIG!": {
+   "file": "assets/audio/voice/make-the-candy-bowl-really-big-cd3668.m4a",
+   "ms": 2518
+  },
+  "Turn the candy bowl upside down!": {
+   "file": "assets/audio/voice/turn-the-candy-bowl-upside-down-43872d.m4a",
+   "ms": 2219
+  },
+  "Put a monster at the party!": {
+   "file": "assets/audio/voice/put-a-monster-at-the-party-930293.m4a",
+   "ms": 2176
+  },
+  "Can you find 2 monsters?": {
+   "file": "assets/audio/voice/can-you-find-2-monsters-d28ae2.m4a",
+   "ms": 2048
+  },
+  "Put 3 monsters at the party!": {
+   "file": "assets/audio/voice/put-3-monsters-at-the-party-55a120.m4a",
+   "ms": 2518
+  },
+  "Make the monster really BIG!": {
+   "file": "assets/audio/voice/make-the-monster-really-big-b89605.m4a",
+   "ms": 2347
+  },
+  "Turn the monster upside down!": {
+   "file": "assets/audio/voice/turn-the-monster-upside-down-58d96c.m4a",
+   "ms": 2219
+  },
+  "Make a teeny tiny monster!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-monster-2099a8.m4a",
+   "ms": 2304
+  },
+  "Put a dino kid at the party!": {
+   "file": "assets/audio/voice/put-a-dino-kid-at-the-party-d7733b.m4a",
+   "ms": 2091
+  },
+  "Can you find 2 dino kids?": {
+   "file": "assets/audio/voice/can-you-find-2-dino-kids-87ce71.m4a",
+   "ms": 2048
+  },
+  "Put 3 dino kids at the party!": {
+   "file": "assets/audio/voice/put-3-dino-kids-at-the-party-dd682b.m4a",
+   "ms": 2347
+  },
+  "Make the dino kid really BIG!": {
+   "file": "assets/audio/voice/make-the-dino-kid-really-big-e500fb.m4a",
+   "ms": 2475
+  },
+  "Turn the dino kid upside down!": {
+   "file": "assets/audio/voice/turn-the-dino-kid-upside-down-f25035.m4a",
+   "ms": 2347
+  },
+  "Make a teeny tiny dino kid!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-dino-kid-a11a12.m4a",
+   "ms": 2475
+  },
+  "Make the dino kid look the other way!": {
+   "file": "assets/audio/voice/make-the-dino-kid-look-the-other-way-688795.m4a",
+   "ms": 2262
+  },
+  "Put a mummy at the party!": {
+   "file": "assets/audio/voice/put-a-mummy-at-the-party-1f266f.m4a",
+   "ms": 1750
+  },
+  "Can you find 2 mummies?": {
+   "file": "assets/audio/voice/can-you-find-2-mummies-aebc2e.m4a",
+   "ms": 1920
+  },
+  "Put 3 mummies at the party!": {
+   "file": "assets/audio/voice/put-3-mummies-at-the-party-310402.m4a",
+   "ms": 2134
+  },
+  "Make the mummy really BIG!": {
+   "file": "assets/audio/voice/make-the-mummy-really-big-54d524.m4a",
+   "ms": 2390
+  },
+  "Turn the mummy upside down!": {
+   "file": "assets/audio/voice/turn-the-mummy-upside-down-a8ba0a.m4a",
+   "ms": 2006
+  },
+  "Make a teeny tiny mummy!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-mummy-4e56bd.m4a",
+   "ms": 2304
+  },
+  "Make the mummy look the other way!": {
+   "file": "assets/audio/voice/make-the-mummy-look-the-other-way-59b071.m4a",
+   "ms": 1835
+  },
+  "Put a spider at the party!": {
+   "file": "assets/audio/voice/put-a-spider-at-the-party-82b3be.m4a",
+   "ms": 1963
+  },
+  "Can you find 2 spiders?": {
+   "file": "assets/audio/voice/can-you-find-2-spiders-3f8046.m4a",
+   "ms": 1963
+  },
+  "Put 3 spiders at the party!": {
+   "file": "assets/audio/voice/put-3-spiders-at-the-party-e2549a.m4a",
+   "ms": 2304
+  },
+  "Make the spider really BIG!": {
+   "file": "assets/audio/voice/make-the-spider-really-big-053ae4.m4a",
+   "ms": 2304
+  },
+  "Turn the spider upside down!": {
+   "file": "assets/audio/voice/turn-the-spider-upside-down-a5b7b8.m4a",
+   "ms": 2048
+  },
+  "Make a teeny tiny spider!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-spider-df185c.m4a",
+   "ms": 2347
+  },
+  "Put an owl at the party!": {
+   "file": "assets/audio/voice/put-an-owl-at-the-party-d006f0.m4a",
+   "ms": 1664
+  },
+  "Can you find 2 owls?": {
+   "file": "assets/audio/voice/can-you-find-2-owls-7d0fde.m4a",
+   "ms": 2006
+  },
+  "Put 3 owls at the party!": {
+   "file": "assets/audio/voice/put-3-owls-at-the-party-e6e96f.m4a",
+   "ms": 2134
+  },
+  "Make the owl look the other way!": {
+   "file": "assets/audio/voice/make-the-owl-look-the-other-way-5cf616.m4a",
+   "ms": 2347
+  },
+  "Put a spooky tree at the party!": {
+   "file": "assets/audio/voice/put-a-spooky-tree-at-the-party-ae02b9.m4a",
+   "ms": 2390
+  },
+  "Can you find 2 spooky trees?": {
+   "file": "assets/audio/voice/can-you-find-2-spooky-trees-5db31e.m4a",
+   "ms": 2518
+  },
+  "Put 3 spooky trees at the party!": {
+   "file": "assets/audio/voice/put-3-spooky-trees-at-the-party-ba721c.m4a",
+   "ms": 2816
+  },
+  "Make the spooky tree really BIG!": {
+   "file": "assets/audio/voice/make-the-spooky-tree-really-big-7f324d.m4a",
+   "ms": 2646
+  },
+  "Turn the spooky tree upside down!": {
+   "file": "assets/audio/voice/turn-the-spooky-tree-upside-down-785425.m4a",
+   "ms": 2731
+  },
+  "Make a teeny tiny spooky tree!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-spooky-tree-d0c620.m4a",
+   "ms": 3030
+  },
+  "Put the pumpkin next to the bat!": {
+   "file": "assets/audio/voice/put-the-pumpkin-next-to-the-bat-a21f61.m4a",
+   "ms": 2091
+  },
+  "Put the ghost next to the witch!": {
+   "file": "assets/audio/voice/put-the-ghost-next-to-the-witch-982703.m4a",
+   "ms": 2091
+  },
+  "Put the black cat next to the cauldron!": {
+   "file": "assets/audio/voice/put-the-black-cat-next-to-the-cauldron-440238.m4a",
+   "ms": 2432
+  },
+  "Put the bat next to the skeleton!": {
+   "file": "assets/audio/voice/put-the-bat-next-to-the-skeleton-bd105a.m4a",
+   "ms": 2176
+  },
+  "Put the witch next to the candy bowl!": {
+   "file": "assets/audio/voice/put-the-witch-next-to-the-candy-bowl-fdbf79.m4a",
+   "ms": 2304
+  },
+  "Put the cauldron next to the monster!": {
+   "file": "assets/audio/voice/put-the-cauldron-next-to-the-monster-8e47fb.m4a",
+   "ms": 2219
+  },
+  "Put the skeleton next to the dino kid!": {
+   "file": "assets/audio/voice/put-the-skeleton-next-to-the-dino-kid-30ace8.m4a",
+   "ms": 2432
+  },
+  "Put the candy bowl next to the mummy!": {
+   "file": "assets/audio/voice/put-the-candy-bowl-next-to-the-mummy-bd414a.m4a",
+   "ms": 2176
+  },
+  "Put the monster next to the spider!": {
+   "file": "assets/audio/voice/put-the-monster-next-to-the-spider-75a9c5.m4a",
+   "ms": 2262
+  },
+  "Put the dino kid next to the owl!": {
+   "file": "assets/audio/voice/put-the-dino-kid-next-to-the-owl-a2db17.m4a",
+   "ms": 2262
+  },
+  "Put the mummy next to the spooky tree!": {
+   "file": "assets/audio/voice/put-the-mummy-next-to-the-spooky-tree-99dba0.m4a",
+   "ms": 2774
+  },
+  "Put the spider next to the pumpkin!": {
+   "file": "assets/audio/voice/put-the-spider-next-to-the-pumpkin-3864ff.m4a",
+   "ms": 2219
+  },
+  "Put the owl next to the ghost!": {
+   "file": "assets/audio/voice/put-the-owl-next-to-the-ghost-493162.m4a",
+   "ms": 2219
+  },
+  "Put the spooky tree next to the black cat!": {
+   "file": "assets/audio/voice/put-the-spooky-tree-next-to-the-black-cat-633f73.m4a",
+   "ms": 2902
+  },
+  "Fill the party with 8 stickers!": {
+   "file": "assets/audio/voice/fill-the-party-with-8-stickers-0bcf7c.m4a",
+   "ms": 2262
+  },
+  "Clean everything up!": {
+   "file": "assets/audio/voice/clean-everything-up-ecd65d.m4a",
+   "ms": 1750
+  },
+  "Make the cow say moo!": {
+   "file": "assets/audio/voice/make-the-cow-say-moo-7a64ce.m4a",
+   "ms": 2134
+  },
+  "Make the pig go oink!": {
+   "file": "assets/audio/voice/make-the-pig-go-oink-c31ffd.m4a",
+   "ms": 1750
+  },
+  "Make the sheep say baa!": {
+   "file": "assets/audio/voice/make-the-sheep-say-baa-ebd171.m4a",
+   "ms": 2091
+  },
+  "Make the horse jump up!": {
+   "file": "assets/audio/voice/make-the-horse-jump-up-ac7d48.m4a",
+   "ms": 1750
+  },
+  "Make the bunny hop!": {
+   "file": "assets/audio/voice/make-the-bunny-hop-984ee6.m4a",
+   "ms": 1280
+  },
+  "Make the farmer wave hello!": {
+   "file": "assets/audio/voice/make-the-farmer-wave-hello-a362f8.m4a",
+   "ms": 1792
+  },
+  "Take the tractor for a drive!": {
+   "file": "assets/audio/voice/take-the-tractor-for-a-drive-4268a6.m4a",
+   "ms": 1707
+  },
+  "Make the dog say woof!": {
+   "file": "assets/audio/voice/make-the-dog-say-woof-9745f5.m4a",
+   "ms": 1664
+  },
+  "Wake up the sleepy cat!": {
+   "file": "assets/audio/voice/wake-up-the-sleepy-cat-db7619.m4a",
+   "ms": 1750
+  },
+  "Make the goat say maa!": {
+   "file": "assets/audio/voice/make-the-goat-say-maa-c5e0ab.m4a",
+   "ms": 1963
+  },
+  "Scare the crows off the scarecrow!": {
+   "file": "assets/audio/voice/scare-the-crows-off-the-scarecrow-00a036.m4a",
+   "ms": 2304
+  },
+  "Put the duck in the pond!": {
+   "file": "assets/audio/voice/put-the-duck-in-the-pond-a7d360.m4a",
+   "ms": 1750
+  },
+  "Tap the duck to call her ducklings!": {
+   "file": "assets/audio/voice/tap-the-duck-to-call-her-ducklings-4c23b2.m4a",
+   "ms": 2262
+  },
+  "Tap the duck to call 3 ducklings!": {
+   "file": "assets/audio/voice/tap-the-duck-to-call-3-ducklings-f39ac2.m4a",
+   "ms": 2518
+  },
+  "Shake the apple tree!": {
+   "file": "assets/audio/voice/shake-the-apple-tree-fdfb70.m4a",
+   "ms": 1536
+  },
+  "Feed an apple to the goat!": {
+   "file": "assets/audio/voice/feed-an-apple-to-the-goat-f97728.m4a",
+   "ms": 1664
+  },
+  "Feed the pig an apple!": {
+   "file": "assets/audio/voice/feed-the-pig-an-apple-be5a26.m4a",
+   "ms": 1536
+  },
+  "Make the dog bark at the sheep!": {
+   "file": "assets/audio/voice/make-the-dog-bark-at-the-sheep-f3ea46.m4a",
+   "ms": 2006
+  },
+  "Put 3 animals on the farm!": {
+   "file": "assets/audio/voice/put-3-animals-on-the-farm-61fdda.m4a",
+   "ms": 2262
+  },
+  "Tap the sun to make it night!": {
+   "file": "assets/audio/voice/tap-the-sun-to-make-it-night-497f18.m4a",
+   "ms": 2091
+  },
+  "Put the pig in the mud!": {
+   "file": "assets/audio/voice/put-the-pig-in-the-mud-feea8c.m4a",
+   "ms": 1750
+  },
+  "Give the cow a drink at the pond!": {
+   "file": "assets/audio/voice/give-the-cow-a-drink-at-the-pond-d0cff0.m4a",
+   "ms": 2048
+  },
+  "Put a sheep by the pond!": {
+   "file": "assets/audio/voice/put-a-sheep-by-the-pond-71501a.m4a",
+   "ms": 1664
+  },
+  "Put the bunny by the pond!": {
+   "file": "assets/audio/voice/put-the-bunny-by-the-pond-a1c73a.m4a",
+   "ms": 1664
+  },
+  "Put the horse by the barn!": {
+   "file": "assets/audio/voice/put-the-horse-by-the-barn-5ea592.m4a",
+   "ms": 1664
+  },
+  "Park the tractor at the barn!": {
+   "file": "assets/audio/voice/park-the-tractor-at-the-barn-9eeff5.m4a",
+   "ms": 2219
+  },
+  "Send the farmer to the barn!": {
+   "file": "assets/audio/voice/send-the-farmer-to-the-barn-c9e292.m4a",
+   "ms": 2048
+  },
+  "Put 2 animals in the mud!": {
+   "file": "assets/audio/voice/put-2-animals-in-the-mud-e03343.m4a",
+   "ms": 2219
+  },
+  "Tap the chicken to lay an egg!": {
+   "file": "assets/audio/voice/tap-the-chicken-to-lay-an-egg-ed885b.m4a",
+   "ms": 1920
+  },
+  "Tap the chicken, then tap her egg!": {
+   "file": "assets/audio/voice/tap-the-chicken-then-tap-her-egg-9a7ccb.m4a",
+   "ms": 2688
+  },
+  "Hatch 3 baby chicks!": {
+   "file": "assets/audio/voice/hatch-3-baby-chicks-511857.m4a",
+   "ms": 2006
+  },
+  "Make it night, then bring the sun back!": {
+   "file": "assets/audio/voice/make-it-night-then-bring-the-sun-back-ae0884.m4a",
+   "ms": 2944
+  },
+  "Take the tractor for a drive at night!": {
+   "file": "assets/audio/voice/take-the-tractor-for-a-drive-at-night-578014.m4a",
+   "ms": 2304
+  },
+  "Make 4 different animals talk!": {
+   "file": "assets/audio/voice/make-4-different-animals-talk-c7970e.m4a",
+   "ms": 2176
+  },
+  "Fill the farm with 10 friends!": {
+   "file": "assets/audio/voice/fill-the-farm-with-10-friends-d39feb.m4a",
+   "ms": 2262
+  },
+  "Put a cow on the farm!": {
+   "file": "assets/audio/voice/put-a-cow-on-the-farm-912505.m4a",
+   "ms": 1622
+  },
+  "Can you find 2 cows?": {
+   "file": "assets/audio/voice/can-you-find-2-cows-91023f.m4a",
+   "ms": 1878
+  },
+  "Put 3 cows on the farm!": {
+   "file": "assets/audio/voice/put-3-cows-on-the-farm-45e2b0.m4a",
+   "ms": 2091
+  },
+  "Make the cow really BIG!": {
+   "file": "assets/audio/voice/make-the-cow-really-big-2d77a0.m4a",
+   "ms": 2475
+  },
+  "Turn the cow upside down!": {
+   "file": "assets/audio/voice/turn-the-cow-upside-down-af979d.m4a",
+   "ms": 1963
+  },
+  "Make a teeny tiny cow!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-cow-ebe393.m4a",
+   "ms": 2176
+  },
+  "Make the cow look the other way!": {
+   "file": "assets/audio/voice/make-the-cow-look-the-other-way-972bd3.m4a",
+   "ms": 1920
+  },
+  "Put a pig on the farm!": {
+   "file": "assets/audio/voice/put-a-pig-on-the-farm-0f59c1.m4a",
+   "ms": 1664
+  },
+  "Can you find 2 pigs?": {
+   "file": "assets/audio/voice/can-you-find-2-pigs-5d145c.m4a",
+   "ms": 1750
+  },
+  "Put 3 pigs on the farm!": {
+   "file": "assets/audio/voice/put-3-pigs-on-the-farm-b83b64.m4a",
+   "ms": 2091
+  },
+  "Make the pig really BIG!": {
+   "file": "assets/audio/voice/make-the-pig-really-big-7b5442.m4a",
+   "ms": 2347
+  },
+  "Turn the pig upside down!": {
+   "file": "assets/audio/voice/turn-the-pig-upside-down-cb55ce.m4a",
+   "ms": 1963
+  },
+  "Make a teeny tiny pig!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-pig-5ca7c5.m4a",
+   "ms": 2134
+  },
+  "Make the pig look the other way!": {
+   "file": "assets/audio/voice/make-the-pig-look-the-other-way-ec1ba6.m4a",
+   "ms": 1878
+  },
+  "Put a chicken on the farm!": {
+   "file": "assets/audio/voice/put-a-chicken-on-the-farm-9695e2.m4a",
+   "ms": 1579
+  },
+  "Can you find 2 chickens?": {
+   "file": "assets/audio/voice/can-you-find-2-chickens-ba941e.m4a",
+   "ms": 1920
+  },
+  "Put 3 chickens on the farm!": {
+   "file": "assets/audio/voice/put-3-chickens-on-the-farm-0359ae.m4a",
+   "ms": 2176
+  },
+  "Make the chicken really BIG!": {
+   "file": "assets/audio/voice/make-the-chicken-really-big-27898a.m4a",
+   "ms": 2176
+  },
+  "Turn the chicken upside down!": {
+   "file": "assets/audio/voice/turn-the-chicken-upside-down-192020.m4a",
+   "ms": 1963
+  },
+  "Make the chicken look the other way!": {
+   "file": "assets/audio/voice/make-the-chicken-look-the-other-way-703bdd.m4a",
+   "ms": 1920
+  },
+  "Put a sheep on the farm!": {
+   "file": "assets/audio/voice/put-a-sheep-on-the-farm-9a1cbc.m4a",
+   "ms": 1664
+  },
+  "Can you find 2 sheep?": {
+   "file": "assets/audio/voice/can-you-find-2-sheep-34736a.m4a",
+   "ms": 1664
+  },
+  "Put 3 sheep on the farm!": {
+   "file": "assets/audio/voice/put-3-sheep-on-the-farm-539679.m4a",
+   "ms": 2006
+  },
+  "Make the sheep really BIG!": {
+   "file": "assets/audio/voice/make-the-sheep-really-big-771611.m4a",
+   "ms": 2475
+  },
+  "Turn the sheep upside down!": {
+   "file": "assets/audio/voice/turn-the-sheep-upside-down-48b16a.m4a",
+   "ms": 1920
+  },
+  "Make a teeny tiny sheep!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-sheep-3314de.m4a",
+   "ms": 2134
+  },
+  "Make the sheep look the other way!": {
+   "file": "assets/audio/voice/make-the-sheep-look-the-other-way-00132d.m4a",
+   "ms": 1920
+  },
+  "Put a horse on the farm!": {
+   "file": "assets/audio/voice/put-a-horse-on-the-farm-43ef3e.m4a",
+   "ms": 1494
+  },
+  "Can you find 2 horses?": {
+   "file": "assets/audio/voice/can-you-find-2-horses-9b1733.m4a",
+   "ms": 1920
+  },
+  "Put 3 horses on the farm!": {
+   "file": "assets/audio/voice/put-3-horses-on-the-farm-02ac97.m4a",
+   "ms": 2134
+  },
+  "Make the horse really BIG!": {
+   "file": "assets/audio/voice/make-the-horse-really-big-09bda6.m4a",
+   "ms": 2347
+  },
+  "Turn the horse upside down!": {
+   "file": "assets/audio/voice/turn-the-horse-upside-down-7373fb.m4a",
+   "ms": 2048
+  },
+  "Make a teeny tiny horse!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-horse-5c7955.m4a",
+   "ms": 2176
+  },
+  "Make the horse look the other way!": {
+   "file": "assets/audio/voice/make-the-horse-look-the-other-way-8fcc69.m4a",
+   "ms": 1963
+  },
+  "Put a goat on the farm!": {
+   "file": "assets/audio/voice/put-a-goat-on-the-farm-57059c.m4a",
+   "ms": 1536
+  },
+  "Can you find 2 goats?": {
+   "file": "assets/audio/voice/can-you-find-2-goats-120f56.m4a",
+   "ms": 1792
+  },
+  "Put 3 goats on the farm!": {
+   "file": "assets/audio/voice/put-3-goats-on-the-farm-4a7469.m4a",
+   "ms": 2006
+  },
+  "Make the goat really BIG!": {
+   "file": "assets/audio/voice/make-the-goat-really-big-1828fb.m4a",
+   "ms": 2176
+  },
+  "Turn the goat upside down!": {
+   "file": "assets/audio/voice/turn-the-goat-upside-down-630ef3.m4a",
+   "ms": 1920
+  },
+  "Make a teeny tiny goat!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-goat-53a787.m4a",
+   "ms": 2134
+  },
+  "Make the goat look the other way!": {
+   "file": "assets/audio/voice/make-the-goat-look-the-other-way-65b561.m4a",
+   "ms": 1920
+  },
+  "Put a duck on the farm!": {
+   "file": "assets/audio/voice/put-a-duck-on-the-farm-75e4d4.m4a",
+   "ms": 1536
+  },
+  "Can you find 2 ducks?": {
+   "file": "assets/audio/voice/can-you-find-2-ducks-973b6f.m4a",
+   "ms": 1792
+  },
+  "Put 3 ducks on the farm!": {
+   "file": "assets/audio/voice/put-3-ducks-on-the-farm-388609.m4a",
+   "ms": 2006
+  },
+  "Make the duck really BIG!": {
+   "file": "assets/audio/voice/make-the-duck-really-big-4b223f.m4a",
+   "ms": 2262
+  },
+  "Turn the duck upside down!": {
+   "file": "assets/audio/voice/turn-the-duck-upside-down-36673f.m4a",
+   "ms": 1963
+  },
+  "Make the duck look the other way!": {
+   "file": "assets/audio/voice/make-the-duck-look-the-other-way-949945.m4a",
+   "ms": 1920
+  },
+  "Put a dog on the farm!": {
+   "file": "assets/audio/voice/put-a-dog-on-the-farm-c4450f.m4a",
+   "ms": 1536
+  },
+  "Can you find 2 dogs?": {
+   "file": "assets/audio/voice/can-you-find-2-dogs-ae5948.m4a",
+   "ms": 1878
+  },
+  "Put 3 dogs on the farm!": {
+   "file": "assets/audio/voice/put-3-dogs-on-the-farm-a8286e.m4a",
+   "ms": 2134
+  },
+  "Make the dog really BIG!": {
+   "file": "assets/audio/voice/make-the-dog-really-big-96d300.m4a",
+   "ms": 2432
+  },
+  "Turn the dog upside down!": {
+   "file": "assets/audio/voice/turn-the-dog-upside-down-ef19bb.m4a",
+   "ms": 1963
+  },
+  "Make a teeny tiny dog!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-dog-6ef710.m4a",
+   "ms": 2134
+  },
+  "Make the dog look the other way!": {
+   "file": "assets/audio/voice/make-the-dog-look-the-other-way-e117ee.m4a",
+   "ms": 1878
+  },
+  "Put a cat on the farm!": {
+   "file": "assets/audio/voice/put-a-cat-on-the-farm-1ab6a5.m4a",
+   "ms": 1622
+  },
+  "Can you find 2 cats?": {
+   "file": "assets/audio/voice/can-you-find-2-cats-756436.m4a",
+   "ms": 1963
+  },
+  "Put 3 cats on the farm!": {
+   "file": "assets/audio/voice/put-3-cats-on-the-farm-f266cc.m4a",
+   "ms": 2091
+  },
+  "Make the cat really BIG!": {
+   "file": "assets/audio/voice/make-the-cat-really-big-672747.m4a",
+   "ms": 2219
+  },
+  "Turn the cat upside down!": {
+   "file": "assets/audio/voice/turn-the-cat-upside-down-507ecc.m4a",
+   "ms": 1963
+  },
+  "Put a bunny on the farm!": {
+   "file": "assets/audio/voice/put-a-bunny-on-the-farm-238874.m4a",
+   "ms": 1622
+  },
+  "Can you find 2 bunnies?": {
+   "file": "assets/audio/voice/can-you-find-2-bunnies-ea14fb.m4a",
+   "ms": 1878
+  },
+  "Put 3 bunnies on the farm!": {
+   "file": "assets/audio/voice/put-3-bunnies-on-the-farm-85ecd1.m4a",
+   "ms": 2091
+  },
+  "Make the bunny really BIG!": {
+   "file": "assets/audio/voice/make-the-bunny-really-big-07f838.m4a",
+   "ms": 2219
+  },
+  "Turn the bunny upside down!": {
+   "file": "assets/audio/voice/turn-the-bunny-upside-down-97c240.m4a",
+   "ms": 1920
+  },
+  "Make the bunny look the other way!": {
+   "file": "assets/audio/voice/make-the-bunny-look-the-other-way-184a7e.m4a",
+   "ms": 1835
+  },
+  "Put a farmer on the farm!": {
+   "file": "assets/audio/voice/put-a-farmer-on-the-farm-c98abb.m4a",
+   "ms": 1920
+  },
+  "Can you find 2 farmers?": {
+   "file": "assets/audio/voice/can-you-find-2-farmers-89d04b.m4a",
+   "ms": 1963
+  },
+  "Put 3 farmers on the farm!": {
+   "file": "assets/audio/voice/put-3-farmers-on-the-farm-16338a.m4a",
+   "ms": 2176
+  },
+  "Make the farmer really BIG!": {
+   "file": "assets/audio/voice/make-the-farmer-really-big-46c8a1.m4a",
+   "ms": 2518
+  },
+  "Turn the farmer upside down!": {
+   "file": "assets/audio/voice/turn-the-farmer-upside-down-172914.m4a",
+   "ms": 2091
+  },
+  "Make a teeny tiny farmer!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-farmer-929af6.m4a",
+   "ms": 2262
+  },
+  "Put a tractor on the farm!": {
+   "file": "assets/audio/voice/put-a-tractor-on-the-farm-79b6e8.m4a",
+   "ms": 1835
+  },
+  "Can you find 2 tractors?": {
+   "file": "assets/audio/voice/can-you-find-2-tractors-995606.m4a",
+   "ms": 2006
+  },
+  "Put 3 tractors on the farm!": {
+   "file": "assets/audio/voice/put-3-tractors-on-the-farm-009378.m4a",
+   "ms": 2262
+  },
+  "Make the tractor really BIG!": {
+   "file": "assets/audio/voice/make-the-tractor-really-big-06f049.m4a",
+   "ms": 2347
+  },
+  "Turn the tractor upside down!": {
+   "file": "assets/audio/voice/turn-the-tractor-upside-down-875aef.m4a",
+   "ms": 2219
+  },
+  "Make a teeny tiny tractor!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-tractor-a86f8b.m4a",
+   "ms": 2390
+  },
+  "Make the tractor look the other way!": {
+   "file": "assets/audio/voice/make-the-tractor-look-the-other-way-ea84f9.m4a",
+   "ms": 2432
+  },
+  "Put an apple tree on the farm!": {
+   "file": "assets/audio/voice/put-an-apple-tree-on-the-farm-cdd53f.m4a",
+   "ms": 1963
+  },
+  "Can you find 2 apple trees?": {
+   "file": "assets/audio/voice/can-you-find-2-apple-trees-0ea141.m4a",
+   "ms": 2262
+  },
+  "Put 3 apple trees on the farm!": {
+   "file": "assets/audio/voice/put-3-apple-trees-on-the-farm-3e3414.m4a",
+   "ms": 2347
+  },
+  "Make the apple tree really BIG!": {
+   "file": "assets/audio/voice/make-the-apple-tree-really-big-949409.m4a",
+   "ms": 2688
+  },
+  "Turn the apple tree upside down!": {
+   "file": "assets/audio/voice/turn-the-apple-tree-upside-down-6b0282.m4a",
+   "ms": 2347
+  },
+  "Make a teeny tiny apple tree!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-apple-tree-967861.m4a",
+   "ms": 2603
+  },
+  "Put a scarecrow on the farm!": {
+   "file": "assets/audio/voice/put-a-scarecrow-on-the-farm-89d3fd.m4a",
+   "ms": 1963
+  },
+  "Can you find 2 scarecrows?": {
+   "file": "assets/audio/voice/can-you-find-2-scarecrows-2fe02b.m4a",
+   "ms": 2048
+  },
+  "Put 3 scarecrows on the farm!": {
+   "file": "assets/audio/voice/put-3-scarecrows-on-the-farm-88cd2c.m4a",
+   "ms": 2304
+  },
+  "Make the scarecrow really BIG!": {
+   "file": "assets/audio/voice/make-the-scarecrow-really-big-423676.m4a",
+   "ms": 2390
+  },
+  "Turn the scarecrow upside down!": {
+   "file": "assets/audio/voice/turn-the-scarecrow-upside-down-ced79f.m4a",
+   "ms": 2304
+  },
+  "Make a teeny tiny scarecrow!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-scarecrow-0c70ae.m4a",
+   "ms": 2390
+  },
+  "Put the cow next to the sheep!": {
+   "file": "assets/audio/voice/put-the-cow-next-to-the-sheep-7eb73f.m4a",
+   "ms": 1920
+  },
+  "Put the pig next to the horse!": {
+   "file": "assets/audio/voice/put-the-pig-next-to-the-horse-f0f82b.m4a",
+   "ms": 2048
+  },
+  "Put the chicken next to the goat!": {
+   "file": "assets/audio/voice/put-the-chicken-next-to-the-goat-2a02fe.m4a",
+   "ms": 1963
+  },
+  "Put the sheep next to the duck!": {
+   "file": "assets/audio/voice/put-the-sheep-next-to-the-duck-f3bfb3.m4a",
+   "ms": 1963
+  },
+  "Put the horse next to the dog!": {
+   "file": "assets/audio/voice/put-the-horse-next-to-the-dog-cc95ea.m4a",
+   "ms": 2006
+  },
+  "Put the goat next to the cat!": {
+   "file": "assets/audio/voice/put-the-goat-next-to-the-cat-723ab1.m4a",
+   "ms": 2091
+  },
+  "Put the duck next to the bunny!": {
+   "file": "assets/audio/voice/put-the-duck-next-to-the-bunny-0eccb7.m4a",
+   "ms": 1920
+  },
+  "Put the dog next to the farmer!": {
+   "file": "assets/audio/voice/put-the-dog-next-to-the-farmer-4bbad3.m4a",
+   "ms": 2006
+  },
+  "Put the cat next to the tractor!": {
+   "file": "assets/audio/voice/put-the-cat-next-to-the-tractor-d17dde.m4a",
+   "ms": 2006
+  },
+  "Put the bunny next to the apple tree!": {
+   "file": "assets/audio/voice/put-the-bunny-next-to-the-apple-tree-315f72.m4a",
+   "ms": 2134
+  },
+  "Put the farmer next to the scarecrow!": {
+   "file": "assets/audio/voice/put-the-farmer-next-to-the-scarecrow-c8db2f.m4a",
+   "ms": 2304
+  },
+  "Put the tractor next to the cow!": {
+   "file": "assets/audio/voice/put-the-tractor-next-to-the-cow-7fbebd.m4a",
+   "ms": 2134
+  },
+  "Put the apple tree next to the pig!": {
+   "file": "assets/audio/voice/put-the-apple-tree-next-to-the-pig-a2a679.m4a",
+   "ms": 2219
+  },
+  "Put the scarecrow next to the chicken!": {
+   "file": "assets/audio/voice/put-the-scarecrow-next-to-the-chicken-676939.m4a",
+   "ms": 2219
+  },
+  "Can you fit 12 stickers on the farm?": {
+   "file": "assets/audio/voice/can-you-fit-12-stickers-on-the-farm-942267.m4a",
+   "ms": 2603
+  },
+  "Go down the slide!": {
+   "file": "assets/audio/voice/go-down-the-slide-7a1d53.m4a",
+   "ms": 1323
+  },
+  "Push the swing up high!": {
+   "file": "assets/audio/voice/push-the-swing-up-high-7c6ec6.m4a",
+   "ms": 1878
+  },
+  "Make the seesaw go up and down!": {
+   "file": "assets/audio/voice/make-the-seesaw-go-up-and-down-802895.m4a",
+   "ms": 2262
+  },
+  "Ride the bouncy horse!": {
+   "file": "assets/audio/voice/ride-the-bouncy-horse-8f5a87.m4a",
+   "ms": 1622
+  },
+  "Fly the kite up to the clouds!": {
+   "file": "assets/audio/voice/fly-the-kite-up-to-the-clouds-08ad4a.m4a",
+   "ms": 2390
+  },
+  "Take the trike for a ride!": {
+   "file": "assets/audio/voice/take-the-trike-for-a-ride-c3eff8.m4a",
+   "ms": 1579
+  },
+  "Make the puppy say woof!": {
+   "file": "assets/audio/voice/make-the-puppy-say-woof-275af1.m4a",
+   "ms": 1622
+  },
+  "Bounce the ball!": {
+   "file": "assets/audio/voice/bounce-the-ball-2e897c.m4a",
+   "ms": 1067
+  },
+  "Tap the girl to blow bubbles!": {
+   "file": "assets/audio/voice/tap-the-girl-to-blow-bubbles-f3b9c0.m4a",
+   "ms": 1920
+  },
+  "Pop a bubble!": {
+   "file": "assets/audio/voice/pop-a-bubble-60545a.m4a",
+   "ms": 1024
+  },
+  "Pop 5 bubbles!": {
+   "file": "assets/audio/voice/pop-5-bubbles-095968.m4a",
+   "ms": 1579
+  },
+  "Fill the sky with 6 bubbles!": {
+   "file": "assets/audio/voice/fill-the-sky-with-6-bubbles-e71da8.m4a",
+   "ms": 2347
+  },
+  "Make the puppy fetch the ball!": {
+   "file": "assets/audio/voice/make-the-puppy-fetch-the-ball-8de2b8.m4a",
+   "ms": 1835
+  },
+  "Help the boy kick the ball!": {
+   "file": "assets/audio/voice/help-the-boy-kick-the-ball-6ff02b.m4a",
+   "ms": 1835
+  },
+  "Ring the ice cream cart!": {
+   "file": "assets/audio/voice/ring-the-ice-cream-cart-977029.m4a",
+   "ms": 1579
+  },
+  "Get 3 ice creams!": {
+   "file": "assets/audio/voice/get-3-ice-creams-874f68.m4a",
+   "ms": 1835
+  },
+  "Shake the tree for acorns!": {
+   "file": "assets/audio/voice/shake-the-tree-for-acorns-845c0a.m4a",
+   "ms": 1920
+  },
+  "Feed an acorn to the squirrel!": {
+   "file": "assets/audio/voice/feed-an-acorn-to-the-squirrel-c1a2de.m4a",
+   "ms": 1963
+  },
+  "Uh oh! Let the squirrel eat an ice cream!": {
+   "file": "assets/audio/voice/uh-oh-let-the-squirrel-eat-an-ice-cream-703b89.m4a",
+   "ms": 3200
+  },
+  "Tap the balloon to make it blue!": {
+   "file": "assets/audio/voice/tap-the-balloon-to-make-it-blue-4064f4.m4a",
+   "ms": 2006
+  },
+  "Make a green balloon!": {
+   "file": "assets/audio/voice/make-a-green-balloon-725e5b.m4a",
+   "ms": 1451
+  },
+  "Make 3 balloons, all different colors!": {
+   "file": "assets/audio/voice/make-3-balloons-all-different-colors-af962c.m4a",
+   "ms": 3072
+  },
+  "Put the girl in the sandbox!": {
+   "file": "assets/audio/voice/put-the-girl-in-the-sandbox-2eaf6f.m4a",
+   "ms": 2048
+  },
+  "Send the boy to play in the sandbox!": {
+   "file": "assets/audio/voice/send-the-boy-to-play-in-the-sandbox-b3d82c.m4a",
+   "ms": 2304
+  },
+  "Let the puppy dig in the sandbox!": {
+   "file": "assets/audio/voice/let-the-puppy-dig-in-the-sandbox-98d678.m4a",
+   "ms": 2219
+  },
+  "Throw the ball in the sandbox!": {
+   "file": "assets/audio/voice/throw-the-ball-in-the-sandbox-f21c23.m4a",
+   "ms": 1963
+  },
+  "Splash! Jump in the puddle!": {
+   "file": "assets/audio/voice/splash-jump-in-the-puddle-9c1450.m4a",
+   "ms": 2176
+  },
+  "Give the puppy a bath in the puddle!": {
+   "file": "assets/audio/voice/give-the-puppy-a-bath-in-the-puddle-3e5029.m4a",
+   "ms": 2091
+  },
+  "Bring the squirrel to the picnic!": {
+   "file": "assets/audio/voice/bring-the-squirrel-to-the-picnic-f2f0b8.m4a",
+   "ms": 1878
+  },
+  "Sit the girl on the picnic blanket!": {
+   "file": "assets/audio/voice/sit-the-girl-on-the-picnic-blanket-8c3bc1.m4a",
+   "ms": 2176
+  },
+  "Bring the ice cream cart to the picnic!": {
+   "file": "assets/audio/voice/bring-the-ice-cream-cart-to-the-picnic-861703.m4a",
+   "ms": 2176
+  },
+  "Put an ice cream on the picnic blanket!": {
+   "file": "assets/audio/voice/put-an-ice-cream-on-the-picnic-blanket-daba31.m4a",
+   "ms": 2219
+  },
+  "Put 2 kids in the sandbox!": {
+   "file": "assets/audio/voice/put-2-kids-in-the-sandbox-0a2987.m4a",
+   "ms": 2262
+  },
+  "Bring 3 friends to the playground!": {
+   "file": "assets/audio/voice/bring-3-friends-to-the-playground-c863d5.m4a",
+   "ms": 2262
+  },
+  "Build a playground with 3 rides!": {
+   "file": "assets/audio/voice/build-a-playground-with-3-rides-e30705.m4a",
+   "ms": 2475
+  },
+  "Play on 4 different rides!": {
+   "file": "assets/audio/voice/play-on-4-different-rides-1c108c.m4a",
+   "ms": 2560
+  },
+  "Fly the kite under the moon!": {
+   "file": "assets/audio/voice/fly-the-kite-under-the-moon-e62fef.m4a",
+   "ms": 1963
+  },
+  "Swing under the stars!": {
+   "file": "assets/audio/voice/swing-under-the-stars-7aadf0.m4a",
+   "ms": 1878
+  },
+  "Fill the playground with 10 friends!": {
+   "file": "assets/audio/voice/fill-the-playground-with-10-friends-e17358.m4a",
+   "ms": 2432
+  },
+  "Put a slide at the playground!": {
+   "file": "assets/audio/voice/put-a-slide-at-the-playground-4b51d7.m4a",
+   "ms": 1750
+  },
+  "Can you find 2 slides?": {
+   "file": "assets/audio/voice/can-you-find-2-slides-3e5281.m4a",
+   "ms": 1878
+  },
+  "Put 3 slides at the playground!": {
+   "file": "assets/audio/voice/put-3-slides-at-the-playground-d305d0.m4a",
+   "ms": 2048
+  },
+  "Make the slide really BIG!": {
+   "file": "assets/audio/voice/make-the-slide-really-big-ee106b.m4a",
+   "ms": 2262
+  },
+  "Turn the slide upside down!": {
+   "file": "assets/audio/voice/turn-the-slide-upside-down-956fc8.m4a",
+   "ms": 2006
+  },
+  "Make a teeny tiny slide!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-slide-967e01.m4a",
+   "ms": 2304
+  },
+  "Make the slide look the other way!": {
+   "file": "assets/audio/voice/make-the-slide-look-the-other-way-b99bb8.m4a",
+   "ms": 2006
+  },
+  "Put a swing at the playground!": {
+   "file": "assets/audio/voice/put-a-swing-at-the-playground-6b83b8.m4a",
+   "ms": 1707
+  },
+  "Can you find 2 swings?": {
+   "file": "assets/audio/voice/can-you-find-2-swings-494236.m4a",
+   "ms": 1878
+  },
+  "Put 3 swings at the playground!": {
+   "file": "assets/audio/voice/put-3-swings-at-the-playground-75264f.m4a",
+   "ms": 2176
+  },
+  "Make the swing really BIG!": {
+   "file": "assets/audio/voice/make-the-swing-really-big-a68b70.m4a",
+   "ms": 2347
+  },
+  "Turn the swing upside down!": {
+   "file": "assets/audio/voice/turn-the-swing-upside-down-f5821e.m4a",
+   "ms": 2048
+  },
+  "Make a teeny tiny swing!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-swing-766f40.m4a",
+   "ms": 2262
+  },
+  "Make the swing look the other way!": {
+   "file": "assets/audio/voice/make-the-swing-look-the-other-way-82defc.m4a",
+   "ms": 2006
+  },
+  "Put a seesaw at the playground!": {
+   "file": "assets/audio/voice/put-a-seesaw-at-the-playground-60dc77.m4a",
+   "ms": 1963
+  },
+  "Can you find 2 seesaws?": {
+   "file": "assets/audio/voice/can-you-find-2-seesaws-b59d13.m4a",
+   "ms": 2091
+  },
+  "Put 3 seesaws at the playground!": {
+   "file": "assets/audio/voice/put-3-seesaws-at-the-playground-6d4def.m4a",
+   "ms": 2347
+  },
+  "Make the seesaw really BIG!": {
+   "file": "assets/audio/voice/make-the-seesaw-really-big-b33169.m4a",
+   "ms": 2390
+  },
+  "Turn the seesaw upside down!": {
+   "file": "assets/audio/voice/turn-the-seesaw-upside-down-10618d.m4a",
+   "ms": 2091
+  },
+  "Make a teeny tiny seesaw!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-seesaw-bc3e50.m4a",
+   "ms": 2304
+  },
+  "Put a bouncy horse at the playground!": {
+   "file": "assets/audio/voice/put-a-bouncy-horse-at-the-playground-b1b80e.m4a",
+   "ms": 2518
+  },
+  "Can you find 2 bouncy horses?": {
+   "file": "assets/audio/voice/can-you-find-2-bouncy-horses-c8e97f.m4a",
+   "ms": 2390
+  },
+  "Put 3 bouncy horses at the playground!": {
+   "file": "assets/audio/voice/put-3-bouncy-horses-at-the-playground-4f39bf.m4a",
+   "ms": 2902
+  },
+  "Make the bouncy horse really BIG!": {
+   "file": "assets/audio/voice/make-the-bouncy-horse-really-big-48a057.m4a",
+   "ms": 2646
+  },
+  "Turn the bouncy horse upside down!": {
+   "file": "assets/audio/voice/turn-the-bouncy-horse-upside-down-bcb21a.m4a",
+   "ms": 2432
+  },
+  "Make a teeny tiny bouncy horse!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-bouncy-horse-fded21.m4a",
+   "ms": 2646
+  },
+  "Make the bouncy horse look the other way!": {
+   "file": "assets/audio/voice/make-the-bouncy-horse-look-the-other-way-ef2ce7.m4a",
+   "ms": 2432
+  },
+  "Put a boy at the playground!": {
+   "file": "assets/audio/voice/put-a-boy-at-the-playground-affedb.m4a",
+   "ms": 1920
+  },
+  "Can you find 2 boys?": {
+   "file": "assets/audio/voice/can-you-find-2-boys-63939e.m4a",
+   "ms": 1792
+  },
+  "Put 3 boys at the playground!": {
+   "file": "assets/audio/voice/put-3-boys-at-the-playground-df1508.m4a",
+   "ms": 2134
+  },
+  "Make the boy really BIG!": {
+   "file": "assets/audio/voice/make-the-boy-really-big-445efa.m4a",
+   "ms": 2347
+  },
+  "Turn the boy upside down!": {
+   "file": "assets/audio/voice/turn-the-boy-upside-down-dfa443.m4a",
+   "ms": 1963
+  },
+  "Make a teeny tiny boy!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-boy-af048f.m4a",
+   "ms": 2176
+  },
+  "Make the boy look the other way!": {
+   "file": "assets/audio/voice/make-the-boy-look-the-other-way-d4c965.m4a",
+   "ms": 1878
+  },
+  "Put a girl at the playground!": {
+   "file": "assets/audio/voice/put-a-girl-at-the-playground-4ed1c1.m4a",
+   "ms": 1920
+  },
+  "Can you find 2 girls?": {
+   "file": "assets/audio/voice/can-you-find-2-girls-b7fe8c.m4a",
+   "ms": 1835
+  },
+  "Put 3 girls at the playground!": {
+   "file": "assets/audio/voice/put-3-girls-at-the-playground-b39912.m4a",
+   "ms": 2134
+  },
+  "Make the girl really BIG!": {
+   "file": "assets/audio/voice/make-the-girl-really-big-dc0181.m4a",
+   "ms": 2347
+  },
+  "Turn the girl upside down!": {
+   "file": "assets/audio/voice/turn-the-girl-upside-down-fc9244.m4a",
+   "ms": 2006
+  },
+  "Make a teeny tiny girl!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-girl-c038a2.m4a",
+   "ms": 2176
+  },
+  "Make the girl look the other way!": {
+   "file": "assets/audio/voice/make-the-girl-look-the-other-way-bf79f8.m4a",
+   "ms": 1835
+  },
+  "Put a puppy at the playground!": {
+   "file": "assets/audio/voice/put-a-puppy-at-the-playground-bda9f1.m4a",
+   "ms": 1878
+  },
+  "Can you find 2 puppies?": {
+   "file": "assets/audio/voice/can-you-find-2-puppies-960f49.m4a",
+   "ms": 1750
+  },
+  "Put 3 puppies at the playground!": {
+   "file": "assets/audio/voice/put-3-puppies-at-the-playground-3936fb.m4a",
+   "ms": 2176
+  },
+  "Make the puppy really BIG!": {
+   "file": "assets/audio/voice/make-the-puppy-really-big-1239da.m4a",
+   "ms": 2347
+  },
+  "Turn the puppy upside down!": {
+   "file": "assets/audio/voice/turn-the-puppy-upside-down-b5c09d.m4a",
+   "ms": 1963
+  },
+  "Make a teeny tiny puppy!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-puppy-1cafe7.m4a",
+   "ms": 2134
+  },
+  "Make the puppy look the other way!": {
+   "file": "assets/audio/voice/make-the-puppy-look-the-other-way-e9d1f1.m4a",
+   "ms": 1878
+  },
+  "Put a ball at the playground!": {
+   "file": "assets/audio/voice/put-a-ball-at-the-playground-f26597.m4a",
+   "ms": 1750
+  },
+  "Can you find 2 balls?": {
+   "file": "assets/audio/voice/can-you-find-2-balls-3c7f35.m4a",
+   "ms": 1835
+  },
+  "Put 3 balls at the playground!": {
+   "file": "assets/audio/voice/put-3-balls-at-the-playground-7d4449.m4a",
+   "ms": 2006
+  },
+  "Put a kite at the playground!": {
+   "file": "assets/audio/voice/put-a-kite-at-the-playground-fb60f7.m4a",
+   "ms": 1750
+  },
+  "Can you find 2 kites?": {
+   "file": "assets/audio/voice/can-you-find-2-kites-305336.m4a",
+   "ms": 1835
+  },
+  "Put 3 kites at the playground!": {
+   "file": "assets/audio/voice/put-3-kites-at-the-playground-ea0adc.m4a",
+   "ms": 2219
+  },
+  "Make the kite really BIG!": {
+   "file": "assets/audio/voice/make-the-kite-really-big-20309a.m4a",
+   "ms": 2134
+  },
+  "Turn the kite upside down!": {
+   "file": "assets/audio/voice/turn-the-kite-upside-down-9aa953.m4a",
+   "ms": 1963
+  },
+  "Make a teeny tiny kite!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-kite-a22dfb.m4a",
+   "ms": 2219
+  },
+  "Put a balloon at the playground!": {
+   "file": "assets/audio/voice/put-a-balloon-at-the-playground-e86b99.m4a",
+   "ms": 1835
+  },
+  "Can you find 2 balloons?": {
+   "file": "assets/audio/voice/can-you-find-2-balloons-cf20dc.m4a",
+   "ms": 1963
+  },
+  "Put 3 balloons at the playground!": {
+   "file": "assets/audio/voice/put-3-balloons-at-the-playground-cf7365.m4a",
+   "ms": 2176
+  },
+  "Make the balloon really BIG!": {
+   "file": "assets/audio/voice/make-the-balloon-really-big-77af53.m4a",
+   "ms": 2176
+  },
+  "Turn the balloon upside down!": {
+   "file": "assets/audio/voice/turn-the-balloon-upside-down-ffb009.m4a",
+   "ms": 2091
+  },
+  "Make the balloon look the other way!": {
+   "file": "assets/audio/voice/make-the-balloon-look-the-other-way-36746b.m4a",
+   "ms": 2134
+  },
+  "Put a trike at the playground!": {
+   "file": "assets/audio/voice/put-a-trike-at-the-playground-7f7996.m4a",
+   "ms": 1878
+  },
+  "Can you find 2 trikes?": {
+   "file": "assets/audio/voice/can-you-find-2-trikes-dbbe72.m4a",
+   "ms": 1835
+  },
+  "Put 3 trikes at the playground!": {
+   "file": "assets/audio/voice/put-3-trikes-at-the-playground-c286d5.m4a",
+   "ms": 2176
+  },
+  "Make the trike really BIG!": {
+   "file": "assets/audio/voice/make-the-trike-really-big-cf0c9b.m4a",
+   "ms": 2091
+  },
+  "Turn the trike upside down!": {
+   "file": "assets/audio/voice/turn-the-trike-upside-down-295f2a.m4a",
+   "ms": 1920
+  },
+  "Make a teeny tiny trike!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-trike-8479dc.m4a",
+   "ms": 2219
+  },
+  "Make the trike look the other way!": {
+   "file": "assets/audio/voice/make-the-trike-look-the-other-way-cb6cc2.m4a",
+   "ms": 2006
+  },
+  "Put an ice cream cart at the playground!": {
+   "file": "assets/audio/voice/put-an-ice-cream-cart-at-the-playground-f76ff2.m4a",
+   "ms": 2262
+  },
+  "Can you find 2 ice cream carts?": {
+   "file": "assets/audio/voice/can-you-find-2-ice-cream-carts-4edccd.m4a",
+   "ms": 2347
+  },
+  "Put 3 ice cream carts at the playground!": {
+   "file": "assets/audio/voice/put-3-ice-cream-carts-at-the-playground-9fbedb.m4a",
+   "ms": 2603
+  },
+  "Make the ice cream cart really BIG!": {
+   "file": "assets/audio/voice/make-the-ice-cream-cart-really-big-22e46b.m4a",
+   "ms": 2646
+  },
+  "Turn the ice cream cart upside down!": {
+   "file": "assets/audio/voice/turn-the-ice-cream-cart-upside-down-835e20.m4a",
+   "ms": 2518
+  },
+  "Make a teeny tiny ice cream cart!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-ice-cream-cart-017685.m4a",
+   "ms": 2774
+  },
+  "Make the ice cream cart look the other way!": {
+   "file": "assets/audio/voice/make-the-ice-cream-cart-look-the-other-way-a381f8.m4a",
+   "ms": 2432
+  },
+  "Put a squirrel at the playground!": {
+   "file": "assets/audio/voice/put-a-squirrel-at-the-playground-ab3044.m4a",
+   "ms": 1835
+  },
+  "Can you find 2 squirrels?": {
+   "file": "assets/audio/voice/can-you-find-2-squirrels-d318dc.m4a",
+   "ms": 1920
+  },
+  "Put 3 squirrels at the playground!": {
+   "file": "assets/audio/voice/put-3-squirrels-at-the-playground-ad5f7c.m4a",
+   "ms": 2134
+  },
+  "Make the squirrel look the other way!": {
+   "file": "assets/audio/voice/make-the-squirrel-look-the-other-way-26266d.m4a",
+   "ms": 2048
+  },
+  "Put an oak tree at the playground!": {
+   "file": "assets/audio/voice/put-an-oak-tree-at-the-playground-443044.m4a",
+   "ms": 2006
+  },
+  "Can you find 2 oak trees?": {
+   "file": "assets/audio/voice/can-you-find-2-oak-trees-bb7c8d.m4a",
+   "ms": 2134
+  },
+  "Put 3 oak trees at the playground!": {
+   "file": "assets/audio/voice/put-3-oak-trees-at-the-playground-35a67e.m4a",
+   "ms": 2390
+  },
+  "Make the oak tree really BIG!": {
+   "file": "assets/audio/voice/make-the-oak-tree-really-big-118de0.m4a",
+   "ms": 2262
+  },
+  "Turn the oak tree upside down!": {
+   "file": "assets/audio/voice/turn-the-oak-tree-upside-down-afe380.m4a",
+   "ms": 2304
+  },
+  "Make a teeny tiny oak tree!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-oak-tree-640ffb.m4a",
+   "ms": 2475
+  },
+  "Put the slide next to the bouncy horse!": {
+   "file": "assets/audio/voice/put-the-slide-next-to-the-bouncy-horse-11e475.m4a",
+   "ms": 2560
+  },
+  "Put the swing next to the boy!": {
+   "file": "assets/audio/voice/put-the-swing-next-to-the-boy-bf3b22.m4a",
+   "ms": 1878
+  },
+  "Put the seesaw next to the girl!": {
+   "file": "assets/audio/voice/put-the-seesaw-next-to-the-girl-7e7a89.m4a",
+   "ms": 2134
+  },
+  "Put the bouncy horse next to the puppy!": {
+   "file": "assets/audio/voice/put-the-bouncy-horse-next-to-the-puppy-079e3b.m4a",
+   "ms": 2390
+  },
+  "Put the boy next to the ball!": {
+   "file": "assets/audio/voice/put-the-boy-next-to-the-ball-3e921c.m4a",
+   "ms": 1878
+  },
+  "Put the girl next to the kite!": {
+   "file": "assets/audio/voice/put-the-girl-next-to-the-kite-8c2785.m4a",
+   "ms": 1920
+  },
+  "Put the puppy next to the balloon!": {
+   "file": "assets/audio/voice/put-the-puppy-next-to-the-balloon-7ffd26.m4a",
+   "ms": 2048
+  },
+  "Put the ball next to the trike!": {
+   "file": "assets/audio/voice/put-the-ball-next-to-the-trike-cbdc23.m4a",
+   "ms": 1963
+  },
+  "Put the kite next to the ice cream cart!": {
+   "file": "assets/audio/voice/put-the-kite-next-to-the-ice-cream-cart-9fd4b4.m4a",
+   "ms": 2262
+  },
+  "Put the balloon next to the squirrel!": {
+   "file": "assets/audio/voice/put-the-balloon-next-to-the-squirrel-d5e86a.m4a",
+   "ms": 2134
+  },
+  "Put the trike next to the oak tree!": {
+   "file": "assets/audio/voice/put-the-trike-next-to-the-oak-tree-01f751.m4a",
+   "ms": 2176
+  },
+  "Put the ice cream cart next to the slide!": {
+   "file": "assets/audio/voice/put-the-ice-cream-cart-next-to-the-slide-1168d6.m4a",
+   "ms": 2347
+  },
+  "Put the squirrel next to the swing!": {
+   "file": "assets/audio/voice/put-the-squirrel-next-to-the-swing-603b32.m4a",
+   "ms": 2091
+  },
+  "Put the oak tree next to the seesaw!": {
+   "file": "assets/audio/voice/put-the-oak-tree-next-to-the-seesaw-d26a81.m4a",
+   "ms": 2304
+  },
+  "Can you fit 12 stickers at the playground?": {
+   "file": "assets/audio/voice/can-you-fit-12-stickers-at-the-playground-0bb965.m4a",
+   "ms": 2518
+  },
+  "Make the crab go snip snip!": {
+   "file": "assets/audio/voice/make-the-crab-go-snip-snip-4eadff.m4a",
+   "ms": 2048
+  },
+  "Make the dolphin jump!": {
+   "file": "assets/audio/voice/make-the-dolphin-jump-6f8f93.m4a",
+   "ms": 1622
+  },
+  "Sail the boat away and back!": {
+   "file": "assets/audio/voice/sail-the-boat-away-and-back-fe5364.m4a",
+   "ms": 2262
+  },
+  "Catch a wave with the surfer!": {
+   "file": "assets/audio/voice/catch-a-wave-with-the-surfer-b74e0e.m4a",
+   "ms": 1750
+  },
+  "Blow the lifeguard whistle!": {
+   "file": "assets/audio/voice/blow-the-lifeguard-whistle-889734.m4a",
+   "ms": 1664
+  },
+  "Make the starfish say hi!": {
+   "file": "assets/audio/voice/make-the-starfish-say-hi-91c1b6.m4a",
+   "ms": 1878
+  },
+  "Make the hermit crab say peekaboo!": {
+   "file": "assets/audio/voice/make-the-hermit-crab-say-peekaboo-a660cf.m4a",
+   "ms": 2134
+  },
+  "Spin the beach umbrella!": {
+   "file": "assets/audio/voice/spin-the-beach-umbrella-95c791.m4a",
+   "ms": 1579
+  },
+  "Bounce the beach ball!": {
+   "file": "assets/audio/voice/bounce-the-beach-ball-9e774f.m4a",
+   "ms": 1366
+  },
+  "Knock down the sandcastle!": {
+   "file": "assets/audio/voice/knock-down-the-sandcastle-503f9b.m4a",
+   "ms": 1750
+  },
+  "Knock down a sandcastle, then build it back!": {
+   "file": "assets/audio/voice/knock-down-a-sandcastle-then-build-it-back-ba3cac.m4a",
+   "ms": 2944
+  },
+  "Tap the bucket to make a sandcastle!": {
+   "file": "assets/audio/voice/tap-the-bucket-to-make-a-sandcastle-75b6f0.m4a",
+   "ms": 2347
+  },
+  "Build 3 sandcastles!": {
+   "file": "assets/audio/voice/build-3-sandcastles-90db46.m4a",
+   "ms": 1963
+  },
+  "Open the cooler for a snack!": {
+   "file": "assets/audio/voice/open-the-cooler-for-a-snack-3674dc.m4a",
+   "ms": 1664
+  },
+  "Uh oh! Let the seagull steal a snack!": {
+   "file": "assets/audio/voice/uh-oh-let-the-seagull-steal-a-snack-d01c2c.m4a",
+   "ms": 3030
+  },
+  "Get 3 watermelon slices from the cooler!": {
+   "file": "assets/audio/voice/get-3-watermelon-slices-from-the-cooler-7d2fe2.m4a",
+   "ms": 2603
+  },
+  "Tap the turtle to lay eggs!": {
+   "file": "assets/audio/voice/tap-the-turtle-to-lay-eggs-ac202f.m4a",
+   "ms": 2048
+  },
+  "Hatch a baby turtle!": {
+   "file": "assets/audio/voice/hatch-a-baby-turtle-1fcfb7.m4a",
+   "ms": 1579
+  },
+  "Help a baby turtle get to the sea!": {
+   "file": "assets/audio/voice/help-a-baby-turtle-get-to-the-sea-198207.m4a",
+   "ms": 2390
+  },
+  "Hatch 3 baby turtles!": {
+   "file": "assets/audio/voice/hatch-3-baby-turtles-16fa45.m4a",
+   "ms": 2134
+  },
+  "Make the crab pinch the surfer!": {
+   "file": "assets/audio/voice/make-the-crab-pinch-the-surfer-f6b378.m4a",
+   "ms": 2176
+  },
+  "Blow the whistle at the crab!": {
+   "file": "assets/audio/voice/blow-the-whistle-at-the-crab-412287.m4a",
+   "ms": 1792
+  },
+  "Help the dolphin bounce the beach ball!": {
+   "file": "assets/audio/voice/help-the-dolphin-bounce-the-beach-ball-75b327.m4a",
+   "ms": 2176
+  },
+  "Put the dolphin in the sea!": {
+   "file": "assets/audio/voice/put-the-dolphin-in-the-sea-7563ab.m4a",
+   "ms": 1835
+  },
+  "Sail the boat on the sea!": {
+   "file": "assets/audio/voice/sail-the-boat-on-the-sea-f7bd35.m4a",
+   "ms": 1878
+  },
+  "Take the surfer out in the waves!": {
+   "file": "assets/audio/voice/take-the-surfer-out-in-the-waves-50772a.m4a",
+   "ms": 2262
+  },
+  "Put the crab in the tide pool!": {
+   "file": "assets/audio/voice/put-the-crab-in-the-tide-pool-479442.m4a",
+   "ms": 1963
+  },
+  "Find the starfish a tide pool!": {
+   "file": "assets/audio/voice/find-the-starfish-a-tide-pool-1fd0ab.m4a",
+   "ms": 2091
+  },
+  "Put the hermit crab in the tide pool!": {
+   "file": "assets/audio/voice/put-the-hermit-crab-in-the-tide-pool-7ab7be.m4a",
+   "ms": 2262
+  },
+  "The lifeguard needs a rest on the towel!": {
+   "file": "assets/audio/voice/the-lifeguard-needs-a-rest-on-the-towel-968e9d.m4a",
+   "ms": 2432
+  },
+  "Put the umbrella by the towel!": {
+   "file": "assets/audio/voice/put-the-umbrella-by-the-towel-db808d.m4a",
+   "ms": 1920
+  },
+  "Bring the cooler to the towel!": {
+   "file": "assets/audio/voice/bring-the-cooler-to-the-towel-1e8a70.m4a",
+   "ms": 1835
+  },
+  "Put 2 animals in the tide pool!": {
+   "file": "assets/audio/voice/put-2-animals-in-the-tide-pool-eab062.m4a",
+   "ms": 2304
+  },
+  "Put 3 animals in the sea!": {
+   "file": "assets/audio/voice/put-3-animals-in-the-sea-3c1eea.m4a",
+   "ms": 2176
+  },
+  "Put 3 animals on the beach!": {
+   "file": "assets/audio/voice/put-3-animals-on-the-beach-a33198.m4a",
+   "ms": 2518
+  },
+  "Find 2 hungry seagulls!": {
+   "file": "assets/audio/voice/find-2-hungry-seagulls-b8d17e.m4a",
+   "ms": 2219
+  },
+  "Tap the sun to watch it set!": {
+   "file": "assets/audio/voice/tap-the-sun-to-watch-it-set-604872.m4a",
+   "ms": 2176
+  },
+  "Go sailing under the moon!": {
+   "file": "assets/audio/voice/go-sailing-under-the-moon-dcb83c.m4a",
+   "ms": 2048
+  },
+  "Knock down a sandcastle at night!": {
+   "file": "assets/audio/voice/knock-down-a-sandcastle-at-night-adceb8.m4a",
+   "ms": 2304
+  },
+  "Fill the beach with 10 friends!": {
+   "file": "assets/audio/voice/fill-the-beach-with-10-friends-f3bbb0.m4a",
+   "ms": 2219
+  },
+  "Put a crab on the beach!": {
+   "file": "assets/audio/voice/put-a-crab-on-the-beach-5b7369.m4a",
+   "ms": 1622
+  },
+  "Can you find 2 crabs?": {
+   "file": "assets/audio/voice/can-you-find-2-crabs-53948c.m4a",
+   "ms": 1835
+  },
+  "Put 3 crabs on the beach!": {
+   "file": "assets/audio/voice/put-3-crabs-on-the-beach-a3eebf.m4a",
+   "ms": 2134
+  },
+  "Put a sandcastle on the beach!": {
+   "file": "assets/audio/voice/put-a-sandcastle-on-the-beach-4a59b7.m4a",
+   "ms": 2006
+  },
+  "Can you find 2 sandcastles?": {
+   "file": "assets/audio/voice/can-you-find-2-sandcastles-a223ef.m4a",
+   "ms": 2219
+  },
+  "Make the sandcastle really BIG!": {
+   "file": "assets/audio/voice/make-the-sandcastle-really-big-b57bb2.m4a",
+   "ms": 2518
+  },
+  "Turn the sandcastle upside down!": {
+   "file": "assets/audio/voice/turn-the-sandcastle-upside-down-fd01f9.m4a",
+   "ms": 2304
+  },
+  "Make a teeny tiny sandcastle!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-sandcastle-17c2a3.m4a",
+   "ms": 2603
+  },
+  "Make the sandcastle look the other way!": {
+   "file": "assets/audio/voice/make-the-sandcastle-look-the-other-way-b2ab4f.m4a",
+   "ms": 2304
+  },
+  "Put a bucket on the beach!": {
+   "file": "assets/audio/voice/put-a-bucket-on-the-beach-c985f0.m4a",
+   "ms": 1664
+  },
+  "Can you find 2 buckets?": {
+   "file": "assets/audio/voice/can-you-find-2-buckets-b8eb92.m4a",
+   "ms": 1920
+  },
+  "Put 3 buckets on the beach!": {
+   "file": "assets/audio/voice/put-3-buckets-on-the-beach-a5cc5f.m4a",
+   "ms": 2091
+  },
+  "Make the bucket look the other way!": {
+   "file": "assets/audio/voice/make-the-bucket-look-the-other-way-d37513.m4a",
+   "ms": 1963
+  },
+  "Put a seagull on the beach!": {
+   "file": "assets/audio/voice/put-a-seagull-on-the-beach-aa1c9a.m4a",
+   "ms": 1835
+  },
+  "Put 3 seagulls on the beach!": {
+   "file": "assets/audio/voice/put-3-seagulls-on-the-beach-0f013e.m4a",
+   "ms": 2048
+  },
+  "Make the seagull look the other way!": {
+   "file": "assets/audio/voice/make-the-seagull-look-the-other-way-8ddfcd.m4a",
+   "ms": 2091
+  },
+  "Put a cooler on the beach!": {
+   "file": "assets/audio/voice/put-a-cooler-on-the-beach-2f8413.m4a",
+   "ms": 1750
+  },
+  "Can you find 2 coolers?": {
+   "file": "assets/audio/voice/can-you-find-2-coolers-c19dc1.m4a",
+   "ms": 1835
+  },
+  "Put 3 coolers on the beach!": {
+   "file": "assets/audio/voice/put-3-coolers-on-the-beach-15da8a.m4a",
+   "ms": 2176
+  },
+  "Make the cooler really BIG!": {
+   "file": "assets/audio/voice/make-the-cooler-really-big-2652e5.m4a",
+   "ms": 2091
+  },
+  "Turn the cooler upside down!": {
+   "file": "assets/audio/voice/turn-the-cooler-upside-down-c43a3a.m4a",
+   "ms": 2134
+  },
+  "Put a beach ball on the beach!": {
+   "file": "assets/audio/voice/put-a-beach-ball-on-the-beach-19545c.m4a",
+   "ms": 1878
+  },
+  "Can you find 2 beach balls?": {
+   "file": "assets/audio/voice/can-you-find-2-beach-balls-7c5717.m4a",
+   "ms": 1963
+  },
+  "Put 3 beach balls on the beach!": {
+   "file": "assets/audio/voice/put-3-beach-balls-on-the-beach-ca4a23.m4a",
+   "ms": 2304
+  },
+  "Make the beach ball look the other way!": {
+   "file": "assets/audio/voice/make-the-beach-ball-look-the-other-way-ab023a.m4a",
+   "ms": 2091
+  },
+  "Put a dolphin on the beach!": {
+   "file": "assets/audio/voice/put-a-dolphin-on-the-beach-be55d1.m4a",
+   "ms": 1835
+  },
+  "Can you find 2 dolphins?": {
+   "file": "assets/audio/voice/can-you-find-2-dolphins-bb1121.m4a",
+   "ms": 2006
+  },
+  "Put 3 dolphins on the beach!": {
+   "file": "assets/audio/voice/put-3-dolphins-on-the-beach-03792a.m4a",
+   "ms": 2219
+  },
+  "Make the dolphin really BIG!": {
+   "file": "assets/audio/voice/make-the-dolphin-really-big-dbd61f.m4a",
+   "ms": 2262
+  },
+  "Turn the dolphin upside down!": {
+   "file": "assets/audio/voice/turn-the-dolphin-upside-down-87a2f0.m4a",
+   "ms": 2134
+  },
+  "Make a teeny tiny dolphin!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-dolphin-6d7b42.m4a",
+   "ms": 2304
+  },
+  "Make the dolphin look the other way!": {
+   "file": "assets/audio/voice/make-the-dolphin-look-the-other-way-6cd83c.m4a",
+   "ms": 2006
+  },
+  "Put a sailboat on the beach!": {
+   "file": "assets/audio/voice/put-a-sailboat-on-the-beach-45d6be.m4a",
+   "ms": 1920
+  },
+  "Can you find 2 sailboats?": {
+   "file": "assets/audio/voice/can-you-find-2-sailboats-b83ee7.m4a",
+   "ms": 2134
+  },
+  "Put 3 sailboats on the beach!": {
+   "file": "assets/audio/voice/put-3-sailboats-on-the-beach-295b2d.m4a",
+   "ms": 2304
+  },
+  "Make the sailboat really BIG!": {
+   "file": "assets/audio/voice/make-the-sailboat-really-big-f91692.m4a",
+   "ms": 2518
+  },
+  "Turn the sailboat upside down!": {
+   "file": "assets/audio/voice/turn-the-sailboat-upside-down-d77ff3.m4a",
+   "ms": 2219
+  },
+  "Make a teeny tiny sailboat!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-sailboat-7daf07.m4a",
+   "ms": 2390
+  },
+  "Make the sailboat look the other way!": {
+   "file": "assets/audio/voice/make-the-sailboat-look-the-other-way-a71518.m4a",
+   "ms": 2262
+  },
+  "Put a surfer on the beach!": {
+   "file": "assets/audio/voice/put-a-surfer-on-the-beach-cea91f.m4a",
+   "ms": 1835
+  },
+  "Can you find 2 surfers?": {
+   "file": "assets/audio/voice/can-you-find-2-surfers-2b2449.m4a",
+   "ms": 1920
+  },
+  "Put 3 surfers on the beach!": {
+   "file": "assets/audio/voice/put-3-surfers-on-the-beach-9d924b.m4a",
+   "ms": 2176
+  },
+  "Make the surfer really BIG!": {
+   "file": "assets/audio/voice/make-the-surfer-really-big-ed03be.m4a",
+   "ms": 2432
+  },
+  "Turn the surfer upside down!": {
+   "file": "assets/audio/voice/turn-the-surfer-upside-down-41250b.m4a",
+   "ms": 2176
+  },
+  "Make a teeny tiny surfer!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-surfer-bf9335.m4a",
+   "ms": 2176
+  },
+  "Put a lifeguard on the beach!": {
+   "file": "assets/audio/voice/put-a-lifeguard-on-the-beach-48d2e9.m4a",
+   "ms": 1920
+  },
+  "Can you find 2 lifeguards?": {
+   "file": "assets/audio/voice/can-you-find-2-lifeguards-24e0ea.m4a",
+   "ms": 1963
+  },
+  "Put 3 lifeguards on the beach!": {
+   "file": "assets/audio/voice/put-3-lifeguards-on-the-beach-5cdbaa.m4a",
+   "ms": 2134
+  },
+  "Make the lifeguard really BIG!": {
+   "file": "assets/audio/voice/make-the-lifeguard-really-big-da2780.m4a",
+   "ms": 2390
+  },
+  "Turn the lifeguard upside down!": {
+   "file": "assets/audio/voice/turn-the-lifeguard-upside-down-20c920.m4a",
+   "ms": 2176
+  },
+  "Make a teeny tiny lifeguard!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-lifeguard-d0d061.m4a",
+   "ms": 2390
+  },
+  "Make the lifeguard look the other way!": {
+   "file": "assets/audio/voice/make-the-lifeguard-look-the-other-way-567a0b.m4a",
+   "ms": 2134
+  },
+  "Put a turtle on the beach!": {
+   "file": "assets/audio/voice/put-a-turtle-on-the-beach-b51a23.m4a",
+   "ms": 1835
+  },
+  "Can you find 2 turtles?": {
+   "file": "assets/audio/voice/can-you-find-2-turtles-7e6fd1.m4a",
+   "ms": 1920
+  },
+  "Put 3 turtles on the beach!": {
+   "file": "assets/audio/voice/put-3-turtles-on-the-beach-8456df.m4a",
+   "ms": 2134
+  },
+  "Make the turtle really BIG!": {
+   "file": "assets/audio/voice/make-the-turtle-really-big-25666c.m4a",
+   "ms": 2262
+  },
+  "Turn the turtle upside down!": {
+   "file": "assets/audio/voice/turn-the-turtle-upside-down-ad6a8e.m4a",
+   "ms": 2091
+  },
+  "Make the turtle look the other way!": {
+   "file": "assets/audio/voice/make-the-turtle-look-the-other-way-2489d1.m4a",
+   "ms": 2006
+  },
+  "Put a starfish on the beach!": {
+   "file": "assets/audio/voice/put-a-starfish-on-the-beach-aa396c.m4a",
+   "ms": 1792
+  },
+  "Can you find 2 starfish?": {
+   "file": "assets/audio/voice/can-you-find-2-starfish-5b093f.m4a",
+   "ms": 2091
+  },
+  "Put 3 starfish on the beach!": {
+   "file": "assets/audio/voice/put-3-starfish-on-the-beach-047b32.m4a",
+   "ms": 2304
+  },
+  "Put a hermit crab on the beach!": {
+   "file": "assets/audio/voice/put-a-hermit-crab-on-the-beach-bc5ea1.m4a",
+   "ms": 1920
+  },
+  "Can you find 2 hermit crabs?": {
+   "file": "assets/audio/voice/can-you-find-2-hermit-crabs-194d73.m4a",
+   "ms": 2176
+  },
+  "Put 3 hermit crabs on the beach!": {
+   "file": "assets/audio/voice/put-3-hermit-crabs-on-the-beach-90975b.m4a",
+   "ms": 2262
+  },
+  "Make the hermit crab look the other way!": {
+   "file": "assets/audio/voice/make-the-hermit-crab-look-the-other-way-491370.m4a",
+   "ms": 2219
+  },
+  "Put an umbrella on the beach!": {
+   "file": "assets/audio/voice/put-an-umbrella-on-the-beach-ec62b6.m4a",
+   "ms": 1963
+  },
+  "Can you find 2 umbrellas?": {
+   "file": "assets/audio/voice/can-you-find-2-umbrellas-cc89e0.m4a",
+   "ms": 2176
+  },
+  "Put 3 umbrellas on the beach!": {
+   "file": "assets/audio/voice/put-3-umbrellas-on-the-beach-5a1d15.m4a",
+   "ms": 2304
+  },
+  "Make the umbrella really BIG!": {
+   "file": "assets/audio/voice/make-the-umbrella-really-big-77f557.m4a",
+   "ms": 2432
+  },
+  "Turn the umbrella upside down!": {
+   "file": "assets/audio/voice/turn-the-umbrella-upside-down-07294d.m4a",
+   "ms": 2432
+  },
+  "Make a teeny tiny umbrella!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-umbrella-7408ea.m4a",
+   "ms": 2432
+  },
+  "Make the umbrella look the other way!": {
+   "file": "assets/audio/voice/make-the-umbrella-look-the-other-way-8a6b90.m4a",
+   "ms": 2006
+  },
+  "Put the crab next to the seagull!": {
+   "file": "assets/audio/voice/put-the-crab-next-to-the-seagull-5dabcf.m4a",
+   "ms": 2048
+  },
+  "Put the sandcastle next to the cooler!": {
+   "file": "assets/audio/voice/put-the-sandcastle-next-to-the-cooler-002a5e.m4a",
+   "ms": 2304
+  },
+  "Put the bucket next to the beach ball!": {
+   "file": "assets/audio/voice/put-the-bucket-next-to-the-beach-ball-53fa67.m4a",
+   "ms": 2134
+  },
+  "Put the seagull next to the dolphin!": {
+   "file": "assets/audio/voice/put-the-seagull-next-to-the-dolphin-be32de.m4a",
+   "ms": 2262
+  },
+  "Put the cooler next to the sailboat!": {
+   "file": "assets/audio/voice/put-the-cooler-next-to-the-sailboat-ecdb28.m4a",
+   "ms": 2176
+  },
+  "Put the beach ball next to the surfer!": {
+   "file": "assets/audio/voice/put-the-beach-ball-next-to-the-surfer-55b5a7.m4a",
+   "ms": 2176
+  },
+  "Put the dolphin next to the lifeguard!": {
+   "file": "assets/audio/voice/put-the-dolphin-next-to-the-lifeguard-2c6d67.m4a",
+   "ms": 2219
+  },
+  "Put the sailboat next to the turtle!": {
+   "file": "assets/audio/voice/put-the-sailboat-next-to-the-turtle-db21ea.m4a",
+   "ms": 2262
+  },
+  "Put the surfer next to the starfish!": {
+   "file": "assets/audio/voice/put-the-surfer-next-to-the-starfish-9fcc38.m4a",
+   "ms": 2475
+  },
+  "Put the lifeguard next to the hermit crab!": {
+   "file": "assets/audio/voice/put-the-lifeguard-next-to-the-hermit-crab-2600d2.m4a",
+   "ms": 2347
+  },
+  "Put the turtle next to the umbrella!": {
+   "file": "assets/audio/voice/put-the-turtle-next-to-the-umbrella-7d46e0.m4a",
+   "ms": 2219
+  },
+  "Put the starfish next to the crab!": {
+   "file": "assets/audio/voice/put-the-starfish-next-to-the-crab-a466af.m4a",
+   "ms": 2219
+  },
+  "Put the hermit crab next to the sandcastle!": {
+   "file": "assets/audio/voice/put-the-hermit-crab-next-to-the-sandcastle-7ecbdd.m4a",
+   "ms": 2603
+  },
+  "Put the umbrella next to the bucket!": {
+   "file": "assets/audio/voice/put-the-umbrella-next-to-the-bucket-40a33c.m4a",
+   "ms": 2134
+  },
+  "Can you fit 12 stickers on the beach?": {
+   "file": "assets/audio/voice/can-you-fit-12-stickers-on-the-beach-44616d.m4a",
+   "ms": 2347
+  },
+  "Make the elephant spray water!": {
+   "file": "assets/audio/voice/make-the-elephant-spray-water-d65326.m4a",
+   "ms": 2219
+  },
+  "Make the giraffe stretch its neck!": {
+   "file": "assets/audio/voice/make-the-giraffe-stretch-its-neck-721c70.m4a",
+   "ms": 2304
+  },
+  "Make the lion ROAR!": {
+   "file": "assets/audio/voice/make-the-lion-roar-983a27.m4a",
+   "ms": 1920
+  },
+  "Make the hippo yawn!": {
+   "file": "assets/audio/voice/make-the-hippo-yawn-9aa4b7.m4a",
+   "ms": 1792
+  },
+  "Make the panda do a somersault!": {
+   "file": "assets/audio/voice/make-the-panda-do-a-somersault-6f9583.m4a",
+   "ms": 2091
+  },
+  "Make the peacock show its tail!": {
+   "file": "assets/audio/voice/make-the-peacock-show-its-tail-75c475.m4a",
+   "ms": 2262
+  },
+  "Make the kangaroo hop!": {
+   "file": "assets/audio/voice/make-the-kangaroo-hop-e21c80.m4a",
+   "ms": 1664
+  },
+  "Make the parrot say hello!": {
+   "file": "assets/audio/voice/make-the-parrot-say-hello-5d0b2e.m4a",
+   "ms": 1792
+  },
+  "Make the flamingo honk!": {
+   "file": "assets/audio/voice/make-the-flamingo-honk-6e8ca4.m4a",
+   "ms": 1750
+  },
+  "Make the zebra jump for joy!": {
+   "file": "assets/audio/voice/make-the-zebra-jump-for-joy-4829f5.m4a",
+   "ms": 2347
+  },
+  "Shake the banana tree!": {
+   "file": "assets/audio/voice/shake-the-banana-tree-48be74.m4a",
+   "ms": 1579
+  },
+  "Feed a banana to the monkey!": {
+   "file": "assets/audio/voice/feed-a-banana-to-the-monkey-5ab9c6.m4a",
+   "ms": 1750
+  },
+  "Feed the monkey 2 bananas!": {
+   "file": "assets/audio/voice/feed-the-monkey-2-bananas-6abe1f.m4a",
+   "ms": 2048
+  },
+  "Tap the zookeeper for some fish!": {
+   "file": "assets/audio/voice/tap-the-zookeeper-for-some-fish-c950f4.m4a",
+   "ms": 2048
+  },
+  "Give the penguin a fish!": {
+   "file": "assets/audio/voice/give-the-penguin-a-fish-2d842a.m4a",
+   "ms": 1707
+  },
+  "Get 3 fish from the zookeeper!": {
+   "file": "assets/audio/voice/get-3-fish-from-the-zookeeper-985def.m4a",
+   "ms": 2262
+  },
+  "Shake the banana tree for 4 bananas!": {
+   "file": "assets/audio/voice/shake-the-banana-tree-for-4-bananas-25996d.m4a",
+   "ms": 2816
+  },
+  "Make the lion roar at the monkey!": {
+   "file": "assets/audio/voice/make-the-lion-roar-at-the-monkey-0f9094.m4a",
+   "ms": 2518
+  },
+  "Make the lion roar at 2 animals!": {
+   "file": "assets/audio/voice/make-the-lion-roar-at-2-animals-30b4e7.m4a",
+   "ms": 2944
+  },
+  "Make the elephant splash the zookeeper!": {
+   "file": "assets/audio/voice/make-the-elephant-splash-the-zookeeper-0e6904.m4a",
+   "ms": 2688
+  },
+  "Put the penguin in the pool!": {
+   "file": "assets/audio/voice/put-the-penguin-in-the-pool-5fca96.m4a",
+   "ms": 1792
+  },
+  "Give the hippo a swim!": {
+   "file": "assets/audio/voice/give-the-hippo-a-swim-224e12.m4a",
+   "ms": 1579
+  },
+  "Put the flamingo by the water!": {
+   "file": "assets/audio/voice/put-the-flamingo-by-the-water-15de64.m4a",
+   "ms": 1920
+  },
+  "Send the monkey to the jungle!": {
+   "file": "assets/audio/voice/send-the-monkey-to-the-jungle-bc33c3.m4a",
+   "ms": 1878
+  },
+  "Put the parrot in the jungle!": {
+   "file": "assets/audio/voice/put-the-parrot-in-the-jungle-38bef6.m4a",
+   "ms": 1835
+  },
+  "Find the panda a shady spot in the jungle!": {
+   "file": "assets/audio/voice/find-the-panda-a-shady-spot-in-the-jungle-7a1a22.m4a",
+   "ms": 2944
+  },
+  "Put the giraffe on the savanna!": {
+   "file": "assets/audio/voice/put-the-giraffe-on-the-savanna-a966e1.m4a",
+   "ms": 1963
+  },
+  "Put the zebra on the savanna!": {
+   "file": "assets/audio/voice/put-the-zebra-on-the-savanna-baddcf.m4a",
+   "ms": 2048
+  },
+  "Let the lion rest on the savanna!": {
+   "file": "assets/audio/voice/let-the-lion-rest-on-the-savanna-e90572.m4a",
+   "ms": 2347
+  },
+  "Walk the elephant to the savanna!": {
+   "file": "assets/audio/voice/walk-the-elephant-to-the-savanna-e3c3d4.m4a",
+   "ms": 2048
+  },
+  "Put 3 animals on the savanna!": {
+   "file": "assets/audio/voice/put-3-animals-on-the-savanna-a31c3e.m4a",
+   "ms": 2304
+  },
+  "Put 2 animals in the pool!": {
+   "file": "assets/audio/voice/put-2-animals-in-the-pool-063d3d.m4a",
+   "ms": 2091
+  },
+  "Put 4 animals in the zoo!": {
+   "file": "assets/audio/voice/put-4-animals-in-the-zoo-ead3a4.m4a",
+   "ms": 2176
+  },
+  "Find 3 birds for the zoo!": {
+   "file": "assets/audio/voice/find-3-birds-for-the-zoo-bcdf82.m4a",
+   "ms": 2091
+  },
+  "Tap 5 different animals!": {
+   "file": "assets/audio/voice/tap-5-different-animals-a6b41d.m4a",
+   "ms": 1963
+  },
+  "Tap the sun: bedtime at the zoo!": {
+   "file": "assets/audio/voice/tap-the-sun-bedtime-at-the-zoo-a4bb7a.m4a",
+   "ms": 3115
+  },
+  "Make the lion roar at night!": {
+   "file": "assets/audio/voice/make-the-lion-roar-at-night-1ef595.m4a",
+   "ms": 2475
+  },
+  "Fill the zoo with 12 friends!": {
+   "file": "assets/audio/voice/fill-the-zoo-with-12-friends-0c7825.m4a",
+   "ms": 2262
+  },
+  "Put an elephant in the zoo!": {
+   "file": "assets/audio/voice/put-an-elephant-in-the-zoo-c1fae8.m4a",
+   "ms": 1963
+  },
+  "Can you find 2 elephants?": {
+   "file": "assets/audio/voice/can-you-find-2-elephants-91bba4.m4a",
+   "ms": 2091
+  },
+  "Put 3 elephants in the zoo!": {
+   "file": "assets/audio/voice/put-3-elephants-in-the-zoo-abc4b6.m4a",
+   "ms": 2262
+  },
+  "Make the elephant really BIG!": {
+   "file": "assets/audio/voice/make-the-elephant-really-big-0260cf.m4a",
+   "ms": 2432
+  },
+  "Turn the elephant upside down!": {
+   "file": "assets/audio/voice/turn-the-elephant-upside-down-b96695.m4a",
+   "ms": 2262
+  },
+  "Make a teeny tiny elephant!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-elephant-e2a5a9.m4a",
+   "ms": 2347
+  },
+  "Make the elephant look the other way!": {
+   "file": "assets/audio/voice/make-the-elephant-look-the-other-way-1f0788.m4a",
+   "ms": 2176
+  },
+  "Put a giraffe in the zoo!": {
+   "file": "assets/audio/voice/put-a-giraffe-in-the-zoo-65aabf.m4a",
+   "ms": 1835
+  },
+  "Can you find 2 giraffes?": {
+   "file": "assets/audio/voice/can-you-find-2-giraffes-b48275.m4a",
+   "ms": 1920
+  },
+  "Put 3 giraffes in the zoo!": {
+   "file": "assets/audio/voice/put-3-giraffes-in-the-zoo-af06e3.m4a",
+   "ms": 2262
+  },
+  "Make the giraffe really BIG!": {
+   "file": "assets/audio/voice/make-the-giraffe-really-big-b4380a.m4a",
+   "ms": 2475
+  },
+  "Turn the giraffe upside down!": {
+   "file": "assets/audio/voice/turn-the-giraffe-upside-down-57a947.m4a",
+   "ms": 2134
+  },
+  "Make a teeny tiny giraffe!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-giraffe-308823.m4a",
+   "ms": 2219
+  },
+  "Make the giraffe look the other way!": {
+   "file": "assets/audio/voice/make-the-giraffe-look-the-other-way-637b63.m4a",
+   "ms": 2475
+  },
+  "Put a monkey in the zoo!": {
+   "file": "assets/audio/voice/put-a-monkey-in-the-zoo-5bcfa4.m4a",
+   "ms": 1963
+  },
+  "Can you find 2 monkeys?": {
+   "file": "assets/audio/voice/can-you-find-2-monkeys-302873.m4a",
+   "ms": 1920
+  },
+  "Put 3 monkeys in the zoo!": {
+   "file": "assets/audio/voice/put-3-monkeys-in-the-zoo-70b2e9.m4a",
+   "ms": 2134
+  },
+  "Make the monkey really BIG!": {
+   "file": "assets/audio/voice/make-the-monkey-really-big-320292.m4a",
+   "ms": 2347
+  },
+  "Turn the monkey upside down!": {
+   "file": "assets/audio/voice/turn-the-monkey-upside-down-b58375.m4a",
+   "ms": 2048
+  },
+  "Put a penguin in the zoo!": {
+   "file": "assets/audio/voice/put-a-penguin-in-the-zoo-171c35.m4a",
+   "ms": 1878
+  },
+  "Can you find 2 penguins?": {
+   "file": "assets/audio/voice/can-you-find-2-penguins-d25d72.m4a",
+   "ms": 1963
+  },
+  "Put 3 penguins in the zoo!": {
+   "file": "assets/audio/voice/put-3-penguins-in-the-zoo-ecdeb1.m4a",
+   "ms": 2262
+  },
+  "Make the penguin look the other way!": {
+   "file": "assets/audio/voice/make-the-penguin-look-the-other-way-e2f111.m4a",
+   "ms": 2006
+  },
+  "Put a lion in the zoo!": {
+   "file": "assets/audio/voice/put-a-lion-in-the-zoo-f34f72.m4a",
+   "ms": 1963
+  },
+  "Can you find 2 lions?": {
+   "file": "assets/audio/voice/can-you-find-2-lions-576e01.m4a",
+   "ms": 2006
+  },
+  "Put 3 lions in the zoo!": {
+   "file": "assets/audio/voice/put-3-lions-in-the-zoo-f8c062.m4a",
+   "ms": 2304
+  },
+  "Make the lion really BIG!": {
+   "file": "assets/audio/voice/make-the-lion-really-big-10a151.m4a",
+   "ms": 2176
+  },
+  "Turn the lion upside down!": {
+   "file": "assets/audio/voice/turn-the-lion-upside-down-defad9.m4a",
+   "ms": 2091
+  },
+  "Make a teeny tiny lion!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-lion-6d7bc3.m4a",
+   "ms": 2262
+  },
+  "Make the lion look the other way!": {
+   "file": "assets/audio/voice/make-the-lion-look-the-other-way-b6c4a6.m4a",
+   "ms": 1963
+  },
+  "Put a zebra in the zoo!": {
+   "file": "assets/audio/voice/put-a-zebra-in-the-zoo-43ddd6.m4a",
+   "ms": 1963
+  },
+  "Can you find 2 zebras?": {
+   "file": "assets/audio/voice/can-you-find-2-zebras-795253.m4a",
+   "ms": 1963
+  },
+  "Put 3 zebras in the zoo!": {
+   "file": "assets/audio/voice/put-3-zebras-in-the-zoo-949fd5.m4a",
+   "ms": 2219
+  },
+  "Make the zebra really BIG!": {
+   "file": "assets/audio/voice/make-the-zebra-really-big-c89d8e.m4a",
+   "ms": 2646
+  },
+  "Turn the zebra upside down!": {
+   "file": "assets/audio/voice/turn-the-zebra-upside-down-90b4cc.m4a",
+   "ms": 2006
+  },
+  "Make a teeny tiny zebra!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-zebra-45be0b.m4a",
+   "ms": 2219
+  },
+  "Make the zebra look the other way!": {
+   "file": "assets/audio/voice/make-the-zebra-look-the-other-way-17404d.m4a",
+   "ms": 2134
+  },
+  "Put a hippo in the zoo!": {
+   "file": "assets/audio/voice/put-a-hippo-in-the-zoo-2a2ffd.m4a",
+   "ms": 1792
+  },
+  "Can you find 2 hippos?": {
+   "file": "assets/audio/voice/can-you-find-2-hippos-5cafd8.m4a",
+   "ms": 1878
+  },
+  "Put 3 hippos in the zoo!": {
+   "file": "assets/audio/voice/put-3-hippos-in-the-zoo-c5d3c3.m4a",
+   "ms": 2176
+  },
+  "Make the hippo really BIG!": {
+   "file": "assets/audio/voice/make-the-hippo-really-big-65c679.m4a",
+   "ms": 2432
+  },
+  "Turn the hippo upside down!": {
+   "file": "assets/audio/voice/turn-the-hippo-upside-down-d339c9.m4a",
+   "ms": 2134
+  },
+  "Make a teeny tiny hippo!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-hippo-ee84bc.m4a",
+   "ms": 2219
+  },
+  "Make the hippo look the other way!": {
+   "file": "assets/audio/voice/make-the-hippo-look-the-other-way-39d85d.m4a",
+   "ms": 2048
+  },
+  "Put a zookeeper in the zoo!": {
+   "file": "assets/audio/voice/put-a-zookeeper-in-the-zoo-310122.m4a",
+   "ms": 2134
+  },
+  "Can you find 2 zookeepers?": {
+   "file": "assets/audio/voice/can-you-find-2-zookeepers-96ad2b.m4a",
+   "ms": 2219
+  },
+  "Put 3 zookeepers in the zoo!": {
+   "file": "assets/audio/voice/put-3-zookeepers-in-the-zoo-901040.m4a",
+   "ms": 2347
+  },
+  "Make the zookeeper really BIG!": {
+   "file": "assets/audio/voice/make-the-zookeeper-really-big-fb65ce.m4a",
+   "ms": 2518
+  },
+  "Turn the zookeeper upside down!": {
+   "file": "assets/audio/voice/turn-the-zookeeper-upside-down-999a9d.m4a",
+   "ms": 2347
+  },
+  "Make a teeny tiny zookeeper!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-zookeeper-433401.m4a",
+   "ms": 2560
+  },
+  "Put a banana tree in the zoo!": {
+   "file": "assets/audio/voice/put-a-banana-tree-in-the-zoo-93678a.m4a",
+   "ms": 2006
+  },
+  "Can you find 2 banana trees?": {
+   "file": "assets/audio/voice/can-you-find-2-banana-trees-ba33c2.m4a",
+   "ms": 2219
+  },
+  "Put 3 banana trees in the zoo!": {
+   "file": "assets/audio/voice/put-3-banana-trees-in-the-zoo-414e6f.m4a",
+   "ms": 2390
+  },
+  "Make the banana tree really BIG!": {
+   "file": "assets/audio/voice/make-the-banana-tree-really-big-556b48.m4a",
+   "ms": 2560
+  },
+  "Turn the banana tree upside down!": {
+   "file": "assets/audio/voice/turn-the-banana-tree-upside-down-6155df.m4a",
+   "ms": 2475
+  },
+  "Make a teeny tiny banana tree!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-banana-tree-6ba4b5.m4a",
+   "ms": 2518
+  },
+  "Put a panda in the zoo!": {
+   "file": "assets/audio/voice/put-a-panda-in-the-zoo-15eae3.m4a",
+   "ms": 1878
+  },
+  "Can you find 2 pandas?": {
+   "file": "assets/audio/voice/can-you-find-2-pandas-853600.m4a",
+   "ms": 1920
+  },
+  "Put 3 pandas in the zoo!": {
+   "file": "assets/audio/voice/put-3-pandas-in-the-zoo-676e62.m4a",
+   "ms": 2219
+  },
+  "Make the panda really BIG!": {
+   "file": "assets/audio/voice/make-the-panda-really-big-80c2cc.m4a",
+   "ms": 2347
+  },
+  "Turn the panda upside down!": {
+   "file": "assets/audio/voice/turn-the-panda-upside-down-e677d2.m4a",
+   "ms": 2091
+  },
+  "Make a teeny tiny panda!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-panda-4550f4.m4a",
+   "ms": 2176
+  },
+  "Put a flamingo in the zoo!": {
+   "file": "assets/audio/voice/put-a-flamingo-in-the-zoo-1e15af.m4a",
+   "ms": 1920
+  },
+  "Can you find 2 flamingos?": {
+   "file": "assets/audio/voice/can-you-find-2-flamingos-5ea75c.m4a",
+   "ms": 2091
+  },
+  "Put 3 flamingos in the zoo!": {
+   "file": "assets/audio/voice/put-3-flamingos-in-the-zoo-0358a5.m4a",
+   "ms": 2304
+  },
+  "Make the flamingo really BIG!": {
+   "file": "assets/audio/voice/make-the-flamingo-really-big-d202f1.m4a",
+   "ms": 2475
+  },
+  "Turn the flamingo upside down!": {
+   "file": "assets/audio/voice/turn-the-flamingo-upside-down-3e0f0c.m4a",
+   "ms": 2219
+  },
+  "Make a teeny tiny flamingo!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-flamingo-34869c.m4a",
+   "ms": 2475
+  },
+  "Make the flamingo look the other way!": {
+   "file": "assets/audio/voice/make-the-flamingo-look-the-other-way-87cd6a.m4a",
+   "ms": 2176
+  },
+  "Put a parrot in the zoo!": {
+   "file": "assets/audio/voice/put-a-parrot-in-the-zoo-6a0ddb.m4a",
+   "ms": 1792
+  },
+  "Can you find 2 parrots?": {
+   "file": "assets/audio/voice/can-you-find-2-parrots-915be4.m4a",
+   "ms": 1963
+  },
+  "Put 3 parrots in the zoo!": {
+   "file": "assets/audio/voice/put-3-parrots-in-the-zoo-d9e7d2.m4a",
+   "ms": 2134
+  },
+  "Make the parrot really BIG!": {
+   "file": "assets/audio/voice/make-the-parrot-really-big-f8d5b8.m4a",
+   "ms": 2432
+  },
+  "Turn the parrot upside down!": {
+   "file": "assets/audio/voice/turn-the-parrot-upside-down-0725e5.m4a",
+   "ms": 2006
+  },
+  "Make the parrot look the other way!": {
+   "file": "assets/audio/voice/make-the-parrot-look-the-other-way-669ed7.m4a",
+   "ms": 2006
+  },
+  "Put a kangaroo in the zoo!": {
+   "file": "assets/audio/voice/put-a-kangaroo-in-the-zoo-3f9c40.m4a",
+   "ms": 1920
+  },
+  "Can you find 2 kangaroos?": {
+   "file": "assets/audio/voice/can-you-find-2-kangaroos-9181d8.m4a",
+   "ms": 2091
+  },
+  "Put 3 kangaroos in the zoo!": {
+   "file": "assets/audio/voice/put-3-kangaroos-in-the-zoo-1eb368.m4a",
+   "ms": 2390
+  },
+  "Make the kangaroo really BIG!": {
+   "file": "assets/audio/voice/make-the-kangaroo-really-big-663d8b.m4a",
+   "ms": 2560
+  },
+  "Turn the kangaroo upside down!": {
+   "file": "assets/audio/voice/turn-the-kangaroo-upside-down-743123.m4a",
+   "ms": 2262
+  },
+  "Make a teeny tiny kangaroo!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-kangaroo-213dc3.m4a",
+   "ms": 2432
+  },
+  "Make the kangaroo look the other way!": {
+   "file": "assets/audio/voice/make-the-kangaroo-look-the-other-way-5ce17e.m4a",
+   "ms": 2134
+  },
+  "Put a peacock in the zoo!": {
+   "file": "assets/audio/voice/put-a-peacock-in-the-zoo-f843d6.m4a",
+   "ms": 1920
+  },
+  "Can you find 2 peacocks?": {
+   "file": "assets/audio/voice/can-you-find-2-peacocks-a10279.m4a",
+   "ms": 2006
+  },
+  "Put 3 peacocks in the zoo!": {
+   "file": "assets/audio/voice/put-3-peacocks-in-the-zoo-834e75.m4a",
+   "ms": 2219
+  },
+  "Make the peacock really BIG!": {
+   "file": "assets/audio/voice/make-the-peacock-really-big-299dc2.m4a",
+   "ms": 2475
+  },
+  "Turn the peacock upside down!": {
+   "file": "assets/audio/voice/turn-the-peacock-upside-down-47f88a.m4a",
+   "ms": 2091
+  },
+  "Make a teeny tiny peacock!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-peacock-ee77d9.m4a",
+   "ms": 2390
+  },
+  "Make the peacock look the other way!": {
+   "file": "assets/audio/voice/make-the-peacock-look-the-other-way-9ee631.m4a",
+   "ms": 2048
+  },
+  "Put the elephant next to the penguin!": {
+   "file": "assets/audio/voice/put-the-elephant-next-to-the-penguin-437818.m4a",
+   "ms": 2304
+  },
+  "Put the giraffe next to the lion!": {
+   "file": "assets/audio/voice/put-the-giraffe-next-to-the-lion-3139bd.m4a",
+   "ms": 2176
+  },
+  "Put the monkey next to the zebra!": {
+   "file": "assets/audio/voice/put-the-monkey-next-to-the-zebra-3e1f28.m4a",
+   "ms": 2134
+  },
+  "Put the penguin next to the hippo!": {
+   "file": "assets/audio/voice/put-the-penguin-next-to-the-hippo-bbf15b.m4a",
+   "ms": 2432
+  },
+  "Put the lion next to the zookeeper!": {
+   "file": "assets/audio/voice/put-the-lion-next-to-the-zookeeper-2a112a.m4a",
+   "ms": 2347
+  },
+  "Put the zebra next to the banana tree!": {
+   "file": "assets/audio/voice/put-the-zebra-next-to-the-banana-tree-afbe67.m4a",
+   "ms": 2390
+  },
+  "Put the hippo next to the panda!": {
+   "file": "assets/audio/voice/put-the-hippo-next-to-the-panda-15316e.m4a",
+   "ms": 2134
+  },
+  "Put the zookeeper next to the flamingo!": {
+   "file": "assets/audio/voice/put-the-zookeeper-next-to-the-flamingo-0e94fd.m4a",
+   "ms": 2432
+  },
+  "Put the banana tree next to the parrot!": {
+   "file": "assets/audio/voice/put-the-banana-tree-next-to-the-parrot-ecb318.m4a",
+   "ms": 2390
+  },
+  "Put the panda next to the kangaroo!": {
+   "file": "assets/audio/voice/put-the-panda-next-to-the-kangaroo-657c6d.m4a",
+   "ms": 2347
+  },
+  "Put the flamingo next to the peacock!": {
+   "file": "assets/audio/voice/put-the-flamingo-next-to-the-peacock-2c0c8a.m4a",
+   "ms": 2347
+  },
+  "Put the parrot next to the elephant!": {
+   "file": "assets/audio/voice/put-the-parrot-next-to-the-elephant-f4cf24.m4a",
+   "ms": 2262
+  },
+  "Put the kangaroo next to the giraffe!": {
+   "file": "assets/audio/voice/put-the-kangaroo-next-to-the-giraffe-a7ddfa.m4a",
+   "ms": 2219
+  },
+  "Put the peacock next to the monkey!": {
+   "file": "assets/audio/voice/put-the-peacock-next-to-the-monkey-370c8b.m4a",
+   "ms": 2134
+  },
+  "Churn the cement mixer!": {
+   "file": "assets/audio/voice/churn-the-cement-mixer-12bb47.m4a",
+   "ms": 1536
+  },
+  "Take the steamroller for a ride!": {
+   "file": "assets/audio/voice/take-the-steamroller-for-a-ride-604db3.m4a",
+   "ms": 2219
+  },
+  "Rat-a-tat! Use the jackhammer!": {
+   "file": "assets/audio/voice/rat-a-tat-use-the-jackhammer-a2e510.m4a",
+   "ms": 2304
+  },
+  "Make the cone go boing!": {
+   "file": "assets/audio/voice/make-the-cone-go-boing-f1f390.m4a",
+   "ms": 2048
+  },
+  "Make the site dog bark!": {
+   "file": "assets/audio/voice/make-the-site-dog-bark-9b6c11.m4a",
+   "ms": 1835
+  },
+  "Dig a pile of dirt with the excavator!": {
+   "file": "assets/audio/voice/dig-a-pile-of-dirt-with-the-excavator-34ceea.m4a",
+   "ms": 2475
+  },
+  "Dump a load of dirt from the truck!": {
+   "file": "assets/audio/voice/dump-a-load-of-dirt-from-the-truck-127fe4.m4a",
+   "ms": 2134
+  },
+  "Push a dirt pile away with the bulldozer!": {
+   "file": "assets/audio/voice/push-a-dirt-pile-away-with-the-bulldozer-1f3982.m4a",
+   "ms": 2475
+  },
+  "Dig 3 piles of dirt with the excavator!": {
+   "file": "assets/audio/voice/dig-3-piles-of-dirt-with-the-excavator-856037.m4a",
+   "ms": 2902
+  },
+  "Dig some dirt, then tap it to find a bone!": {
+   "file": "assets/audio/voice/dig-some-dirt-then-tap-it-to-find-a-bone-702d16.m4a",
+   "ms": 3158
+  },
+  "Give the site dog a bone!": {
+   "file": "assets/audio/voice/give-the-site-dog-a-bone-a8d2e8.m4a",
+   "ms": 1750
+  },
+  "Tap the building to add a floor!": {
+   "file": "assets/audio/voice/tap-the-building-to-add-a-floor-c486d7.m4a",
+   "ms": 1920
+  },
+  "Build the building all the way to the top!": {
+   "file": "assets/audio/voice/build-the-building-all-the-way-to-the-top-455bba.m4a",
+   "ms": 2646
+  },
+  "Put a building on the concrete!": {
+   "file": "assets/audio/voice/put-a-building-on-the-concrete-c9ddbc.m4a",
+   "ms": 1920
+  },
+  "Build 2 buildings!": {
+   "file": "assets/audio/voice/build-2-buildings-7221e0.m4a",
+   "ms": 1750
+  },
+  "Lift something with the crane!": {
+   "file": "assets/audio/voice/lift-something-with-the-crane-aebf82.m4a",
+   "ms": 1835
+  },
+  "Use the crane to lift the bricks!": {
+   "file": "assets/audio/voice/use-the-crane-to-lift-the-bricks-11a03a.m4a",
+   "ms": 2347
+  },
+  "Tip out the wheelbarrow!": {
+   "file": "assets/audio/voice/tip-out-the-wheelbarrow-b057ce.m4a",
+   "ms": 1664
+  },
+  "Tap the builder to put out a cone!": {
+   "file": "assets/audio/voice/tap-the-builder-to-put-out-a-cone-d3c65e.m4a",
+   "ms": 2390
+  },
+  "Line up 4 traffic cones!": {
+   "file": "assets/audio/voice/line-up-4-traffic-cones-52b092.m4a",
+   "ms": 2006
+  },
+  "Drive the excavator into the dirt pit!": {
+   "file": "assets/audio/voice/drive-the-excavator-into-the-dirt-pit-80daa3.m4a",
+   "ms": 2646
+  },
+  "Drive the bulldozer into the dirt pit!": {
+   "file": "assets/audio/voice/drive-the-bulldozer-into-the-dirt-pit-52c07e.m4a",
+   "ms": 2560
+  },
+  "Drive the dump truck on the road!": {
+   "file": "assets/audio/voice/drive-the-dump-truck-on-the-road-12fdcf.m4a",
+   "ms": 2091
+  },
+  "Roll the steamroller on the road!": {
+   "file": "assets/audio/voice/roll-the-steamroller-on-the-road-cd30eb.m4a",
+   "ms": 2176
+  },
+  "Put a cone on the road!": {
+   "file": "assets/audio/voice/put-a-cone-on-the-road-52f6da.m4a",
+   "ms": 1451
+  },
+  "Drive the cement mixer onto the concrete!": {
+   "file": "assets/audio/voice/drive-the-cement-mixer-onto-the-concrete-9e7100.m4a",
+   "ms": 2646
+  },
+  "Park the crane on the concrete!": {
+   "file": "assets/audio/voice/park-the-crane-on-the-concrete-0704eb.m4a",
+   "ms": 2134
+  },
+  "The dog wants to dig in the pit!": {
+   "file": "assets/audio/voice/the-dog-wants-to-dig-in-the-pit-3b6d20.m4a",
+   "ms": 2048
+  },
+  "Put 2 trucks on the road!": {
+   "file": "assets/audio/voice/put-2-trucks-on-the-road-94bde2.m4a",
+   "ms": 1792
+  },
+  "Bring 3 machines to the site!": {
+   "file": "assets/audio/voice/bring-3-machines-to-the-site-bd6eb1.m4a",
+   "ms": 2134
+  },
+  "Bring 2 workers to the site!": {
+   "file": "assets/audio/voice/bring-2-workers-to-the-site-82f276.m4a",
+   "ms": 2006
+  },
+  "Start up 4 different machines!": {
+   "file": "assets/audio/voice/start-up-4-different-machines-7f166b.m4a",
+   "ms": 2262
+  },
+  "Tap the sun: the site is closed for the night!": {
+   "file": "assets/audio/voice/tap-the-sun-the-site-is-closed-for-the-night-cb0dd2.m4a",
+   "ms": 3414
+  },
+  "Make it night, then start a new day!": {
+   "file": "assets/audio/voice/make-it-night-then-start-a-new-day-71dd03.m4a",
+   "ms": 2859
+  },
+  "Dig at night with the excavator!": {
+   "file": "assets/audio/voice/dig-at-night-with-the-excavator-d4ea98.m4a",
+   "ms": 2176
+  },
+  "Fill the building site with 10 things!": {
+   "file": "assets/audio/voice/fill-the-building-site-with-10-things-9a464e.m4a",
+   "ms": 2560
+  },
+  "Put an excavator at the building site!": {
+   "file": "assets/audio/voice/put-an-excavator-at-the-building-site-9c7eb3.m4a",
+   "ms": 2475
+  },
+  "Can you find 2 excavators?": {
+   "file": "assets/audio/voice/can-you-find-2-excavators-9a5880.m4a",
+   "ms": 2219
+  },
+  "Put 3 excavators at the building site!": {
+   "file": "assets/audio/voice/put-3-excavators-at-the-building-site-86df65.m4a",
+   "ms": 2646
+  },
+  "Make the excavator really BIG!": {
+   "file": "assets/audio/voice/make-the-excavator-really-big-01d59e.m4a",
+   "ms": 2518
+  },
+  "Turn the excavator upside down!": {
+   "file": "assets/audio/voice/turn-the-excavator-upside-down-644081.m4a",
+   "ms": 2475
+  },
+  "Make a teeny tiny excavator!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-excavator-0ccb59.m4a",
+   "ms": 2816
+  },
+  "Make the excavator look the other way!": {
+   "file": "assets/audio/voice/make-the-excavator-look-the-other-way-655bbe.m4a",
+   "ms": 2390
+  },
+  "Put a dump truck at the building site!": {
+   "file": "assets/audio/voice/put-a-dump-truck-at-the-building-site-7a255f.m4a",
+   "ms": 2176
+  },
+  "Can you find 2 dump trucks?": {
+   "file": "assets/audio/voice/can-you-find-2-dump-trucks-e58b57.m4a",
+   "ms": 2091
+  },
+  "Put 3 dump trucks at the building site!": {
+   "file": "assets/audio/voice/put-3-dump-trucks-at-the-building-site-7ef353.m4a",
+   "ms": 2432
+  },
+  "Make the dump truck really BIG!": {
+   "file": "assets/audio/voice/make-the-dump-truck-really-big-0c6701.m4a",
+   "ms": 2390
+  },
+  "Turn the dump truck upside down!": {
+   "file": "assets/audio/voice/turn-the-dump-truck-upside-down-eb661d.m4a",
+   "ms": 2304
+  },
+  "Make a teeny tiny dump truck!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-dump-truck-8df889.m4a",
+   "ms": 2646
+  },
+  "Make the dump truck look the other way!": {
+   "file": "assets/audio/voice/make-the-dump-truck-look-the-other-way-d62661.m4a",
+   "ms": 2646
+  },
+  "Put a bulldozer at the building site!": {
+   "file": "assets/audio/voice/put-a-bulldozer-at-the-building-site-05ddd3.m4a",
+   "ms": 2432
+  },
+  "Can you find 2 bulldozers?": {
+   "file": "assets/audio/voice/can-you-find-2-bulldozers-86ddcf.m4a",
+   "ms": 2219
+  },
+  "Put 3 bulldozers at the building site!": {
+   "file": "assets/audio/voice/put-3-bulldozers-at-the-building-site-da0ca7.m4a",
+   "ms": 2646
+  },
+  "Make the bulldozer really BIG!": {
+   "file": "assets/audio/voice/make-the-bulldozer-really-big-31a10d.m4a",
+   "ms": 2475
+  },
+  "Turn the bulldozer upside down!": {
+   "file": "assets/audio/voice/turn-the-bulldozer-upside-down-bd1180.m4a",
+   "ms": 2475
+  },
+  "Make a teeny tiny bulldozer!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-bulldozer-618dda.m4a",
+   "ms": 2603
+  },
+  "Make the bulldozer look the other way!": {
+   "file": "assets/audio/voice/make-the-bulldozer-look-the-other-way-c44841.m4a",
+   "ms": 2262
+  },
+  "Put a crane at the building site!": {
+   "file": "assets/audio/voice/put-a-crane-at-the-building-site-26899e.m4a",
+   "ms": 2006
+  },
+  "Can you find 2 cranes?": {
+   "file": "assets/audio/voice/can-you-find-2-cranes-b5ede4.m4a",
+   "ms": 1963
+  },
+  "Put 3 cranes at the building site!": {
+   "file": "assets/audio/voice/put-3-cranes-at-the-building-site-5e12ff.m4a",
+   "ms": 2262
+  },
+  "Make the crane really BIG!": {
+   "file": "assets/audio/voice/make-the-crane-really-big-986d8e.m4a",
+   "ms": 2219
+  },
+  "Turn the crane upside down!": {
+   "file": "assets/audio/voice/turn-the-crane-upside-down-419b97.m4a",
+   "ms": 2006
+  },
+  "Make a teeny tiny crane!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-crane-d8b487.m4a",
+   "ms": 2347
+  },
+  "Make the crane look the other way!": {
+   "file": "assets/audio/voice/make-the-crane-look-the-other-way-c59f20.m4a",
+   "ms": 1835
+  },
+  "Put a cement mixer at the building site!": {
+   "file": "assets/audio/voice/put-a-cement-mixer-at-the-building-site-05338c.m4a",
+   "ms": 2475
+  },
+  "Can you find 2 cement mixers?": {
+   "file": "assets/audio/voice/can-you-find-2-cement-mixers-9e735b.m4a",
+   "ms": 2262
+  },
+  "Put 3 cement mixers at the building site!": {
+   "file": "assets/audio/voice/put-3-cement-mixers-at-the-building-site-8708b1.m4a",
+   "ms": 2774
+  },
+  "Make the cement mixer really BIG!": {
+   "file": "assets/audio/voice/make-the-cement-mixer-really-big-93ed61.m4a",
+   "ms": 2646
+  },
+  "Turn the cement mixer upside down!": {
+   "file": "assets/audio/voice/turn-the-cement-mixer-upside-down-93c5c2.m4a",
+   "ms": 2475
+  },
+  "Make a teeny tiny cement mixer!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-cement-mixer-18e6d6.m4a",
+   "ms": 2774
+  },
+  "Make the cement mixer look the other way!": {
+   "file": "assets/audio/voice/make-the-cement-mixer-look-the-other-way-3fcde0.m4a",
+   "ms": 2390
+  },
+  "Put a steamroller at the building site!": {
+   "file": "assets/audio/voice/put-a-steamroller-at-the-building-site-9164f0.m4a",
+   "ms": 2347
+  },
+  "Can you find 2 steamrollers?": {
+   "file": "assets/audio/voice/can-you-find-2-steamrollers-1810f9.m4a",
+   "ms": 2219
+  },
+  "Put 3 steamrollers at the building site!": {
+   "file": "assets/audio/voice/put-3-steamrollers-at-the-building-site-3593f2.m4a",
+   "ms": 2646
+  },
+  "Make the steamroller really BIG!": {
+   "file": "assets/audio/voice/make-the-steamroller-really-big-f1e11c.m4a",
+   "ms": 2475
+  },
+  "Turn the steamroller upside down!": {
+   "file": "assets/audio/voice/turn-the-steamroller-upside-down-556a74.m4a",
+   "ms": 2347
+  },
+  "Make a teeny tiny steamroller!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-steamroller-47f4f0.m4a",
+   "ms": 2646
+  },
+  "Make the steamroller look the other way!": {
+   "file": "assets/audio/voice/make-the-steamroller-look-the-other-way-f651d7.m4a",
+   "ms": 2347
+  },
+  "Put a builder at the building site!": {
+   "file": "assets/audio/voice/put-a-builder-at-the-building-site-81ca8a.m4a",
+   "ms": 2176
+  },
+  "Can you find 2 builders?": {
+   "file": "assets/audio/voice/can-you-find-2-builders-2727bd.m4a",
+   "ms": 1878
+  },
+  "Put 3 builders at the building site!": {
+   "file": "assets/audio/voice/put-3-builders-at-the-building-site-0f27f1.m4a",
+   "ms": 2347
+  },
+  "Make the builder really BIG!": {
+   "file": "assets/audio/voice/make-the-builder-really-big-a3c858.m4a",
+   "ms": 2475
+  },
+  "Turn the builder upside down!": {
+   "file": "assets/audio/voice/turn-the-builder-upside-down-32e3f1.m4a",
+   "ms": 2091
+  },
+  "Make a teeny tiny builder!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-builder-9d3cf9.m4a",
+   "ms": 2304
+  },
+  "Make the builder look the other way!": {
+   "file": "assets/audio/voice/make-the-builder-look-the-other-way-f33fc9.m4a",
+   "ms": 2091
+  },
+  "Put a jackhammer at the building site!": {
+   "file": "assets/audio/voice/put-a-jackhammer-at-the-building-site-a76d77.m4a",
+   "ms": 2432
+  },
+  "Can you find 2 jackhammers?": {
+   "file": "assets/audio/voice/can-you-find-2-jackhammers-296415.m4a",
+   "ms": 2219
+  },
+  "Put 3 jackhammers at the building site!": {
+   "file": "assets/audio/voice/put-3-jackhammers-at-the-building-site-c4b910.m4a",
+   "ms": 2518
+  },
+  "Make the jackhammer really BIG!": {
+   "file": "assets/audio/voice/make-the-jackhammer-really-big-4e9d5f.m4a",
+   "ms": 2518
+  },
+  "Turn the jackhammer upside down!": {
+   "file": "assets/audio/voice/turn-the-jackhammer-upside-down-223860.m4a",
+   "ms": 2347
+  },
+  "Make a teeny tiny jackhammer!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-jackhammer-54d7dc.m4a",
+   "ms": 2560
+  },
+  "Make the jackhammer look the other way!": {
+   "file": "assets/audio/voice/make-the-jackhammer-look-the-other-way-e33b36.m4a",
+   "ms": 2390
+  },
+  "Put a building at the building site!": {
+   "file": "assets/audio/voice/put-a-building-at-the-building-site-b578e8.m4a",
+   "ms": 2219
+  },
+  "Can you find 2 buildings?": {
+   "file": "assets/audio/voice/can-you-find-2-buildings-a99d96.m4a",
+   "ms": 1963
+  },
+  "Put 3 buildings at the building site!": {
+   "file": "assets/audio/voice/put-3-buildings-at-the-building-site-78f1ef.m4a",
+   "ms": 2390
+  },
+  "Make the building really BIG!": {
+   "file": "assets/audio/voice/make-the-building-really-big-cce00d.m4a",
+   "ms": 2475
+  },
+  "Turn the building upside down!": {
+   "file": "assets/audio/voice/turn-the-building-upside-down-c40076.m4a",
+   "ms": 2219
+  },
+  "Make a teeny tiny building!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-building-0362e5.m4a",
+   "ms": 2262
+  },
+  "Make the building look the other way!": {
+   "file": "assets/audio/voice/make-the-building-look-the-other-way-2617c5.m4a",
+   "ms": 2091
+  },
+  "Put a cone at the building site!": {
+   "file": "assets/audio/voice/put-a-cone-at-the-building-site-53b674.m4a",
+   "ms": 1920
+  },
+  "Can you find 2 cones?": {
+   "file": "assets/audio/voice/can-you-find-2-cones-10852a.m4a",
+   "ms": 1835
+  },
+  "Put 3 cones at the building site!": {
+   "file": "assets/audio/voice/put-3-cones-at-the-building-site-fb29c1.m4a",
+   "ms": 2347
+  },
+  "Put a barrel at the building site!": {
+   "file": "assets/audio/voice/put-a-barrel-at-the-building-site-b20e7a.m4a",
+   "ms": 2176
+  },
+  "Can you find 2 barrels?": {
+   "file": "assets/audio/voice/can-you-find-2-barrels-fbfbd5.m4a",
+   "ms": 1835
+  },
+  "Put 3 barrels at the building site!": {
+   "file": "assets/audio/voice/put-3-barrels-at-the-building-site-1bd952.m4a",
+   "ms": 2347
+  },
+  "Put a crate at the building site!": {
+   "file": "assets/audio/voice/put-a-crate-at-the-building-site-589931.m4a",
+   "ms": 1878
+  },
+  "Can you find 2 crates?": {
+   "file": "assets/audio/voice/can-you-find-2-crates-7758ad.m4a",
+   "ms": 1835
+  },
+  "Put 3 crates at the building site!": {
+   "file": "assets/audio/voice/put-3-crates-at-the-building-site-691b3f.m4a",
+   "ms": 2262
+  },
+  "Put a wheelbarrow at the building site!": {
+   "file": "assets/audio/voice/put-a-wheelbarrow-at-the-building-site-5f4e92.m4a",
+   "ms": 2347
+  },
+  "Can you find 2 wheelbarrows?": {
+   "file": "assets/audio/voice/can-you-find-2-wheelbarrows-b13c11.m4a",
+   "ms": 2219
+  },
+  "Put 3 wheelbarrows at the building site!": {
+   "file": "assets/audio/voice/put-3-wheelbarrows-at-the-building-site-73c99f.m4a",
+   "ms": 2475
+  },
+  "Make the wheelbarrow really BIG!": {
+   "file": "assets/audio/voice/make-the-wheelbarrow-really-big-940d33.m4a",
+   "ms": 2603
+  },
+  "Turn the wheelbarrow upside down!": {
+   "file": "assets/audio/voice/turn-the-wheelbarrow-upside-down-6367a6.m4a",
+   "ms": 2262
+  },
+  "Make a teeny tiny wheelbarrow!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-wheelbarrow-8c85c2.m4a",
+   "ms": 2560
+  },
+  "Make the wheelbarrow look the other way!": {
+   "file": "assets/audio/voice/make-the-wheelbarrow-look-the-other-way-5eaed2.m4a",
+   "ms": 2219
+  },
+  "Put a site dog at the building site!": {
+   "file": "assets/audio/voice/put-a-site-dog-at-the-building-site-1cfe2d.m4a",
+   "ms": 2176
+  },
+  "Can you find 2 site dogs?": {
+   "file": "assets/audio/voice/can-you-find-2-site-dogs-fe0511.m4a",
+   "ms": 2048
+  },
+  "Put 3 site dogs at the building site!": {
+   "file": "assets/audio/voice/put-3-site-dogs-at-the-building-site-0196b2.m4a",
+   "ms": 2475
+  },
+  "Make the site dog really BIG!": {
+   "file": "assets/audio/voice/make-the-site-dog-really-big-24f5b6.m4a",
+   "ms": 2432
+  },
+  "Turn the site dog upside down!": {
+   "file": "assets/audio/voice/turn-the-site-dog-upside-down-483775.m4a",
+   "ms": 2219
+  },
+  "Make the site dog look the other way!": {
+   "file": "assets/audio/voice/make-the-site-dog-look-the-other-way-f31c9c.m4a",
+   "ms": 2219
+  },
+  "Put the excavator next to the crane!": {
+   "file": "assets/audio/voice/put-the-excavator-next-to-the-crane-bdfa85.m4a",
+   "ms": 2347
+  },
+  "Put the dump truck next to the cement mixer!": {
+   "file": "assets/audio/voice/put-the-dump-truck-next-to-the-cement-mixer-f13955.m4a",
+   "ms": 2560
+  },
+  "Put the bulldozer next to the steamroller!": {
+   "file": "assets/audio/voice/put-the-bulldozer-next-to-the-steamroller-7ca194.m4a",
+   "ms": 2560
+  },
+  "Put the crane next to the builder!": {
+   "file": "assets/audio/voice/put-the-crane-next-to-the-builder-f7315b.m4a",
+   "ms": 1963
+  },
+  "Put the cement mixer next to the jackhammer!": {
+   "file": "assets/audio/voice/put-the-cement-mixer-next-to-the-jackhammer-af852e.m4a",
+   "ms": 2646
+  },
+  "Put the steamroller next to the building!": {
+   "file": "assets/audio/voice/put-the-steamroller-next-to-the-building-290ef7.m4a",
+   "ms": 2390
+  },
+  "Put the builder next to the cone!": {
+   "file": "assets/audio/voice/put-the-builder-next-to-the-cone-6c2a58.m4a",
+   "ms": 2134
+  },
+  "Put the jackhammer next to the barrel!": {
+   "file": "assets/audio/voice/put-the-jackhammer-next-to-the-barrel-001b7b.m4a",
+   "ms": 2262
+  },
+  "Put the building next to the crate!": {
+   "file": "assets/audio/voice/put-the-building-next-to-the-crate-6d3593.m4a",
+   "ms": 2048
+  },
+  "Put the cone next to the wheelbarrow!": {
+   "file": "assets/audio/voice/put-the-cone-next-to-the-wheelbarrow-02f5c1.m4a",
+   "ms": 2134
+  },
+  "Put the barrel next to the site dog!": {
+   "file": "assets/audio/voice/put-the-barrel-next-to-the-site-dog-ffd601.m4a",
+   "ms": 2176
+  },
+  "Put the crate next to the excavator!": {
+   "file": "assets/audio/voice/put-the-crate-next-to-the-excavator-547339.m4a",
+   "ms": 2219
+  },
+  "Put the wheelbarrow next to the dump truck!": {
+   "file": "assets/audio/voice/put-the-wheelbarrow-next-to-the-dump-truck-6c2d24.m4a",
+   "ms": 2347
+  },
+  "Put the site dog next to the bulldozer!": {
+   "file": "assets/audio/voice/put-the-site-dog-next-to-the-bulldozer-860200.m4a",
+   "ms": 2475
+  },
+  "Can you fit 12 stickers at the building site?": {
+   "file": "assets/audio/voice/can-you-fit-12-stickers-at-the-building-site-3c02e7.m4a",
+   "ms": 2774
+  },
+  "Blast off in the rocket!": {
+   "file": "assets/audio/voice/blast-off-in-the-rocket-865583.m4a",
+   "ms": 1878
+  },
+  "Fly the astronaut with the jetpack!": {
+   "file": "assets/audio/voice/fly-the-astronaut-with-the-jetpack-47d2b6.m4a",
+   "ms": 2134
+  },
+  "Drive the moon rover!": {
+   "file": "assets/audio/voice/drive-the-moon-rover-d700ee.m4a",
+   "ms": 1536
+  },
+  "Make the satellite go beep boop!": {
+   "file": "assets/audio/voice/make-the-satellite-go-beep-boop-df13f3.m4a",
+   "ms": 2176
+  },
+  "Send the comet whooshing by!": {
+   "file": "assets/audio/voice/send-the-comet-whooshing-by-8077ef.m4a",
+   "ms": 2304
+  },
+  "Wake up the sleepy moon!": {
+   "file": "assets/audio/voice/wake-up-the-sleepy-moon-e84231.m4a",
+   "ms": 2006
+  },
+  "Say hi to planet Earth!": {
+   "file": "assets/audio/voice/say-hi-to-planet-earth-411ee1.m4a",
+   "ms": 1707
+  },
+  "Bounce a moon rock!": {
+   "file": "assets/audio/voice/bounce-a-moon-rock-dd3085.m4a",
+   "ms": 1451
+  },
+  "Tap the planet to make a shooting star!": {
+   "file": "assets/audio/voice/tap-the-planet-to-make-a-shooting-star-3b85db.m4a",
+   "ms": 2475
+  },
+  "Make 3 shooting stars!": {
+   "file": "assets/audio/voice/make-3-shooting-stars-34d736.m4a",
+   "ms": 2048
+  },
+  "Beam something up with the UFO!": {
+   "file": "assets/audio/voice/beam-something-up-with-the-ufo-81676a.m4a",
+   "ms": 2432
+  },
+  "Uh oh! Let the UFO beam up the astronaut!": {
+   "file": "assets/audio/voice/uh-oh-let-the-ufo-beam-up-the-astronaut-9ef134.m4a",
+   "ms": 3542
+  },
+  "Tap the star to make baby stars!": {
+   "file": "assets/audio/voice/tap-the-star-to-make-baby-stars-3e5ef9.m4a",
+   "ms": 2475
+  },
+  "Tap the star, then tap a baby star!": {
+   "file": "assets/audio/voice/tap-the-star-then-tap-a-baby-star-822956.m4a",
+   "ms": 3200
+  },
+  "Tap the star to make 6 baby stars!": {
+   "file": "assets/audio/voice/tap-the-star-to-make-6-baby-stars-3a3a39.m4a",
+   "ms": 2987
+  },
+  "Make the space dog fetch a moon rock!": {
+   "file": "assets/audio/voice/make-the-space-dog-fetch-a-moon-rock-3cd4ae.m4a",
+   "ms": 2390
+  },
+  "Feed a moon rock to the alien pet!": {
+   "file": "assets/audio/voice/feed-a-moon-rock-to-the-alien-pet-354609.m4a",
+   "ms": 2176
+  },
+  "Make the robot start up the rocket!": {
+   "file": "assets/audio/voice/make-the-robot-start-up-the-rocket-6ce21b.m4a",
+   "ms": 2304
+  },
+  "Make the alien say hello to the astronaut!": {
+   "file": "assets/audio/voice/make-the-alien-say-hello-to-the-astronaut-705b69.m4a",
+   "ms": 2816
+  },
+  "Put the rocket on the launch pad!": {
+   "file": "assets/audio/voice/put-the-rocket-on-the-launch-pad-15a2f6.m4a",
+   "ms": 1963
+  },
+  "Send the astronaut home to the moon base!": {
+   "file": "assets/audio/voice/send-the-astronaut-home-to-the-moon-base-5f0db8.m4a",
+   "ms": 2603
+  },
+  "Hide an alien in the crater!": {
+   "file": "assets/audio/voice/hide-an-alien-in-the-crater-ee7ed9.m4a",
+   "ms": 1963
+  },
+  "Drive the rover into the crater!": {
+   "file": "assets/audio/voice/drive-the-rover-into-the-crater-0346aa.m4a",
+   "ms": 2219
+  },
+  "Put a moon rock in the crater!": {
+   "file": "assets/audio/voice/put-a-moon-rock-in-the-crater-1d38a5.m4a",
+   "ms": 2048
+  },
+  "Take the robot to the moon base!": {
+   "file": "assets/audio/voice/take-the-robot-to-the-moon-base-797830.m4a",
+   "ms": 2048
+  },
+  "Bring the space dog to the base!": {
+   "file": "assets/audio/voice/bring-the-space-dog-to-the-base-469930.m4a",
+   "ms": 2006
+  },
+  "Land the UFO on the launch pad!": {
+   "file": "assets/audio/voice/land-the-ufo-on-the-launch-pad-652a5b.m4a",
+   "ms": 2432
+  },
+  "Put 3 friends in the crater!": {
+   "file": "assets/audio/voice/put-3-friends-in-the-crater-45805f.m4a",
+   "ms": 2048
+  },
+  "Invite 2 aliens to the moon!": {
+   "file": "assets/audio/voice/invite-2-aliens-to-the-moon-7b0b43.m4a",
+   "ms": 2475
+  },
+  "Put 3 spaceships in space!": {
+   "file": "assets/audio/voice/put-3-spaceships-in-space-5ec7db.m4a",
+   "ms": 2347
+  },
+  "Tap 5 different space things!": {
+   "file": "assets/audio/voice/tap-5-different-space-things-710ecb.m4a",
+   "ms": 2304
+  },
+  "Fill space with 10 things!": {
+   "file": "assets/audio/voice/fill-space-with-10-things-561411.m4a",
+   "ms": 2091
+  },
+  "Put a rocket in space!": {
+   "file": "assets/audio/voice/put-a-rocket-in-space-587bbe.m4a",
+   "ms": 1963
+  },
+  "Can you find 2 rockets?": {
+   "file": "assets/audio/voice/can-you-find-2-rockets-7cb63c.m4a",
+   "ms": 1963
+  },
+  "Put 3 rockets in space!": {
+   "file": "assets/audio/voice/put-3-rockets-in-space-9aba1b.m4a",
+   "ms": 2219
+  },
+  "Make the rocket really BIG!": {
+   "file": "assets/audio/voice/make-the-rocket-really-big-7198a9.m4a",
+   "ms": 2262
+  },
+  "Turn the rocket upside down!": {
+   "file": "assets/audio/voice/turn-the-rocket-upside-down-7fe62a.m4a",
+   "ms": 2134
+  },
+  "Make a teeny tiny rocket!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-rocket-50cc4e.m4a",
+   "ms": 2262
+  },
+  "Put an astronaut in space!": {
+   "file": "assets/audio/voice/put-an-astronaut-in-space-aa33ef.m4a",
+   "ms": 2262
+  },
+  "Can you find 2 astronauts?": {
+   "file": "assets/audio/voice/can-you-find-2-astronauts-039a89.m4a",
+   "ms": 2262
+  },
+  "Put 3 astronauts in space!": {
+   "file": "assets/audio/voice/put-3-astronauts-in-space-2e4228.m4a",
+   "ms": 2518
+  },
+  "Make the astronaut really BIG!": {
+   "file": "assets/audio/voice/make-the-astronaut-really-big-b8793a.m4a",
+   "ms": 2688
+  },
+  "Turn the astronaut upside down!": {
+   "file": "assets/audio/voice/turn-the-astronaut-upside-down-61ec22.m4a",
+   "ms": 2304
+  },
+  "Make a teeny tiny astronaut!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-astronaut-15408c.m4a",
+   "ms": 2475
+  },
+  "Make the astronaut look the other way!": {
+   "file": "assets/audio/voice/make-the-astronaut-look-the-other-way-02ba25.m4a",
+   "ms": 2262
+  },
+  "Put an alien in space!": {
+   "file": "assets/audio/voice/put-an-alien-in-space-7447a2.m4a",
+   "ms": 2134
+  },
+  "Can you find 2 aliens?": {
+   "file": "assets/audio/voice/can-you-find-2-aliens-4c6831.m4a",
+   "ms": 2091
+  },
+  "Put 3 aliens in space!": {
+   "file": "assets/audio/voice/put-3-aliens-in-space-e5a253.m4a",
+   "ms": 2390
+  },
+  "Make the alien really BIG!": {
+   "file": "assets/audio/voice/make-the-alien-really-big-e2a5d5.m4a",
+   "ms": 2347
+  },
+  "Turn the alien upside down!": {
+   "file": "assets/audio/voice/turn-the-alien-upside-down-fa85db.m4a",
+   "ms": 2219
+  },
+  "Put a UFO in space!": {
+   "file": "assets/audio/voice/put-a-ufo-in-space-e826f3.m4a",
+   "ms": 2518
+  },
+  "Can you find 2 UFOs?": {
+   "file": "assets/audio/voice/can-you-find-2-ufos-8c0ff0.m4a",
+   "ms": 2560
+  },
+  "Put 3 UFOs in space!": {
+   "file": "assets/audio/voice/put-3-ufos-in-space-defc77.m4a",
+   "ms": 2688
+  },
+  "Make the UFO really BIG!": {
+   "file": "assets/audio/voice/make-the-ufo-really-big-0c0295.m4a",
+   "ms": 3030
+  },
+  "Turn the UFO upside down!": {
+   "file": "assets/audio/voice/turn-the-ufo-upside-down-45cd9a.m4a",
+   "ms": 2304
+  },
+  "Make a teeny tiny UFO!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-ufo-4b679a.m4a",
+   "ms": 3030
+  },
+  "Put an earth in space!": {
+   "file": "assets/audio/voice/put-an-earth-in-space-937187.m4a",
+   "ms": 1878
+  },
+  "Can you find 2 earths?": {
+   "file": "assets/audio/voice/can-you-find-2-earths-83b2db.m4a",
+   "ms": 2134
+  },
+  "Put 3 earths in space!": {
+   "file": "assets/audio/voice/put-3-earths-in-space-7ed5ce.m4a",
+   "ms": 2347
+  },
+  "Make the earth really BIG!": {
+   "file": "assets/audio/voice/make-the-earth-really-big-b49a10.m4a",
+   "ms": 2347
+  },
+  "Turn the earth upside down!": {
+   "file": "assets/audio/voice/turn-the-earth-upside-down-cdce4b.m4a",
+   "ms": 2176
+  },
+  "Make a teeny tiny earth!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-earth-b08c41.m4a",
+   "ms": 2219
+  },
+  "Put a moon in space!": {
+   "file": "assets/audio/voice/put-a-moon-in-space-b4cc7e.m4a",
+   "ms": 1792
+  },
+  "Can you find 2 moons?": {
+   "file": "assets/audio/voice/can-you-find-2-moons-2f2476.m4a",
+   "ms": 1920
+  },
+  "Put 3 moons in space!": {
+   "file": "assets/audio/voice/put-3-moons-in-space-5327b0.m4a",
+   "ms": 2347
+  },
+  "Make the moon really BIG!": {
+   "file": "assets/audio/voice/make-the-moon-really-big-000035.m4a",
+   "ms": 2475
+  },
+  "Turn the moon upside down!": {
+   "file": "assets/audio/voice/turn-the-moon-upside-down-1589ef.m4a",
+   "ms": 2048
+  },
+  "Make a teeny tiny moon!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-moon-21cbd6.m4a",
+   "ms": 2304
+  },
+  "Make the moon look the other way!": {
+   "file": "assets/audio/voice/make-the-moon-look-the-other-way-b9abd5.m4a",
+   "ms": 1963
+  },
+  "Put a moon rover in space!": {
+   "file": "assets/audio/voice/put-a-moon-rover-in-space-88e14d.m4a",
+   "ms": 2134
+  },
+  "Can you find 2 moon rovers?": {
+   "file": "assets/audio/voice/can-you-find-2-moon-rovers-c25ea6.m4a",
+   "ms": 2304
+  },
+  "Put 3 moon rovers in space!": {
+   "file": "assets/audio/voice/put-3-moon-rovers-in-space-aae855.m4a",
+   "ms": 2518
+  },
+  "Make the moon rover really BIG!": {
+   "file": "assets/audio/voice/make-the-moon-rover-really-big-d02284.m4a",
+   "ms": 2560
+  },
+  "Turn the moon rover upside down!": {
+   "file": "assets/audio/voice/turn-the-moon-rover-upside-down-29b951.m4a",
+   "ms": 2390
+  },
+  "Make a teeny tiny moon rover!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-moon-rover-1f4ab6.m4a",
+   "ms": 2603
+  },
+  "Make the moon rover look the other way!": {
+   "file": "assets/audio/voice/make-the-moon-rover-look-the-other-way-833d32.m4a",
+   "ms": 2262
+  },
+  "Put a satellite in space!": {
+   "file": "assets/audio/voice/put-a-satellite-in-space-1a5144.m4a",
+   "ms": 2048
+  },
+  "Can you find 2 satellites?": {
+   "file": "assets/audio/voice/can-you-find-2-satellites-18b4e1.m4a",
+   "ms": 1963
+  },
+  "Put 3 satellites in space!": {
+   "file": "assets/audio/voice/put-3-satellites-in-space-7476b5.m4a",
+   "ms": 2432
+  },
+  "Make the satellite really BIG!": {
+   "file": "assets/audio/voice/make-the-satellite-really-big-ee4bc6.m4a",
+   "ms": 2432
+  },
+  "Turn the satellite upside down!": {
+   "file": "assets/audio/voice/turn-the-satellite-upside-down-7788f2.m4a",
+   "ms": 2219
+  },
+  "Make a teeny tiny satellite!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-satellite-ba990d.m4a",
+   "ms": 2560
+  },
+  "Put a space dog in space!": {
+   "file": "assets/audio/voice/put-a-space-dog-in-space-37c35b.m4a",
+   "ms": 2134
+  },
+  "Can you find 2 space dogs?": {
+   "file": "assets/audio/voice/can-you-find-2-space-dogs-f49a52.m4a",
+   "ms": 2091
+  },
+  "Put 3 space dogs in space!": {
+   "file": "assets/audio/voice/put-3-space-dogs-in-space-29bf87.m4a",
+   "ms": 2390
+  },
+  "Make the space dog really BIG!": {
+   "file": "assets/audio/voice/make-the-space-dog-really-big-e1cdef.m4a",
+   "ms": 2560
+  },
+  "Turn the space dog upside down!": {
+   "file": "assets/audio/voice/turn-the-space-dog-upside-down-8ca385.m4a",
+   "ms": 2304
+  },
+  "Make the space dog look the other way!": {
+   "file": "assets/audio/voice/make-the-space-dog-look-the-other-way-5bb608.m4a",
+   "ms": 2219
+  },
+  "Put a moon rock in space!": {
+   "file": "assets/audio/voice/put-a-moon-rock-in-space-f65dab.m4a",
+   "ms": 2219
+  },
+  "Can you find 2 moon rocks?": {
+   "file": "assets/audio/voice/can-you-find-2-moon-rocks-c783d1.m4a",
+   "ms": 1963
+  },
+  "Put 3 moon rocks in space!": {
+   "file": "assets/audio/voice/put-3-moon-rocks-in-space-7e358e.m4a",
+   "ms": 2347
+  },
+  "Put a star in space!": {
+   "file": "assets/audio/voice/put-a-star-in-space-bb6b50.m4a",
+   "ms": 1878
+  },
+  "Can you find 2 stars?": {
+   "file": "assets/audio/voice/can-you-find-2-stars-945594.m4a",
+   "ms": 1878
+  },
+  "Put 3 stars in space!": {
+   "file": "assets/audio/voice/put-3-stars-in-space-4f1491.m4a",
+   "ms": 2219
+  },
+  "Put a robot in space!": {
+   "file": "assets/audio/voice/put-a-robot-in-space-fa9de2.m4a",
+   "ms": 1963
+  },
+  "Can you find 2 robots?": {
+   "file": "assets/audio/voice/can-you-find-2-robots-95420b.m4a",
+   "ms": 1963
+  },
+  "Put 3 robots in space!": {
+   "file": "assets/audio/voice/put-3-robots-in-space-7abacf.m4a",
+   "ms": 2219
+  },
+  "Make the robot really BIG!": {
+   "file": "assets/audio/voice/make-the-robot-really-big-988a55.m4a",
+   "ms": 2347
+  },
+  "Turn the robot upside down!": {
+   "file": "assets/audio/voice/turn-the-robot-upside-down-484347.m4a",
+   "ms": 2091
+  },
+  "Make a teeny tiny robot!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-robot-468cdd.m4a",
+   "ms": 2347
+  },
+  "Put a comet in space!": {
+   "file": "assets/audio/voice/put-a-comet-in-space-9f2a88.m4a",
+   "ms": 1920
+  },
+  "Can you find 2 comets?": {
+   "file": "assets/audio/voice/can-you-find-2-comets-b99c36.m4a",
+   "ms": 2048
+  },
+  "Put 3 comets in space!": {
+   "file": "assets/audio/voice/put-3-comets-in-space-9eef6b.m4a",
+   "ms": 2262
+  },
+  "Make the comet really BIG!": {
+   "file": "assets/audio/voice/make-the-comet-really-big-007229.m4a",
+   "ms": 2262
+  },
+  "Turn the comet upside down!": {
+   "file": "assets/audio/voice/turn-the-comet-upside-down-5fe219.m4a",
+   "ms": 2006
+  },
+  "Make a teeny tiny comet!": {
+   "file": "assets/audio/voice/make-a-teeny-tiny-comet-aee028.m4a",
+   "ms": 2347
+  },
+  "Make the comet look the other way!": {
+   "file": "assets/audio/voice/make-the-comet-look-the-other-way-000a00.m4a",
+   "ms": 2091
+  },
+  "Put an alien pet in space!": {
+   "file": "assets/audio/voice/put-an-alien-pet-in-space-c56daa.m4a",
+   "ms": 2432
+  },
+  "Can you find 2 alien pets?": {
+   "file": "assets/audio/voice/can-you-find-2-alien-pets-b22145.m4a",
+   "ms": 2219
+  },
+  "Put 3 alien pets in space!": {
+   "file": "assets/audio/voice/put-3-alien-pets-in-space-546942.m4a",
+   "ms": 2731
+  },
+  "Put the rocket next to the UFO!": {
+   "file": "assets/audio/voice/put-the-rocket-next-to-the-ufo-b54e29.m4a",
+   "ms": 2560
+  },
+  "Put the astronaut next to the earth!": {
+   "file": "assets/audio/voice/put-the-astronaut-next-to-the-earth-9a7e74.m4a",
+   "ms": 2134
+  },
+  "Put the alien next to the moon!": {
+   "file": "assets/audio/voice/put-the-alien-next-to-the-moon-fd9f7f.m4a",
+   "ms": 2091
+  },
+  "Put the UFO next to the moon rover!": {
+   "file": "assets/audio/voice/put-the-ufo-next-to-the-moon-rover-edb3f6.m4a",
+   "ms": 3030
+  },
+  "Put the earth next to the satellite!": {
+   "file": "assets/audio/voice/put-the-earth-next-to-the-satellite-b647d2.m4a",
+   "ms": 2219
+  },
+  "Put the moon next to the space dog!": {
+   "file": "assets/audio/voice/put-the-moon-next-to-the-space-dog-ff84f2.m4a",
+   "ms": 2304
+  },
+  "Put the moon rover next to the moon rock!": {
+   "file": "assets/audio/voice/put-the-moon-rover-next-to-the-moon-rock-15bf80.m4a",
+   "ms": 2518
+  },
+  "Put the satellite next to the star!": {
+   "file": "assets/audio/voice/put-the-satellite-next-to-the-star-641765.m4a",
+   "ms": 2518
+  },
+  "Put the space dog next to the robot!": {
+   "file": "assets/audio/voice/put-the-space-dog-next-to-the-robot-0bf201.m4a",
+   "ms": 2347
+  },
+  "Put the moon rock next to the comet!": {
+   "file": "assets/audio/voice/put-the-moon-rock-next-to-the-comet-abba50.m4a",
+   "ms": 2176
+  },
+  "Put the star next to the alien pet!": {
+   "file": "assets/audio/voice/put-the-star-next-to-the-alien-pet-cb5340.m4a",
+   "ms": 2390
+  },
+  "Put the robot next to the rocket!": {
+   "file": "assets/audio/voice/put-the-robot-next-to-the-rocket-fd08c9.m4a",
+   "ms": 2134
+  },
+  "Put the comet next to the astronaut!": {
+   "file": "assets/audio/voice/put-the-comet-next-to-the-astronaut-ad43d0.m4a",
+   "ms": 2390
+  },
+  "Put the alien pet next to the alien!": {
+   "file": "assets/audio/voice/put-the-alien-pet-next-to-the-alien-1ccc02.m4a",
+   "ms": 2560
+  },
+  "Can you fit 12 stickers in space?": {
+   "file": "assets/audio/voice/can-you-fit-12-stickers-in-space-a7d501.m4a",
+   "ms": 2475
+  },
+  "Great job!": {
+   "file": "assets/audio/voice/great-job-a2d4f4.m4a",
+   "ms": 1152
+  },
+  "You did it!": {
+   "file": "assets/audio/voice/you-did-it-559b1a.m4a",
+   "ms": 1024
+  },
+  "Hooray!": {
+   "file": "assets/audio/voice/hooray-f58bd8.m4a",
+   "ms": 854
+  },
+  "Well done!": {
+   "file": "assets/audio/voice/well-done-12532d.m4a",
+   "ms": 1067
+  },
+  "Super!": {
+   "file": "assets/audio/voice/super-272511.m4a",
+   "ms": 726
+  },
+  "You did all ten! Amazing!": {
+   "file": "assets/audio/voice/you-did-all-ten-amazing-f8b402.m4a",
+   "ms": 2902
+  },
+  "You won the Wolf Pup!": {
+   "file": "assets/audio/voice/you-won-the-wolf-pup-f26878.m4a",
+   "ms": 1622
+  },
+  "You won the Pumpkin Coach!": {
+   "file": "assets/audio/voice/you-won-the-pumpkin-coach-751f01.m4a",
+   "ms": 1920
+  },
+  "You won the Golden Chicken!": {
+   "file": "assets/audio/voice/you-won-the-golden-chicken-298e2a.m4a",
+   "ms": 2262
+  },
+  "You won the Llama!": {
+   "file": "assets/audio/voice/you-won-the-llama-e551da.m4a",
+   "ms": 1536
+  },
+  "You won the Bouncy Castle!": {
+   "file": "assets/audio/voice/you-won-the-bouncy-castle-dc4162.m4a",
+   "ms": 1963
+  },
+  "You won the Carousel!": {
+   "file": "assets/audio/voice/you-won-the-carousel-284ef0.m4a",
+   "ms": 1622
+  },
+  "You won the Whale!": {
+   "file": "assets/audio/voice/you-won-the-whale-434c40.m4a",
+   "ms": 1536
+  },
+  "You won the Pirate Ship!": {
+   "file": "assets/audio/voice/you-won-the-pirate-ship-5ccd2d.m4a",
+   "ms": 1664
+  },
+  "You won the Tiger!": {
+   "file": "assets/audio/voice/you-won-the-tiger-b086ec.m4a",
+   "ms": 1451
+  },
+  "You won the Polar Bear!": {
+   "file": "assets/audio/voice/you-won-the-polar-bear-fca781.m4a",
+   "ms": 1664
+  },
+  "You won the Monster Truck!": {
+   "file": "assets/audio/voice/you-won-the-monster-truck-6d65e0.m4a",
+   "ms": 1920
+  },
+  "You won the Wrecking Ball!": {
+   "file": "assets/audio/voice/you-won-the-wrecking-ball-3021da.m4a",
+   "ms": 1835
+  },
+  "You won the Space Shuttle!": {
+   "file": "assets/audio/voice/you-won-the-space-shuttle-df09c9.m4a",
+   "ms": 1750
+  },
+  "You won the Mothership!": {
+   "file": "assets/audio/voice/you-won-the-mothership-93f9db.m4a",
+   "ms": 1707
+  }
+ },
+ "stickerSounds": {
+  "farm-cow": "moo",
+  "farm-pig": "oink",
+  "farm-chicken": "cluck",
+  "farm-golden-chicken": "cluck",
+  "farm-sheep": "baa",
+  "farm-horse": "neigh",
+  "farm-goat": "maa",
+  "farm-duck": "quack",
+  "farm-dog": "woof",
+  "construction-dog": "woof",
+  "farm-cat": "meow",
+  "halloween-cat": "meow",
+  "farm-bunny": "boing",
+  "zoo-kangaroo": "boing",
+  "space-moon-rock": "boing",
+  "construction-cone": "boing",
+  "farm-farmer": "whistle",
+  "farm-tractor": "tractor",
+  "farm-apple-tree": "tree-shake",
+  "zoo-banana-tree": "tree-shake",
+  "farm-scarecrow": "crows",
+  "farm-llama": "llama-hum",
+  "farm-egg": "egg-crack",
+  "farm-golden-egg": "egg-crack",
+  "beach-turtle-egg": "egg-crack",
+  "farm-chick": "peep",
+  "farm-golden-chick": "peep",
+  "farm-duckling": "peep",
+  "farm-apple": "wobble",
+  "playground-acorn": "wobble",
+  "zoo-banana": "wobble",
+  "construction-bone": "wobble",
+  "construction-bricks": "wobble",
+  "playground-slide": "slide",
+  "playground-swing": "swing",
+  "playground-seesaw": "seesaw",
+  "playground-bouncy-horse": "spring-rider",
+  "playground-boy": "kick",
+  "playground-girl": "bubble-blow",
+  "playground-dog": "yip",
+  "space-dog": "yip",
+  "playground-ball": "ball-bounce",
+  "beach-ball": "ball-bounce",
+  "playground-kite": "kite",
+  "playground-balloon": "balloon",
+  "playground-balloon-blue": "balloon",
+  "playground-balloon-yellow": "balloon",
+  "playground-balloon-green": "balloon",
+  "playground-trike": "bike-bell",
+  "playground-ice-cream-cart": "ice-cream-bell",
+  "playground-squirrel": "nibble",
+  "playground-tree": "tree-bird",
+  "playground-bouncy-castle": "bouncy-castle",
+  "playground-carousel": "carousel",
+  "playground-bubble": "bubble-pop",
+  "halloween-potion-bubble": "bubble-pop",
+  "playground-ice-cream": "yum",
+  "beach-watermelon": "yum",
+  "beach-crab": "crab-snip",
+  "beach-sandcastle": "sand-crash",
+  "beach-sand-pile": "sand-build",
+  "beach-bucket": "sand-scoop",
+  "beach-seagull": "seagull",
+  "beach-cooler": "cooler",
+  "beach-dolphin": "dolphin",
+  "beach-sailboat": "sailboat",
+  "beach-surfer": "wave",
+  "beach-lifeguard": "lifeguard-whistle",
+  "beach-turtle": "dig-sand",
+  "beach-starfish": "squeak",
+  "beach-hermit-crab": "peekaboo",
+  "beach-umbrella": "umbrella",
+  "beach-whale": "whale",
+  "beach-pirate-ship": "cannon-puff",
+  "beach-baby-turtle": "paddle",
+  "zoo-elephant": "elephant",
+  "zoo-giraffe": "munch",
+  "zoo-monkey": "monkey",
+  "zoo-penguin": "penguin",
+  "zoo-lion": "lion-roar",
+  "zoo-zebra": "zebra",
+  "zoo-hippo": "yawn",
+  "space-moon": "yawn",
+  "zoo-zookeeper": "fish-toss",
+  "zoo-panda": "tumble",
+  "zoo-flamingo": "flamingo",
+  "zoo-parrot": "parrot",
+  "zoo-peacock": "peacock",
+  "zoo-tiger": "tiger",
+  "zoo-polar-bear": "belly-slide",
+  "zoo-fish": "fish-flop",
+  "construction-excavator": "excavator",
+  "construction-dump-truck": "dump-truck",
+  "construction-bulldozer": "bulldozer",
+  "construction-crane": "crane",
+  "construction-cement-mixer": "cement-mixer",
+  "construction-steamroller": "steamroller",
+  "construction-builder": "cone-place",
+  "construction-jackhammer": "jackhammer",
+  "construction-building": "build",
+  "construction-building-2": "build",
+  "construction-building-3": "build",
+  "construction-building-4": "build",
+  "construction-barrel": "bonk",
+  "construction-crate": "thunk",
+  "construction-wheelbarrow": "bricks",
+  "construction-monster-truck": "monster-truck",
+  "construction-wrecking-ball": "wrecking-ball",
+  "construction-dirt": "dirt-dig",
+  "space-rocket": "rocket",
+  "space-shuttle": "rocket",
+  "space-astronaut": "jetpack",
+  "space-alien": "alien",
+  "space-ufo": "ufo-beam",
+  "space-earth": "earth-spin",
+  "space-rover": "rover",
+  "space-satellite": "satellite",
+  "space-robot": "beep-boop",
+  "space-comet": "comet",
+  "space-alien-pet": "crunch",
+  "space-star": "star-twinkle",
+  "space-baby-star": "twinkle",
+  "space-mothership": "mothership",
+  "halloween-pumpkin": "carve",
+  "halloween-ghost": "ghost-boo",
+  "halloween-bat": "bat",
+  "halloween-baby-bat": "bat",
+  "halloween-witch": "broom-whoosh",
+  "halloween-cauldron": "cauldron",
+  "halloween-skeleton": "skeleton",
+  "halloween-candy-bowl": "candy-bowl",
+  "halloween-monster": "monster-munch",
+  "halloween-dino-kid": "dino-rawr",
+  "halloween-mummy": "mummy",
+  "halloween-spider": "spider-drop",
+  "halloween-owl": "owl",
+  "halloween-tree": "spooky-tree",
+  "halloween-wolf": "wolf-howl",
+  "halloween-coach": "coach",
+  "halloween-jack": "giggle",
+  "halloween-candy": "candy-crinkle",
+  "halloween-candy-corn": "candy-crinkle"
+ }
+}

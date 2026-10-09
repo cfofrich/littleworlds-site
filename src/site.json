@@ -1,0 +1,14 @@
+{
+  "appStore": "https://apps.apple.com/us/app/little-worlds-stickers/id6759228345",
+  "campaign": "",
+  "email": "littleworldsapp@proton.me",
+  "worlds": {
+    "halloween": { "text": "Carve pumpkins, hear the ghost say Boo, fly the witch's broom and feed the monster candy." },
+    "farm": { "text": "The hen lays an egg that hatches, apples drop from the tree and the tractor drives off." },
+    "playground": { "text": "Slides and swings, bubbles to pop, balloons that change color and a puppy who fetches." },
+    "beach": { "text": "Knock down the sandcastle, watch turtle eggs hatch and catch a wave with the surfer." },
+    "zoo": { "text": "Shake the banana tree for the monkey, feed the penguin a fish and hear the lion roar." },
+    "construction": { "text": "Dig, dump and lift, build a tower floor by floor and help the site dog find a bone." },
+    "space": { "text": "Blast off in the rocket, beam things up with the UFO and say hello to a friendly alien." }
+  }
+}

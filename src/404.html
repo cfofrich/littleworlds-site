@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+{{> head}}
+<title>Page not found · Little Worlds: Stickers</title>
+<meta name="robots" content="noindex">
+</head>
+<body class="page">
+<header class="mini">
+  <a class="mini-logo" href="/" aria-label="Little Worlds: Stickers, home">
+    <span class="globe">{{ui globe}}</span>
+    <span class="words"><span class="word">Little Worlds</span><span class="ribbon">Stickers</span></span>
+  </a>
+</header>
+<main id="main" class="lost" data-stage>
+  {{sticker playground-dog}}
+  <h1 class="title">This page wandered off</h1>
+  <p>The puppy looked everywhere. Let’s go back to the worlds.</p>
+  <p><a class="home-btn" href="/">Take me home</a></p>
+</main>
+{{> footer}}
+<div id="sticker-live" class="sr-only" aria-live="polite"></div>
+{{sticker-data}}
+<script src="{{v /js/stickers.js}}" defer></script>
+</body>
+</html>

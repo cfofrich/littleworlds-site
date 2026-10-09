@@ -1,0 +1,20 @@
+# Cloudflare Pages headers. Nothing on this site comes from anywhere else, so the policy only allows 'self'.
+/*
+  Content-Security-Policy: default-src 'self'; img-src 'self' data:; style-src 'self' 'unsafe-inline'; script-src 'self'; font-src 'self'; connect-src 'self'; media-src 'self'; object-src 'none'; base-uri 'self'; form-action 'none'; frame-ancestors 'none'
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=(), usb=(), browsing-topics=(), interest-cohort=()
+  Cross-Origin-Opener-Policy: same-origin
+
+# versioned by ?v= in the pages, so they can be cached for good
+/css/*
+  Cache-Control: public, max-age=31536000, immutable
+/js/*
+  Cache-Control: public, max-age=31536000, immutable
+/fonts/*
+  Cache-Control: public, max-age=31536000, immutable
+/audio/*
+  Cache-Control: public, max-age=2592000
+/img/*
+  Cache-Control: public, max-age=604800

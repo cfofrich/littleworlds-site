@@ -1,0 +1,227 @@
+<!doctype html>
+<html lang="en">
+<head>
+{{> head}}
+<title>Little Worlds: Stickers, sticker worlds that come alive</title>
+<meta name="description" content="A calm, creative sticker app for young kids on iPhone and iPad. Seven hand-drawn worlds where every sticker moves and makes a sound. Free, with no ads, no tracking and no in-app purchases.">
+<link rel="canonical" href="https://littleworlds.io/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Little Worlds: Stickers">
+<meta property="og:title" content="Little Worlds: Stickers">
+<meta property="og:description" content="Sticker worlds that come alive. Seven hand-drawn worlds where every sticker moves and makes a sound. For iPhone and iPad.">
+<meta property="og:url" content="https://littleworlds.io/">
+<meta property="og:image" content="https://littleworlds.io/img/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="The Little Worlds logo with a chicken, cow, ghost, jack-o'-lantern, lion, rocket and crab standing on a green hill.">
+<meta name="twitter:card" content="summary_large_image">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+
+<header class="hero">
+  <div class="sky" aria-hidden="true">
+    <div class="sun">
+      <svg class="rays" viewBox="-480 -480 960 960">
+        <g fill="#FFF6C4"><path d="M0 0 L460 -40 L460 40 Z"/><path d="M0 0 L460 -40 L460 40 Z" transform="rotate(30)"/><path d="M0 0 L460 -40 L460 40 Z" transform="rotate(60)"/><path d="M0 0 L460 -40 L460 40 Z" transform="rotate(90)"/><path d="M0 0 L460 -40 L460 40 Z" transform="rotate(120)"/><path d="M0 0 L460 -40 L460 40 Z" transform="rotate(150)"/><path d="M0 0 L460 -40 L460 40 Z" transform="rotate(180)"/><path d="M0 0 L460 -40 L460 40 Z" transform="rotate(210)"/><path d="M0 0 L460 -40 L460 40 Z" transform="rotate(240)"/><path d="M0 0 L460 -40 L460 40 Z" transform="rotate(270)"/><path d="M0 0 L460 -40 L460 40 Z" transform="rotate(300)"/><path d="M0 0 L460 -40 L460 40 Z" transform="rotate(330)"/></g>
+      </svg>
+      <svg class="face" viewBox="100 130 140 140"><circle cx="170" cy="200" r="64" fill="#FFD34D" class="o" stroke-width="6"/><circle cx="150" cy="194" r="6" fill="#4A3426"/><circle cx="190" cy="194" r="6" fill="#4A3426"/><circle cx="138" cy="214" r="8" fill="#FF9F43" opacity="0.6"/><circle cx="202" cy="214" r="8" fill="#FF9F43" opacity="0.6"/><path d="M156 214 Q170 228 184 214" fill="none" class="o" stroke-width="5"/></svg>
+    </div>
+    <span class="cloud c1">{{ui cloud}}</span>
+    <span class="cloud c2">{{ui cloud}}</span>
+  </div>
+
+  <div class="hero-in">
+    <div class="hero-text">
+      <h1 class="logo">
+        <span class="globe">{{ui globe}}</span>
+        <span class="words"><span class="word">Little Worlds</span><span class="sr-only">:</span> <span class="ribbon">Stickers</span></span>
+      </h1>
+      <p class="tagline">Sticker worlds that come&nbsp;alive</p>
+      <p class="lead">A calm, creative sticker app for young kids. Drag stickers into seven hand-drawn worlds, then tap them to see what they do.</p>
+      <div class="get-row">
+        {{badge hero}}
+        <span class="devices">For iPhone and&nbsp;iPad</span>
+      </div>
+    </div>
+
+    <div class="hero-scene">
+      <div class="card scene-card">
+        <div class="card-in scene" data-stage role="group" aria-label="{{hero label}}">
+          {{hero scene}}
+        </div>
+        <svg class="peel" viewBox="0 0 60 60" aria-hidden="true"><path d="M8 4 C30 8 50 28 56 52 C44 40 30 34 14 34 C10 24 8 14 8 4 Z" fill="#FFFFFF" class="o" stroke-width="3"/><path d="M16 12 C28 16 40 26 46 38" fill="none" stroke="#E3EEF6" stroke-width="3" stroke-linecap="round"/></svg>
+        {{hero badge}}
+        <button type="button" class="round-btn sound" data-sound-toggle aria-pressed="true"><span class="icon">{{ui speaker}}</span><span class="sr-only" data-label>Sound on</span></button>
+      </div>
+      <p class="hint" data-hint><span>{{hero hint}}</span></p>
+    </div>
+  </div>
+
+  <svg class="hills" viewBox="0 0 1600 220" preserveAspectRatio="none" aria-hidden="true">
+    <path d="M-20 110 C220 20 420 40 640 100 C860 20 1100 10 1300 80 C1440 40 1540 40 1620 60 L1620 240 L-20 240 Z" fill="#B7E58E" class="o" stroke-width="5" vector-effect="non-scaling-stroke"/>
+    <path d="M-20 180 C300 140 640 155 900 175 C1180 195 1420 150 1620 165 L1620 240 L-20 240 Z" fill="#8BD46A" class="o" stroke-width="5" vector-effect="non-scaling-stroke"/>
+  </svg>
+</header>
+
+<main id="main">
+  <section class="worlds" aria-labelledby="worlds-title">
+    <div class="wrap center">
+      <h2 class="title" id="worlds-title">Seven little worlds</h2>
+      <p class="sub">Farm, Playground, Beach, Zoo, Construction, Space, and a friendly Halloween night. Every world has 14&nbsp;stickers to play with and 2&nbsp;prizes to win.</p>
+    </div>
+    <ul class="world-list">
+      {{worlds}}
+    </ul>
+    <p class="swipe" aria-hidden="true">Swipe to see all seven</p>
+  </section>
+
+  <section class="play" aria-labelledby="play-title">
+    <svg class="edge" viewBox="0 0 1600 60" preserveAspectRatio="none" aria-hidden="true"><path d="M0 0 L1600 0 L1600 22 C1500 50 1380 52 1280 30 C1160 6 1050 8 940 34 C820 60 700 58 580 32 C470 8 360 6 250 30 C160 50 70 50 0 30 Z" fill="#8BD46A"/><path d="M1600 22 C1500 50 1380 52 1280 30 C1160 6 1050 8 940 34 C820 60 700 58 580 32 C470 8 360 6 250 30 C160 50 70 50 0 30" fill="none" class="o" stroke-width="5" vector-effect="non-scaling-stroke"/></svg>
+    <div class="wrap play-grid">
+      <div class="play-text">
+        <h2 class="title" id="play-title">Tap a sticker, watch it play</h2>
+        <p>Every sticker moves and makes a sound. The hen lays an egg that hatches. The puppy fetches the ball. The rocket blasts off and lands again. These are the real stickers from the app: give them a tap.</p>
+        <ul class="facts">
+          <li><b>Nearly 100 stickers,</b> and every one moves and makes a sound</li>
+          <li><b>Pinch</b> to make stickers big or small, <b>twist</b> to turn them, and drag them back to the shelf to put them away</li>
+          <li><b>Stickers play together:</b> animals eat, dogs bark, cranes lift, monkeys munch bananas</li>
+          <li><b>Soft background sounds,</b> and the sun and moon turn day into night</li>
+          <li><b>Every world remembers</b> your child’s picture for next time</li>
+        </ul>
+      </div>
+      <div class="sheet" data-stage>
+        <div class="sheet-head">
+          <p class="sheet-label">Real stickers. Tap them!</p>
+          <button type="button" class="pill-btn" data-sound-toggle aria-pressed="true"><span class="icon">{{ui speaker}}</span><span data-label>Sound on</span></button>
+        </div>
+        <div class="sheet-grid" role="group" aria-label="Stickers to try">
+          {{sticker farm-chicken}}
+          {{sticker halloween-pumpkin}}
+          {{sticker space-rocket}}
+          {{sticker farm-cow}}
+          {{sticker halloween-ghost}}
+          {{sticker beach-crab}}
+          {{sticker playground-dog}}
+          {{sticker construction-excavator}}
+          {{sticker space-alien}}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="challenges" aria-labelledby="ch-title">
+    <div class="wrap ch-grid">
+      <div class="ch-text">
+        <h2 class="title" id="ch-title">Challenges for bigger kids</h2>
+        <p>Tap the star in any world for “Can you…?” challenges, read aloud by a friendly recorded voice. Finish a round of 10 to win a prize sticker.</p>
+        <p>Challenges are optional and the words always stay on screen. Little ones can skip them and just play.</p>
+      </div>
+      <div class="demo-wrap">
+        <div class="card demo" id="demo">
+          <div class="card-in demo-in" data-stage>
+            <img class="scenery" src="/img/worlds/zoo.svg" alt="" width="1600" height="1000" loading="lazy" decoding="async">
+            <div class="mission" aria-live="polite">
+              <span class="m-star">{{ui star}}</span>
+              <span class="m-text" data-m-text>Make the lion ROAR!</span>
+              <button type="button" class="m-say" data-m-say aria-label="Read the challenge aloud">{{ui speaker}}</button>
+              <span class="m-count"><span data-m-count>8</span>/10</span>
+            </div>
+            <div class="demo-stickers" role="group" aria-label="Zoo stickers">
+              {{sticker zoo-parrot}}
+              {{sticker zoo-lion}}
+              {{sticker zoo-hippo flip}}
+            </div>
+            <div class="prize-pop" data-prize hidden>{{sticker zoo-tiger}}</div>
+          </div>
+        </div>
+        <p class="demo-note">Try the last three challenges of a round.<button type="button" class="link-btn" data-demo-reset hidden>Play again</button></p>
+      </div>
+    </div>
+    <div class="wrap center prizes-wrap">
+      <h3 class="title small">Prize stickers to win</h3>
+      <ul class="prizes" role="list">
+        <li>{{sticker farm-golden-chicken}}</li>
+        <li>{{sticker beach-whale}}</li>
+        <li>{{sticker construction-monster-truck}}</li>
+        <li>{{sticker space-mothership}}</li>
+        <li>{{sticker halloween-coach}}</li>
+        <li>{{sticker playground-carousel}}</li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="grownups" id="grown-ups" aria-labelledby="gu-title">
+    <div class="wrap center">
+      <h2 class="title" id="gu-title">For grown-ups</h2>
+      <p class="sub">Calm, safe screen time, made by a dad for his two little sticker&nbsp;fans.</p>
+    </div>
+    <div class="wrap gu-grid">
+      <ul class="promises" role="list">
+        <li><b>Free, with no ads.</b> Not now, not ever.</li>
+        <li><b>No in-app purchases.</b> Every world is included.</li>
+        <li><b>No tracking or analytics.</b> Nothing leaves the device.</li>
+        <li><b>No accounts</b> and nothing to sign in to.</li>
+        <li><b>Works offline,</b> in the car, on a plane, anywhere.</li>
+        <li><b>Built for Apple’s Kids category,</b> with no links out of the app.</li>
+      </ul>
+      <div class="card gate">
+        <div class="gate-in">
+          <span class="gear">{{ui gear}}</span>
+          <h3>Grown-up settings stay grown-up</h3>
+          <p>Press and hold the gear for about a second to turn sounds, the voice, challenges and vibration on or off, or start fresh. A quick tap only shows a hint, so little fingers can’t wander in.</p>
+          <p class="gate-privacy">The app collects nothing. Read the <a href="/privacy">privacy policy</a>.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="get" aria-labelledby="get-title">
+    <div class="sky" aria-hidden="true">
+      <span class="cloud c4">{{ui cloud}}</span>
+      <span class="cloud c5">{{ui cloud}}</span>
+    </div>
+    <div class="wrap center get-in">
+      <h2 class="title" id="get-title">Make a little world</h2>
+      <p class="sub">Free on the App Store. No ads, no in-app purchases.</p>
+      <div class="get-row">
+        {{badge footer}}
+        <span class="devices">For iPhone and&nbsp;iPad</span>
+      </div>
+      <p class="contact">Questions, ideas or a bug to report? Write to <a href="mailto:{{site email}}">{{site email}}</a>.</p>
+    </div>
+    <div class="get-stickers" data-stage role="group" aria-label="More stickers">
+      {{sticker farm-bunny}}
+      {{sticker zoo-penguin}}
+      {{sticker space-astronaut}}
+      {{sticker halloween-cat flip}}
+      {{sticker beach-starfish}}
+    </div>
+    <svg class="hills" viewBox="0 0 1600 140" preserveAspectRatio="none" aria-hidden="true">
+      <path d="M-20 60 C300 10 640 20 900 45 C1180 70 1420 20 1620 35 L1620 160 L-20 160 Z" fill="#8BD46A" class="o" stroke-width="5" vector-effect="non-scaling-stroke"/>
+    </svg>
+  </section>
+</main>
+
+{{> footer}}
+
+<div id="sticker-live" class="sr-only" aria-live="polite"></div>
+<script type="application/json" id="demo-data">{
+  "steps": [
+    { "id": "zoo-lion", "text": "Make the lion ROAR!", "voice": "{{voice "Make the lion ROAR!"}}" },
+    { "id": "zoo-hippo", "text": "Make the hippo yawn!", "voice": "{{voice "Make the hippo yawn!"}}" },
+    { "id": "zoo-parrot", "text": "Make the parrot say hello!", "voice": "{{voice "Make the parrot say hello!"}}" }
+  ],
+  "cheers": [
+    { "text": "Great job!", "voice": "{{voice "Great job!"}}" },
+    { "text": "Hooray!", "voice": "{{voice "Hooray!"}}" }
+  ],
+  "prize": { "text": "You won the Tiger!", "voice": "{{voice "You won the Tiger!"}}" },
+  "success": "{{sfx ui-success}}",
+  "won": "{{sfx ui-prize}}"
+}</script>
+{{sticker-data}}
+<script src="{{v /js/stickers.js}}" defer></script>
+<script src="{{v /js/site.js}}" defer></script>
+</body>
+</html>

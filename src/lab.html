@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sticker lab</title>
+<link rel="stylesheet" href="/css/site.css">
+<style>
+  body { background: #FFFDF7; padding: 20px; }
+  .lab { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 40px 16px; padding-top: 40px; }
+  figure { margin: 0; text-align: center; font: 500 11px/1.3 system-ui; color: #4A3426; }
+  figure .stk { width: 120px; margin: 0 auto 6px; }
+</style>
+</head>
+<body>
+<div id="sticker-live" class="sr-only" aria-live="polite"></div>
+<div class="lab" data-stage>{{cells}}</div>
+{{sticker-data}}
+<script src="/js/stickers.js"></script>
+</body>
+</html>
