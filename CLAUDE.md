@@ -6,9 +6,8 @@ DNS, money. Design and build details are judgment calls. A push to `main` deploy
 
 **Don't deploy news early.** The "What's new" page (`src/whats-new.html`) gets an entry for every app release, and
 an entry may only go live once that version is on the App Store. Work on a branch; merge to `main` and push when
-the update is out. As of Oct 12, 2026 the `whats-new` branch holds the page itself, the footer link and the
-"Say sticker names" line in the grown-up section, waiting for app version 2.1.0. If the Nov 1 seasonal rebuild
-comes first, do it on `main` without this branch.
+the update is out. (The page itself and the 2.1 entry went live on Oct 12, 2026 while 2.1.0 was in App Review:
+Chris's call that day, since review is usually quick. That was his exception to make; the rule stands.)
 
 ## How the stickers work
 
