@@ -1,6 +1,6 @@
 # littleworlds.io
 
-The website for **Little Worlds: Stickers** (iPhone and iPad): one page plus the privacy policy. Plain static
+The website for **Little Worlds: Stickers** (iPhone and iPad): one page plus "What's new" and the privacy policy. Plain static
 HTML, CSS and a little JavaScript, built from the app's own vector art, so the stickers on the page are the real ones
 and play their real reactions when tapped. No cookies, ads or trackers. The one outside script is Cloudflare Web Analytics (cookieless visit counts),
 which the privacy policy names.
@@ -29,6 +29,15 @@ npm run serve
 
 Only `npm run build` is needed for copy or design changes. `npm run art` and `npm run assets` read the app repo
 (`../little-worlds`, or set `APP_REPO`), so run them when the app's stickers, scenery, sounds or icon change.
+
+## What's new (every app release)
+
+`src/whats-new.html` (served at `/whats-new`, linked from the footer) lists the app's updates for parents: one
+short entry per release with the month and year, newest first. It is one of the three places every app release
+updates (the release rule in the app repo's CLAUDE.md; the other two are the in-app "What's new" card and the App
+Store text). **An entry goes live only after that version is on the App Store**: write it on a branch and merge
+and push when the update is out (check with the lookup command in the app repo's docs/listing.md, and check the
+entry's month is still right). Say what a feature does; no health or therapy claims.
 
 ## Seasons
 

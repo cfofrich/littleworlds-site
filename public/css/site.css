@@ -1430,6 +1430,35 @@ svg .o {
   font-weight: 700;
 }
 
+/* what's new: one entry per app update, newest first */
+.doc .entry {
+  margin-top: 2em;
+  padding-top: 1.7em;
+  border-top: 3px dashed var(--sky);
+}
+.doc .entry h2 {
+  margin-top: 0.5em;
+}
+.doc .when {
+  display: inline-block;
+  margin: 0;
+  padding: 1px 13px;
+  font-size: 0.9em;
+  font-weight: 700;
+  background: var(--sun);
+  border: 2.5px solid var(--ink);
+  border-radius: 999px;
+}
+.doc .when span {
+  margin-left: 0.5em;
+  padding-left: 0.6em;
+  font-weight: 500;
+  border-left: 2px solid var(--ink);
+}
+.doc .thanks {
+  font-weight: 600;
+}
+
 .lost {
   width: min(100% - 2 * var(--gutter), 640px);
   margin: 20px auto 80px;

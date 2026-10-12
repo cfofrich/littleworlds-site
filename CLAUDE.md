@@ -4,6 +4,12 @@ The website for the Little Worlds: Stickers app (`~/repos/little-worlds`; its `d
 its CLAUDE.md explains the art). Read README.md first. Chris decides anything public: pushing, Cloudflare,
 DNS, money. Design and build details are judgment calls. A push to `main` deploys (see README, Deploy).
 
+**Don't deploy news early.** The "What's new" page (`src/whats-new.html`) gets an entry for every app release, and
+an entry may only go live once that version is on the App Store. Work on a branch; merge to `main` and push when
+the update is out. As of Oct 12, 2026 the `whats-new` branch holds the page itself, the footer link and the
+"Say sticker names" line in the grown-up section, waiting for app version 2.1.0. If the Nov 1 seasonal rebuild
+comes first, do it on `main` without this branch.
+
 ## How the stickers work
 
 - `tools/load-app.cjs` runs the app's TypeScript in Node (TypeScript's transpiler, React Native/Reanimated/Expo

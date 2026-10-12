@@ -2,3 +2,6 @@
 /privacy-policy.html  /privacy  301
 /privacy-policy       /privacy  301
 /privacy/             /privacy  301
+# the What's new page
+/whats-new/           /whats-new  301
+/whatsnew             /whats-new  301
